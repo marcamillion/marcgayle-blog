@@ -1,0 +1,38 @@
+---
+layout: post
+title: IE 8 Filter Style + Heroku Rake Asset Pre-Compile Error
+date: 2013-01-21 19:47:00.000000000 -05:00
+comments: true
+categories: []
+published: true
+---
+
+<div>If you are getting an error that looks like this:</div>
+<div>
+<div class="CodeRay">
+  <div class="code"><pre>could not connect to server: Connection refused Is the server running on host "127.0.0.1" and accepting TCP/IP connections on port xxxx?</pre></div>
+</div>
+
+</div>
+<div>...when pushing your Rails 3.2+ app to Heroku, there could be two problems at play. </div>
+<div>If that is all that you are seeing, then it likely means that Heroku is trying to initialize your app when it does `rake asset:precompile`. The issue is that there is no DB configured in a `non-initialized` state, so Heroku throws a fit. </div>
+<div>To fix that, they have a nice <a href="https://devcenter.heroku.com/articles/rails3x-asset-pipeline-cedar#troubleshooting">guide here</a> (which basically involves just adding 1 line to your `config/application.rb` file).</div>
+<div>However, if you are seeing something like this:</div>
+<div>
+<div class="CodeRay">
+  <div class="code"><pre>Running: rake assets:precompile
+      rake aborted!
+      Invalid CSS after "...: alpha(opacity": expected comma, was ":0);"
+      (in /tmp/build_1lypjy898u7o0/app/assets/stylesheets/application.css.scss)     (sass):3665</pre></div>
+</div>
+
+<div>Then it is very likely that you have another issue.</div>
+<div>Apparently, the common css style rule that is used to apply an opacity filter to CSS objects in IE8 and below is illegal syntax.</div>
+<div>Meaning that: `filter: alpha(opacity:0);` is an illegal CSS rule. As a result of that, SASS throws an error when it's parser comes across these rules - which causes the entire precompile process to fail.</div>
+<div>It is apparently a <a href="https://github.com/rails/sass-rails/issues/37">problem discussed and addressed</a> in Rails before, but given that it is a SASS issue - and also that it involves illegal CSS syntax - the Rails maintainers have decided not to do anything to allow this call (understandably so).</div>
+<div>So...the simple fix is to comment out all occurrences of that call in your stylesheets. IE9 allows the regular, `opacity: 0;`, I believe - so you should be fine for all browsers in the future.</div>
+<div>An easy way to test this further, locally, is just to create a new git branch and run 'rake asset:precompile'. You will see the errors it generates locally and you can work your way through it like that.</div>
+<div>However, I went through many different solutions and commenting them out - turned out to be the easiest.</div>
+</div>
+<div>Let me know if you come up with any other solutions.</div>
+<div><em>You should follow me on <a href="http://twitter.com/marcgayle">Twitter here</a>.</em></div>

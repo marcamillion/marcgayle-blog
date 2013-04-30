@@ -1,0 +1,49 @@
+---
+layout: post
+title: ! 'A legal botnet - Billion $$ Startup Idea ? '
+date: 2010-01-08 12:27:44.000000000 -05:00
+comments: true
+categories:
+- Startup
+- Startup Idea
+- Technology
+published: true
+---
+Idea: Content Delivery Network powered by 'opted-in' desktops - i.e. a legal botnet CDN.
+
+This post was inspired by <a href="http://news.ycombinator.com/item?id=1033938" target="_blank">this comment on Hacker News</a>.
+
+Explanation: CDNs now, are traditionally powered by data centers scattered all over the globe - that in many cases have edge networks where blade servers cache the most frequently requested content (i.e. content requested in the last 15-minutes). The good thing about this model, as opposed to downloading from a centralized server, is when you request content you can be downloading from the closest server to you - which results in faster download times.
+
+The problem is that CDNs nowadays are still only able to have a handful of these datacenters all over the world. Some people estimate that Amazon (the great Amazon) only has data centers in <a href="http://www.datacenterknowledge.com/archives/2008/11/18/where-amazons-data-centers-are-located/" title="Data Center Knowledge - Amazon Data Center Locations" target="_blank">approximately 14 cities</a>. I know that many CDNs have arrangements with major ISPs to house local edge servers, so users that belong to those ISPs can get access to those data much quicker. That is a step in the right direction, in terms of reducing total amount of network hops to the source file, but can't match the distribution network of an illegal P2P service.
+
+Suppose when you wanted to download a large file, though, you could download it from everybody in your neighborhood - at the same time. This drastically changes the equation. That's what P2P networks and clients kind of allow you to do. Even some games allow you to search for the closest server (hosted by an individual) to your IP.
+
+So, back to the billion $$ idea. If you were able to create a CDN that distributed content (you would have to determine whether or not the content would be encrypted and the trade-offs therein) to a major network of peers all over the world. Think of a legal <a href="http://en.wikipedia.org/wiki/Botnet" title="Botnet - Wikipedia" target="_blank">botnet</a>. Not a spyware botnet, where users are tricked into installing 'Anti-virus 2010', but a network that people register to join and are paid per GB of disk storage and bandwidth used.
+
+Let's look at some math.
+
+From the company's perspective - using Amazon's price sheet as benchmark (as of Jan 8, 2010):
+<ul>
+<li>Charge $0.15/GB for storage</li>
+	<li>Charge $0.17/GB for bandwidth</li>
+</ul>
+For calculations sake, we are only going to use these figures. The calculations can also be applied to a graduated scale of bandwidth used and storage consumed - for the user.
+<ul>
+<li>Pay a peer $0.01/GB for storage</li>
+	<li>Pay a peer $0.02/GB for bandwidth</li>
+</ul>
+<br><iframe scrolling="no" src="http://sheet.zoho.com/publish/marcamillion/cdn-worksheet" frameborder="0" height="400" width="500"> </iframe>
+
+<br>
+The main issues we can see with this model are that for the lower allocations of disk space - provided by the user - and slower internet pipes, the user takes home a pittance (approximately $4.83 for a 1mbit connection with 50GB storage space).  However, for more powerful connections with higher quantities of space, a user can be more than doubling or tripling the cost of their internet connection every month (<a href="http://marcgayle.com/2009/10/29/is-government-fiber-really-good-for-your-health/" title="$50 for 50mbit" target="_blank">with prices falling so rapidly, especially in the US</a>). With a 50mbit connection, and 50GB storage, a user can be taking home approximately $220 per month. Assuming 50mbit will be $50 throughout the US, following the <a href="http://marcgayle.com/2009/10/29/is-government-fiber-really-good-for-your-health/" target="_blank">lead of a town in Minneapolis</a>, they have quadrupled the cost of their broadband connection - assuming the CDN uses their connection for the amount of time they allocate it for (and also assuming their computer is left running 24x7).
+
+Note: The Discount Factor in the spreadsheet model above is used to reflect the amount of time the user will allow the CDN to use their computer and bandwidth. So a 0.70 discount factor means that 70% of the time the CDN will have access to the users computer and bandwidth.
+
+Just to do a quick comparison to the large CDNs (in terms of their cost structure), here is something to think about. As far as I can tell, the largest line item expenses that the 'non-fibre-owning CDNs' have is the cost of bandwidth. Looking at Limelight Networks (<a href="http://www.google.com/finance?q=NASDAQ:LLNW&amp;fstype=ii" title="Limelight Networks " target="_blank">LLNW</a>), we see that their Cost of Revenue was approximately 64%. An unscientific comparison with the above model highlighted, shows our Cost of Revenue being 6.7% for storage, and 11.8% for bandwidth = approximately 18.5% of Revenues. Even if our model inputs were doubled ($0.02 for storage, $0.04 for bandwidth) cost of revenues would be approximately 37% (i.e. 50% lower than the traditional CDN).
+
+The CDN business is a multi-billion dollar business. With a model like this, scaling becomes more of a software problem - than a hardware problem - which is a beautiful place to be. You scale on the backs of ISPs and users are responsible for maintaining their machines. It's Google's Adsense business model implemented as a CDN - in short.
+
+Please feel free to tinker with the numbers, and leave comments for how I can improve the model.
+
+Disclaimer: This post assumes a number of variables, all of which are not fully fleshed out - due to the difficulty in fully conveying the complete picture in a simple blog post.
