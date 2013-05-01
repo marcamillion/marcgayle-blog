@@ -4,7 +4,7 @@
 
 url: http://marcamillion.github.com/marcgayle-blog
 title: The Blog of Marc Gayle
-subtitle: Beware: Everything is 100% unadulturated opinion.
+subtitle: Beware - Everything is 100% unadulturated opinion.
 author: Marc Gayle
 simple_search: http://google.com/search
 description: I create web applications. First for myself and now for others. I will build you a web application in the form of an MVP for just $5K.
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /marcgayle-blog
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public/marcgayle-blog
 plugins: plugins
@@ -60,7 +60,7 @@ default_asides: [asides/recent_posts.html, asides/github.html]
 
 # Github repositories
 github_user: marcamillion
-github_repo_count: 0
+github_repo_count: 4
 github_show_profile_link: true
 github_skip_forks: true
 
