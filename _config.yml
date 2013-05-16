@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://marcgayle.com
+url: http://marcamillion.github.io/marcgayle-blog/
 title: The Blog of Marc Gayle
 subtitle: Beware - Everything is 100% unadulturated opinion.
 author: Marc Gayle
@@ -26,7 +26,8 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: {{ site.baseurl }}
+# root: {{ site.baseurl }}
+root: /
 permalink: /:year/:month/:day/:title/
 source: source
 destination: public
