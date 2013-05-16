@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://marcamillion.github.com/marcgayle-blog
+url: http://marcgayle.com
 title: The Blog of Marc Gayle
 subtitle: Beware - Everything is 100% unadulturated opinion.
 author: Marc Gayle
@@ -16,7 +16,7 @@ description: I create web applications. First for myself and now for others. I w
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /marcgayle-blog/atom.xml
+subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
