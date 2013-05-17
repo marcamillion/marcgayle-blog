@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Google | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/google/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Google indexes hundreds of thousands of Gigabytes per day]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day/"/>
+    <updated>2010-06-09T03:47:01-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day</id>
+    <content type="html"><![CDATA[<p>Google just announced that they have rolled out a new indexing system for their search engine, called Caffeine.</p>
+
+<p>Here are some interesting quotes:</p>
+
+<blockquote>Some background for those of you who don't build search engines for a living like us: when you search Google, you're not searching the live web. Instead you're searching Google's index of the web which, like the list in the back of a book, helps you pinpoint exactly the information you need. (Here's a <a href="http://www.google.com/howgoogleworks/">good explanation</a> of how it all works.)</blockquote>
+
+
+<p>What's even more intriguing is the amount of data they process:</p>
+
+<blockquote class="posterous_medium_quote">Caffeine lets us index web pages on an enormous scale. In fact, every second Caffeine processes hundreds of thousands of pages in parallel. If this were a pile of paper it would grow three miles taller every second. Caffeine takes up nearly 100 million gigabytes of storage in one database and adds new information at a rate of hundreds of thousands of gigabytes per day. You would need 625,000 of the largest iPods to store that much information; if these were stacked end-to-end they would go for more than 40 miles.</blockquote>
+
+
+<p>I can't even fathom that amount of data.</p>
+
+<p>To read the official Google announcement, check it out <a href="http://googleblog.blogspot.com/2010/06/our-new-search-index-caffeine.html" target="_blank">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What can Google hold in RAM?]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2009/10/28/what-can-google-hold-in-ram/"/>
+    <updated>2009-10-28T22:15:20-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2009/10/28/what-can-google-hold-in-ram</id>
+    <content type="html"><![CDATA[<p>For those that might not know, RAM = Random Access Memory. This is the memory that a computer uses to temporarily store data while it is in use. If you have bought a computer recently, or are familiar with the specifications on your computer, you will notice that it will be anywhere from 512MB to 4-6GB. Your hard drive capacity (which is the other GB rating on your computer) is usually much larger. Say 250GB, even up to 2,000 GB (2 Tera Bytes) in some cases.</p>
+
+<p>[caption id="" align="aligncenter" width="430" caption="Taken by DailyInvention (Flickr)"]<div class="p_embed p_image_embed">
+<img alt="Media_httpfarm1static_qqene" height="331" src="http://marcamillion.github.com/marcgayle-blog/images/2009/10/28/what-can-google-hold-in-ram/11605947-media_httpfarm1static_qqEnE.jpg" width="500">
+</div>
+[/caption]</p>
+]]></content>
+  </entry>
+  
+</feed>

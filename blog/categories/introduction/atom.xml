@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: introduction | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/introduction/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world!]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2009/03/24/hello-world/"/>
+    <updated>2009-03-24T18:00:18-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2009/03/24/hello-world</id>
+    <content type="html"><![CDATA[<p>With the economy crumbling around us, the world going crazy, everybody blaming anybody else, this is my way of trying to make sense of it all.</p>
+
+<p>Sometimes there will be links, sometimes there will be analysis, and other times the occassional rant. All the time though, they will either be my thoughts - or on my thoughts.</p>
+
+<p>You can also feel free to follow me on twitter <a href="http://twitter.com/marcgayle" title="@marcgayle" target="_blank">@marcgayle</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

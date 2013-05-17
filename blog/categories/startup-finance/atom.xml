@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category:  startup finance  | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/startup-finance/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A notepad in HTML & CSS only]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only/"/>
+    <updated>2010-09-27T18:19:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only</id>
+    <content type="html"><![CDATA[<p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
+
+
+<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Notepad" height="493" src="http://marcamillion.github.com/marcgayle-blog/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
+</div>
+
+
+
+
+<p>The notepad was designed by the wonderful <a href="http://www.andreeblixt.com/" title="Andree Blixt" target="_blank" style="color: #5f5f5f;">Andree Blixt</a>.</p>
+
+
+<p>To see an online demo, check it out <a href="http://compversions.com/notepad/" title="Notepad in HTML &amp; CSS" target="_blank" style="color: #5f5f5f;">here</a>. It is released under the MIT license, so do what you want with it. The only thing I ask is for attribution. Also, please feel free to suggest updates/tweaks/enhancements especially to show multiple pages and adding jQuery animation if you would like (either in the comments or <a href="mailto:%20marc@compversions.com" style="color: #5f5f5f;">emailing me</a> directly).</p>
+
+
+<p>To get the files, download them from github <a href="http://github.com/marcamillion/Notepad-in-CSS---HTML" title="Download notepad in HTML &amp; CSS" target="_blank" style="color: #5f5f5f;">here</a>. </p>
+
+
+<p>Enjoy :)</p>
+
+]]></content>
+  </entry>
+  
+</feed>

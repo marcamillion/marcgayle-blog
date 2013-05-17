@@ -1,0 +1,277 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>How to change root route behavior in Rails 3 - The Blog of Marc Gayle</title>
+  <meta name="author" content="Marc Gayle">
+
+  
+  <meta name="description" content="These instructions have only been tested with declarative_authorization. So while it may work with other authorization gems, I haven&#8217;t tested &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://marcamillion.github.com/marcgayle-blog/2011/03/14/how-to-have-a-different-root-path-for-loggedi">
+  <link href="/marcgayle-blog/favicon.png" rel="icon">
+  <link href="/marcgayle-blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="The Blog of Marc Gayle" type="application/atom+xml">
+  <script src="/marcgayle-blog/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/marcgayle-blog/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4054156-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/marcgayle-blog/">The Blog of Marc Gayle</a></h1>
+  
+    <h2>Beware - Everything is 100% unadulturated opinion.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:marcamillion.github.com/marcgayle-blog" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/marcgayle-blog/">Blog</a></li>
+  <li><a href="/marcgayle-blog/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">How to Change Root Route Behavior in Rails 3</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-03-14T15:29:00-05:00" pubdate data-updated="true">Mar 14<span>th</span>, 2011</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>These instructions have only been tested with declarative_authorization. So while it may work with other authorization gems, I haven&#8217;t tested it so can&#8217;t verify. </p>
+<p>Say you want your users to see your marketing site (when they try to go to yourapp.com) when they are not logged in, but when they are logged in, you want them to see something different (like the dashboard of your app - which is found by going to your home controller, and index action - &#8216;home#index&#8217;), how do you do this in Rails 3? </p>
+<p><br>If you put an index.html file in your public directory, that takes precedence over everything else. Rails routing doesn&#8217;t even execute when that file is included (as far as I understand it anyway). So, you do it like this: In your routes.rb file, change your root route to the following:</p>
+<p></p>
+<p><a href="https://gist.github.com/869820">https://gist.github.com/869820</a></p>
+<p><br>Rename your &#8216;public/index.html&#8217; file to some other name, e.g. &#8216;public/marketing.html&#8217;. In your home controller, do this:</p>
+<p></p>
+<p><a href="https://gist.github.com/869828">https://gist.github.com/869828</a></p>
+<p>Now, when a user is not logged in, they will be redirected to your static marketing page. But when they are logged in, they will go to your dashboard at home#index. Hope that helps you.</p>
+<p>You should follow me on Twitter here: <a href="http://www.twitter.com/marcgayle.&lt;/p">www.twitter.com/marcgayle.</a></p>&gt;
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Marc Gayle</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2011-03-14T15:29:00-05:00" pubdate data-updated="true">Mar 14<span>th</span>, 2011</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/marcgayle-blog/blog/categories/rails-3/'>rails 3</a>, <a class='category' href='/marcgayle-blog/blog/categories/rails-routes/'>rails routes</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://marcamillion.github.com/marcgayle-blog/2011/03/14/how-to-have-a-different-root-path-for-loggedi/" data-via="marcgayle" data-counturl="http://marcamillion.github.com/marcgayle-blog/2011/03/14/how-to-have-a-different-root-path-for-loggedi/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/marcgayle-blog/2011/03/01/ikea-type-furniture-focused-on-comfort-non-te/" title="Previous Post: Ikea type furniture focused on comfort (Non-Tech Startup Idea)">&laquo; Ikea type furniture focused on comfort (Non-Tech Startup Idea)</a>
+      
+      
+        <a class="basic-alignment right" href="/marcgayle-blog/2011/04/11/the-yc-dilemma-thoughts-about-yc-reject/" title="Next Post: The YC Dilemma - thoughts about YC Reject">The YC Dilemma - thoughts about YC Reject &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/marcgayle-blog/2013/03/02/avoiding-market-failure-should-be-your-only-f/">Avoiding market failure should be your only focus</a>
+      </li>
+    
+      <li class="post">
+        <a href="/marcgayle-blog/2013/01/22/how-a-20-mvp-has-made-me-x0000/">How a $20 MVP has made me $X0,000</a>
+      </li>
+    
+      <li class="post">
+        <a href="/marcgayle-blog/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi/">IE 8 Filter Style + Heroku Rake Asset Pre-Compile Error</a>
+      </li>
+    
+      <li class="post">
+        <a href="/marcgayle-blog/2012/12/20/the-caribbean-tech-industry-should-learn-from/">Wanted for the Caribbean: Digital Craftsmen.</a>
+      </li>
+    
+      <li class="post">
+        <a href="/marcgayle-blog/2012/08/31/empathy-for-the-other-side/">Empathy for the "other" side</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/marcamillion">@marcamillion</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'marcamillion',
+            count: 4,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/marcgayle-blog/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Marc Gayle -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

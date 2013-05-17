@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: book review | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/book-review/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Know when to change tables - by Tony Hsieh (CEO of Zappos)]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/22/know-when-to-change-tables-by-tony-hsieh-ceo-of-zappos/"/>
+    <updated>2010-06-22T01:46:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/22/know-when-to-change-tables-by-tony-hsieh-ceo-of-zappos</id>
+    <content type="html"><![CDATA[<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Media_httpfarm3static_mayii" height="375" src="http://marcamillion.github.com/marcgayle-blog/images/2010/06/22/know-when-to-change-tables-by-tony-hsieh-ceo-of-zappos/11605730-media_httpfarm3static_mAyIi.jpg" width="500">
+</div>
+
+
+<p>Although Kenny Rogers gave us '<a href="http://www.youtube.com/watch?v=kn481KcjvMo&amp;feature=related" title="Kenny Rogers - The Gambler" target="_blank">The Gambler</a>' (YouTube) where he teaches us about when to 'hold em, or fold em' (the hand of life, ostensibly).  <a href="http://en.wikipedia.org/wiki/Tony_Hsieh" title="Tony Hsieh" target="_blank">Tony Hsieh</a>, of <a href="http://zappos.com" title="Zappos" target="_blank">Zappos</a> fame, has given us another wonderful poker metaphor. Know when to change tables.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: genera | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/genera/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Google Job Experiment]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/13/the-google-job-experiment/"/>
+    <updated>2010-05-13T03:00:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/13/the-google-job-experiment</id>
+    <content type="html"><![CDATA[<p>This is pretty ingenius.  If I were hiring a creative guy, I would definitely hire this guy. </p>
+
+
+<p><iframe src="http://www.youtube.com/embed/7FRwCs99DWg?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+
+]]></content>
+  </entry>
+  
+</feed>

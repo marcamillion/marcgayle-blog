@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rant | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/rant/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Fail early, fail fast explained]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/03/fail-early-fail-fast-explained/"/>
+    <updated>2010-06-03T23:41:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/03/fail-early-fail-fast-explained</id>
+    <content type="html"><![CDATA[<p>Many people misunderstand the true meaning behind 'fail early, fail fast'. The most 'high-profile' of which is <a href="http://37signals.com/svn/posts/1643-failure-is-overrated-a-redux" title="Failure is overated" target="_blank">Jason Fried</a> and our friends at <a href="http://37signals.com/svn/posts/2059-podcast-episode-4-jason-frieds-speech-at-big-omaha-2009" title="37 Signals Podcast discussing fail early fail often" target="_blank">37Signals</a>.</p>
+
+
+<p>Fail early, fail fast isn't encouraging you to fail. It's encouraging you to act/move/start.</p>
+
+
+<p>Read the phrase again, with emphasis: fail <strong>early</strong>, fail <strong>fast</strong>.</p>
+
+
+<p>The idea behind the saying is, just do something. It's easy to get trapped in a 'secure' situation. Whether that is a 'stable/cushy' job, or using a product that is OK. It's this inertia that kills innovation. It's fear of the unknown or fear of the failure that also dis-incentivizes people from striking out and making that killer product they have always envisioned, or recorded that song they have written, or sold that painting they have stashed away in their basement.</p>
+
+
+<p>People get accustomed to procrastinating and delaying that they don't attempt to do what they say they want to do.</p>
+
+
+<p>The phrase 'fail early, fail fast' is attempting to take the sting out of the fear of failing - by using the terms 'early' &amp; 'fast'. Makes it sound 'quick' and 'painless'. Ever been to a doctor to get an injection?</p>
+
+
+<p>'It will feel like a mosquito bite' is what I am always told.</p>
+
+
+<p>It's kinda like that - especially since creating a new product is so hard, the last thing a creator needs is the fear of failure hanging over their heads (although, to be fair that fear can be a good motivator).</p>
+
+
+<p>I am not advocating failure, but anything that removes one more psychological barrier for inventors can only be good for society.</p>
+
+
+<p>So, go ahead and fail as quickly as you can. Pick yourself up, and try again.</p>
+
+
+<p><em>Editor's Note: Please note that I am not encouraging people to strike out in an attempt to fail. Simply to not be afraid of failing - if that wasn't clear enough in the post.</em></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Stop bashing MBAs!]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/12/stop-bashing-mbas/"/>
+    <updated>2010-05-12T02:26:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/12/stop-bashing-mbas</id>
+    <content type="html"><![CDATA[<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Stop-bashing-mbas" height="353" src="http://marcamillion.github.com/marcgayle-blog/images/2010/05/12/stop-bashing-mbas/16961044-stop-bashing-mbas.jpg" width="500">
+</div>
+
+
+<p>I am sick, and tired, of <a href="http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2334" target="_blank" style="color: #5f5f5f;">hearing the</a> <a href="" target="_blank" style="color: #5f5f5f;">constant</a> <a href="http://davidcancel.com/advice-for-recent-mba-grads/" target="_blank" style="color: #5f5f5f;">bashing</a> <a href="http://37signals.com/svn/posts/1112-the-mba-myth" target="_blank" style="color: #5f5f5f;">of MBAs</a> (on that last link, see the comments of the post…not so much the post itself).</p>
+
+<p>Yes, I get it. Many folks with MBAs did leave their ‘Ivy League’ school for outrageously high paying jobs in finance on Wall Street and ostensibly cause the financial crisis of 2008. Yes, I get that many of them actually invented the <a href="http://en.wikipedia.org/wiki/Collateralized_debt_obligation" title="Collaterized Debt Obligations" target="_blank" style="color: #5f5f5f;">CDO</a>s that were at the heart of the melt down.</p>
+
+
+<p>Yes, I get that some MBAs leave school with a superiority complex and tend to abuse their privileged positions of management – by either being incompetent or abusive or worse both.</p>
+
+
+<p>Yes, I get that many created dot-bombs in the 90s with the expressed purpose of just raising money in the boom boom days, and hiring ‘lowly developers’ to create their star product and go public.</p>
+
+
+<p>Yes, I get that many VCs and finance guys have MBAs and have become the scorn of the entrepreneur. Yes, I get that VCs have abused their power which bred resentment.</p>
+
+
+<p>I get all of that.</p>
+
+
+<p>But when did wrong begett wrong? When did it become acceptable to paint with a broad brush and label all MBAs as the cliche’d stereotype?</p>
+
+
+<p>It is very disappointing to see many people, within the tech industry, that I have previously looked up to make such a mistake as generalizing.</p>
+
+
+<p>Saying that MBAs are not a good fit for startups, is like saying that doctors, lawyers, teachers are not good for startups. What rubbish is that?</p>
+
+
+<p>I am a geek, by almost any standard, but I also love business. After completing my CS degree, I decided to go to Business School because I figured it couldn’t hurt. Guess what, it turned out to be the best decision of my life.</p>
+
+
+<p>Separate and apart from the core business analytical skills it taught me – i.e. statistics, how to read company financials in &amp; out, the fundaments of economics (micro and macro), etc. – more importantly it taught me what it is like to work in teams, constantly. Many times under severe pressure with looming deadlines and a ridiculous amount of work. It taught me how to deal with that nimrod on my team that doesn’t know how to communicate and how to do simple tasks that any high school grad should be able to do. It taught me how to step up to the plate when there is a leadership vacuum and everyone else on the team is afraid (including myself) of the large task ahead. It taught me how to step back when there are too many leaders and know when to follow when someone is better fit in a situation than I am.</p>
+
+
+<p>It taught me how to encourage strengths and replace weakness on a team. It taught me how keep track of key milestones, deliverables and the likes, to get to a key goal on time. It taught me how to negotiate (with teachers, other students, administrators, bosses, financiers). It taught me how to be resourceful in finding the funding to complete my education when in the last two semesters, my main source of funding dries up at the beginning of what we now know is the Great Recession.</p>
+
+
+<p>It gave me a passion for economics and finance. It taught me about the VC side of the transaction (how to run a VC firm and what they are looking for) if I am ever looking for financing. It taught me about free markets (both their perils and wonderful advantages). It taught me how to balance all of the above while working part-time (remotely) and being married (and going through a pregnancy and first year of my child’s life).</p>
+
+
+<p>All of which I am certain will help me in all ventures I pursue in the future (not just startup opportunities – but non-profit teams I will be a part of, any political organizations I join, sports team I coach, etc.). It has drastically changed my world view, and I am all the more grateful for it – especially when I watch the news and see all the shenanigans going on and understand what is happening – knowing when the politicians (on both sides of the aisle) are simply playing games and misleading the public.</p>
+
+
+<p>So yes, we MBAs have been jerks in the past. I apologize on their behalf. But, I beg of you…please…please…let’s stop with the hasty generalizations and the MBA bashing. Time to put that meme to rest.</p>
+
+
+<p>P.S. Image courtesy of adobemac on <a href="http://www.flickr.com/photos/adobemac/294078052/" target="_blank">Flickr</a>.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Hate Adobe [PIC]]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/21/why-i-hate-adobe/"/>
+    <updated>2010-04-21T02:12:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/21/why-i-hate-adobe</id>
+    <content type="html"><![CDATA[<p>Ok…hate is such a strong word. I don’t exactly hate them…I don’t hate anyone actually (not that I can think of ). However, the image below illustrates why they have fallen from grace, and shows what is fundamental wrong with them.</p>
+
+
+<p>To explain, I just finished doing a fresh install of XP for a friend and am installing the pre-requisite stuff. Acrobat (PDF reader) was one of them, just because I needed something to read PDFs and that’s the first thing that comes to mind. So I google ‘Acrobat Download’ and am given a link that takes me to their download page. I click download and the screenshot captures what happens next (click to view fullscreen):</p>
+
+
+<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Adobe_sucks" height="375" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/21/why-i-hate-adobe/16963761-adobe_sucks.jpg" width="500">
+</div>
+
+
+
+
+<p>As you can see….they force me to download ‘Adobe Download Manager’ plug-in by ‘getPlus’ (who the hell is getPlus? – That’s rhetorical, I don’t know and don’t care they are also in my bad books) for Firefox. Then, I have to restart Firefox, which then loads Adobe Download Manager, which then hits me with a ton of banner ads that slide from side to side (that I can’t close or block) and, while downloading Acrobat – which I then have to install. On top of that, once acrobat is installed, they also installed ‘Adobe Air’. It could have been that they gave me the option to opt-out, but I was so pissed by this install process that I glossed over it, but it just made the entire process even worse.</p>
+
+
+<p>Is Adobe joking? This reminds me of some shady ‘third-party’ app site. I will not be going through that process again, that’s for sure.</p>
+
+
+<p>The worst part is, Acrobat isn’t even the best free PDF reader. Next time I will go with my <a href="http://www.foxitsoftware.com/pdf/reader/" title="Free PDF Reader for Windows" target="_blank">usual default</a>.</p>
+
+
+<p>Adobe…stop worrying about <a href="http://daringfireball.net/2010/04/iphone_agreement_bans_flash_compiler" title="Apple changes iPhone Developers' Terms of Service" target="_blank">Apple’s 3.3.1 change in their iPhone TOS</a> and start focusing on your own customers and improving their experiences and lives. Maybe if you did that, and made Flash better people wouldn’t allow Apple to get away with the shafting they are now giving you and many other developers.</p>
+
+]]></content>
+  </entry>
+  
+</feed>

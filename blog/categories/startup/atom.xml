@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Startup | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/startup/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A notepad in HTML & CSS only]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only/"/>
+    <updated>2010-09-27T18:19:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only</id>
+    <content type="html"><![CDATA[<p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
+
+
+<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Notepad" height="493" src="http://marcamillion.github.com/marcgayle-blog/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
+</div>
+
+
+
+
+<p>The notepad was designed by the wonderful <a href="http://www.andreeblixt.com/" title="Andree Blixt" target="_blank" style="color: #5f5f5f;">Andree Blixt</a>.</p>
+
+
+<p>To see an online demo, check it out <a href="http://compversions.com/notepad/" title="Notepad in HTML &amp; CSS" target="_blank" style="color: #5f5f5f;">here</a>. It is released under the MIT license, so do what you want with it. The only thing I ask is for attribution. Also, please feel free to suggest updates/tweaks/enhancements especially to show multiple pages and adding jQuery animation if you would like (either in the comments or <a href="mailto:%20marc@compversions.com" style="color: #5f5f5f;">emailing me</a> directly).</p>
+
+
+<p>To get the files, download them from github <a href="http://github.com/marcamillion/Notepad-in-CSS---HTML" title="Download notepad in HTML &amp; CSS" target="_blank" style="color: #5f5f5f;">here</a>. </p>
+
+
+<p>Enjoy :)</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Fail early, fail fast explained]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/03/fail-early-fail-fast-explained/"/>
+    <updated>2010-06-03T23:41:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/03/fail-early-fail-fast-explained</id>
+    <content type="html"><![CDATA[<p>Many people misunderstand the true meaning behind 'fail early, fail fast'. The most 'high-profile' of which is <a href="http://37signals.com/svn/posts/1643-failure-is-overrated-a-redux" title="Failure is overated" target="_blank">Jason Fried</a> and our friends at <a href="http://37signals.com/svn/posts/2059-podcast-episode-4-jason-frieds-speech-at-big-omaha-2009" title="37 Signals Podcast discussing fail early fail often" target="_blank">37Signals</a>.</p>
+
+
+<p>Fail early, fail fast isn't encouraging you to fail. It's encouraging you to act/move/start.</p>
+
+
+<p>Read the phrase again, with emphasis: fail <strong>early</strong>, fail <strong>fast</strong>.</p>
+
+
+<p>The idea behind the saying is, just do something. It's easy to get trapped in a 'secure' situation. Whether that is a 'stable/cushy' job, or using a product that is OK. It's this inertia that kills innovation. It's fear of the unknown or fear of the failure that also dis-incentivizes people from striking out and making that killer product they have always envisioned, or recorded that song they have written, or sold that painting they have stashed away in their basement.</p>
+
+
+<p>People get accustomed to procrastinating and delaying that they don't attempt to do what they say they want to do.</p>
+
+
+<p>The phrase 'fail early, fail fast' is attempting to take the sting out of the fear of failing - by using the terms 'early' &amp; 'fast'. Makes it sound 'quick' and 'painless'. Ever been to a doctor to get an injection?</p>
+
+
+<p>'It will feel like a mosquito bite' is what I am always told.</p>
+
+
+<p>It's kinda like that - especially since creating a new product is so hard, the last thing a creator needs is the fear of failure hanging over their heads (although, to be fair that fear can be a good motivator).</p>
+
+
+<p>I am not advocating failure, but anything that removes one more psychological barrier for inventors can only be good for society.</p>
+
+
+<p>So, go ahead and fail as quickly as you can. Pick yourself up, and try again.</p>
+
+
+<p><em>Editor's Note: Please note that I am not encouraging people to strike out in an attempt to fail. Simply to not be afraid of failing - if that wasn't clear enough in the post.</em></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[An open letter to Alexis Ohanian (Reddit co-founder)]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder/"/>
+    <updated>2010-05-28T19:58:05-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder</id>
+    <content type="html"><![CDATA[<p>Alexis your <a href="http://alexisohanian.com/an-open-letter-to-kevin-rose" title="An open letter to Kevin Rose from Alexis Ohanian" target="_blank">recent blog post to Kevin Rose re: Digg</a> struck a wrong chord with me. For those not familiar with what he is talking about, a <a href="http://techcrunch.com/2010/05/28/exclusive-video-and-screenshots-of-digg-version-4/" title="Sneak Peak at Digg Version 4" target="_blank">new video giving details about upcoming changes for Digg version 4</a> was released today.<p></p>
+I can see how on the surface these changes look like a clone of other more popular features, but I suspect you might be mis-interpreting what's happening here.<p></p>
+Yes, many of the features look and feel like competitors. But so does the iPod. It plays mp3s? Yuck! So does Rhapsody's player, why would I want one from Apple. So does a Mercedes/BMW, it has wheels + an engine.<p></p>
+The issue is the way it does what it does. I have not used it just yet, but from what I have seen, this could fundamentally be as much of a game changer as the first version of digg was to giving individual publishers a bigger voice.<p></p>
+Imagine...now, as a publisher, I have 200 'followers' whose sole interest is in seeing the links/stories that I publish. <a href="http://mixergy.com/jason-fried-customers-clips/" title="Jason Fried on Mixergy" target="_blank">Jason Fried talks about building</a> <a href="http://twitter.com/jasonfried/status/5806452173" title="Jason Fried building an audience" target="_blank">an audience</a>. So far, there is no other tool that 'aggregates' all your content and pushes it directly to an audience like digg v4 is suggested to do.<p></p>
+People use Twitter to do this, but it wasn't built to do that. It was built for messages of 140 characters. Valuable in it's own right, but not as a 'media publishing' tool. <p></p>
+People use status updates on Facebook to do that, but it wasn't made for that. It was made to update friends on your latest activities (i.e. uploaded new videos/photos, add new quotes, friended new people, got engaged/married....other things that your social graph might find of value).</p>
+
+<p></p>
+
+
+<p>But for publishers trying to build an audience, there isn't one tool that allows an audience to 'subscribe' to everything of interest to them.Yes, you can have a blog with an RSS feed. Your twitter feed has an RSS feed, etc. But RSS feed readers suck!</p>
+
+<p></p>
+
+
+<p>The mere fact that I can have one place, that streamlines all of the links published by people I am interested in hearing from + links they found interesting, is absolutely game-changing (in my opinion).Ofcourse, it all comes down execution, but based on what I am seeing, I think I see Kevin back in his original form. Quite contrary to your assertion about pandering to his VCs, I don't see any evidence of driving revenues. I see mainly product development. I see small UI elements that seem to enhance the link discovery process. I see giving value to small-time publishers and further 'democratization' of news.</p>
+
+<p></p>
+
+
+<p>So while I respect that everyone is entitled to their own opinion, I would caution us all to wait and see how it unfolds, and actually use it - before casting judgement. Many <a href="http://www.avc.com/a_vc/2010/05/ive-changed-my-mind-about-the-ipad.html" target="_blank">high profile people have done that recently and have had to do mea cuplas</a>.<p></p>
+Maybe I am biased, because I am one of those that submit stories that stall or get a handful of diggs. This looks like it could be a significant game changer for me. Maybe it won't guarantee all my stories will make it to the front page, but I would not be surprised if my content got easily 200% - 800% more traffic, as a direct result of this change.</p>
+
+<p></p>
+
+
+<p>THAT...would be game changing.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Difference between PR, Marketing, Advertising & Branding [Infographic]]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/29/difference-between-pr-marketing-advertising-branding/"/>
+    <updated>2010-04-29T06:00:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/29/difference-between-pr-marketing-advertising-branding</id>
+    <content type="html"><![CDATA[<p><span style="font-family: Palatino, Georgia, Baskerville, serif; font-size: 14px; color: #666666; line-height: 18px;"><a href="http://9gag.com/" title="9GAG" target="_blank" style="color: #5f5f5f;">9gag.com</a> has recently put out a <a href="http://m.9gag.com/gag/21260" title="Difference between PR, Marketing, Advertising &amp; Branding" target="_blank" style="color: #5f5f5f;">nice infographic that illustrates</a>, pretty nicely, the differences between Public Relations, Marketing, Advertising and Branding.</span></p>
+
+
+<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Diff-between-pr-mktg" height="900" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/29/difference-between-pr-marketing-advertising-branding/16961323-diff-between-PR-mktg.jpg" width="300">
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[App Idea for the iPhone/iPod Touch/iPad]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/23/iphone-and-ipad-app-idea/"/>
+    <updated>2010-04-23T17:13:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/23/iphone-and-ipad-app-idea</id>
+    <content type="html"><![CDATA[<p></p>
+
+
+<div class="p_embed p_image_embed">
+<img alt="Scratch__win_app_idea" height="375" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/23/iphone-and-ipad-app-idea/scratch__win_app_idea.jpg" width="500">
+</div>
+
+
+
+
+<p><strong>Idea: </strong>Scratch and win.</p>
+
+
+<p><strong>Concept: </strong>Give consumers free stuff (on a very consistent basis) and give advertisers more brand engagement. Think <a href="http://www.woot.com/" title="Woot" target="_blank">woot.com</a> but with free, quality, stuff (or actually even deeply discounted – per the coupon in the win).</p>
+
+
+<p><strong>Existing Competitors:</strong> <a href="http://itunes.apple.com/us/app/scratch-off-now/id358970551?mt=8">http://itunes.apple.com/us/app/scratch-off-now/id358970551?mt=8</a> &amp; <a href="http://www.scratchoffnow.com">www.scratchoffnow.com</a></p>
+
+
+<p>That’s the idea in a nutshell. Here are some more details:</p>
+
+
+<p>This app would be free in the App Store. Naturally, this idea would work best with folks that have existing relationships either with an ad agency (or agencies) or with brands and other advertisers.</p>
+
+
+<p>The graphics would be holding a simple coin, and you use your real finger to scratch the ticket with the coin.</p>
+
+
+<p>Game mechanics could be included, so points could be accumulated that users can redeem for some discounts (think Visa, American Express, Airlines, etc. kind of points).</p>
+
+
+<p>The trick is to start with a bang, say giving away 500 – 1,000 iPads in the first 48 hours.</p>
+
+
+<p>Then, once you have the momentum going you continue to provide small wins for the users even when they don’t ‘win’ a major prize (supplied by a vendor or brand).</p>
+
+
+<p>The app can even be branded (charge for impressions above the results of the prize, or the prize itself is sponsored by some other brand).</p>
+
+
+<p>Build functionality to allow users to ‘share points’ with others. Add a social aspect to it, so I can send 1,000 points to my sister so she can do whatever she wants with it.</p>
+
+
+<p>Integrate it with Facebook Game Developers (like <a href="http://www.zynga.com/" title="Zynga: Facebook Game Developer" target="_blank">Zynga</a>) where points and ‘tickets’ are hidden in the games – work out some sort of kickback commission with them. This can also be extended to other game platforms – like <a href="http://www.worldofwarcraft.com/index.xml" title="World of Warcraft" target="_blank">World of Warcraft</a>, <a href="http://www.heyzap.com/" title="HeyZap" target="_blank">HeyZap</a>, etc.</p>
+
+
+<p>Implement scavenger hunts for ‘golden tickets’, where each ticket is a guaranteed prize – this comes back to the game mechanics idea earlier.</p>
+
+
+<p>That’s all I can think of right now, and many people might ask…why don’t I do it. Well, to be honest, I am quite busy right now and I am not a big fan of the advertising model (i.e. working with brands and advertisers…it’s just not my forte. I am not bashing it…just saying it’s not my thing).</p>
+
+
+<p>Hope this sparks some ideas and someone wants to run with it, that would be awesome. I would definitely download the app (provided it can work on my iPod Touch 2Gen).</p>
+
+
+<p>You are free to take the idea and run with it. If you do run with it, some credit would be nice <img class="wp-smiley" src="http://marcgayle.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" style=""></p>
+
+
+<p>I have some additional ideas on other possibilities, so if you would like me to be involved in any way, <a href="http://marcgayle.com/contact/" title="Contact Marc Gayle" target="_blank">feel free to reach out to me</a>. You don’t have to…just saying.</p>
+
+
+<p>P.S. Image courtesy of meddygarnet on <a href="http://www.flickr.com/photos/meddygarnet/3087083501/" target="_blank">Flickr</a>.</p>
+
+
+<p> </p>
+
+]]></content>
+  </entry>
+  
+</feed>

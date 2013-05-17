@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://marcamillion.github.com/marcgayle-blog/sitemap.xml 

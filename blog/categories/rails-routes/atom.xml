@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rails routes | The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/rails-routes/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to change root route behavior in Rails 3]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/03/14/how-to-have-a-different-root-path-for-loggedi/"/>
+    <updated>2011-03-14T15:29:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/03/14/how-to-have-a-different-root-path-for-loggedi</id>
+    <content type="html"><![CDATA[<p>These instructions have only been tested with declarative_authorization. So while it may work with other authorization gems, I haven't tested it so can't verify. </p>
+
+
+<p>Say you want your users to see your marketing site (when they try to go to yourapp.com) when they are not logged in, but when they are logged in, you want them to see something different (like the dashboard of your app - which is found by going to your home controller, and index action - 'home#index'), how do you do this in Rails 3? </p>
+
+
+<p><br>If you put an index.html file in your public directory, that takes precedence over everything else. Rails routing doesn't even execute when that file is included (as far as I understand it anyway). So, you do it like this: In your routes.rb file, change your root route to the following:</p>
+
+
+<p></p>
+
+
+<p><a href="https://gist.github.com/869820">https://gist.github.com/869820</a></p>
+
+
+<p><br>Rename your 'public/index.html' file to some other name, e.g. 'public/marketing.html'. In your home controller, do this:</p>
+
+
+<p></p>
+
+
+<p><a href="https://gist.github.com/869828">https://gist.github.com/869828</a></p>
+
+
+<p>Now, when a user is not logged in, they will be redirected to your static marketing page. But when they are logged in, they will go to your dashboard at home#index. Hope that helps you.</p>
+
+
+<p>You should follow me on Twitter here: <a href="http://www.twitter.com/marcgayle.&lt;/p">www.twitter.com/marcgayle.</a></p>
+
+
+<p>&gt;</p>
+]]></content>
+  </entry>
+  
+</feed>

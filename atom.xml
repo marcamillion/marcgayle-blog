@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Blog of Marc Gayle]]></title>
+  <link href="http://marcamillion.github.com/marcgayle-blog/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T14:23:46-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Avoiding market failure should be your only focus]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2013/03/02/avoiding-market-failure-should-be-your-only-f/"/>
+    <updated>2013-03-02T16:01:48-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2013/03/02/avoiding-market-failure-should-be-your-only-f</id>
+    <content type="html"><![CDATA[<div>I am assuming that whatever you are working on, whether it is your instrument playing skills, programming chops, or a tech startup, that you want to work on it/do it for a long time. I mean many, many years.</div> <p></p>
+<div>That doesn&#8217;t mean that you want to continue working on the same tech startup or you want to continuing hacking away at PHP (only) for the next 30 years. It just means that you want to continue building startups, or programming for the better part of the next 30 years.</div> <p></p>
+<div>Given that, your #1 priority should be avoiding market failure. Paul Graham <a href="http://www.paulgraham.com/good.html">simplified it</a> to &#8216;make something people want&#8217;. But it is broader than just making. It is, whatever you are doing - e.g. playing the violin, make sure other people are interested in what you are doing (and how you are doing it). Really interested. i.e. follow you on Twitter and jones for every video you post, every mp3 you give away free, every album of photos you release, every product iteration you roll out.</div> <p></p>
+<div>There may not be a direct correlation between the number of people interested in what you do, and the number of customers you have, but once you can get people interested (i.e. consistently avoid market failure) and keep them interested - you have a much higher probability of financial success. By financial success I mean, the ability to earn a living doing what you love - so you can continue doing what you love for a long time (in a sustainable way).</div> <p></p>
+<div>It sounds so simple, but it is very hard. In fact, it is the hardest thing to do - because the market is ruthless. People have seen all manners of things, and their tastes change. They get bored and tired easily. So to build a sustainable following, you have to be sincere and you have to be innovatively unique. It takes a long time, and there are no shortcuts. </div> <p></p>
+<div>That&#8217;s the hard part. That&#8217;s the only thing that should matter. So, don&#8217;t worry about raising money, using the best/latest technology, running 200 A/B tests looking for that copy that will improve your conversions by 20% or anything else that is inconsequential in the early days. Once you focus on avoiding market failure - that forces you to figure out how you can add value in a way that no one else is doing currently, which will dictate everything else. It will dictate the technology you ultimately use, your marketing plan, the features you implement, the team you build, and the investors you raise money from.</div> <p></p>
+<div>That&#8217;s the great thing about helping people <a href="http://5kmvp.com">build their minimum viable product</a>. The best part is helping them figure out/begin to figure out, where that unique value proposition is. </div> <p></p>
+<div>Once you avoid market failure - or conversely achieve product/market fit - the market will forgive you for all the other mistakes. They will forgive your servers constantly crashing for the first few months/years, your PR gaffes, your sloppy marketing page copy and even your animated gifs. As if not having to worry about those issues killing you, an added bonus is&#8230;.once you have done the hard-work on your own&#8230;.you will have maximum control and maximum leverage. When you want to raise money, it will be on your terms. You can hire the people you want, because you will have the pick of the litter. It won&#8217;t be a cakewalk, but in comparison to avoiding market failure it will sure feel like it.</div> <p></p>
+<div>If the market never notices you, and you fail there first&#8230;.then the upside is you won&#8217;t need to worry about all those other problems.</div>
+<p></p>
+<p></p>
+<i>If you liked this, you should <a href="http://twitter.com/marcgayle">follow me</a> on Twitter.</i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How a $20 MVP has made me $X0,000]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2013/01/22/how-a-20-mvp-has-made-me-x0000/"/>
+    <updated>2013-01-22T19:15:28-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2013/01/22/how-a-20-mvp-has-made-me-x0000</id>
+    <content type="html"><![CDATA[<div>For months before I launched <a href="http://5kmvp.com">5KMVP</a>, I had <a href="http://news.ycombinator.com/item?id=2942856">been</a> <a href="http://news.ycombinator.com/item?id=4347304">running</a> <a href="http://news.ycombinator.com/item?id=4231436">experiments</a> on Hacker News.</div> <p></p>
+<div>Part of the experiment was to validate my thesis.</div>
+<p></p>
+<div>
+<b>Thesis</b>: At some fixed price point, people are willing to invest in building an MVP.</div>
+<p></p>
+<div>After getting some leads (and projects), over the space of a few months, from HN and talking to many people (from Twitter and HN), a few things jumped out at me.</div>
+<p></p>
+<div> <ol>
+<li>The $5K price point is perfect for what I want to do. It is high enough to weed out people that would likely not value what I bring to the table. It is low enough to reduce friction to get potential customers to say &#8216;Yes&#8217;. It also provides the perfect jumping off point for larger projects. I tried other price points too, from $3K to $7K to $10K. $5K works best for MVPs.</li> <li>Fixed budget &amp; timeline work well - leaving variable scope (to be negotiated with the client). Given that this is an MVP, that works well - because the focus should be on the core &#8216;viable product&#8217; portion of the MVP. So bells &amp; whistles need to be cut.</li> <li>Targeting customers that know what an MVP is, also helps to improve the quality of clients I interact with. They don&#8217;t want a web page that their cousin&#8217;s son-in-law&#8217;s first cousin can build for them, when s(he) is not fixing computers. They want helping figuring out what is their MVP and how should they build it.</li> </ol>
+<div>These realizations gave me the confidence to setup a landing page for a service dedicated to <a href="http://5kmvp.com">building minimum viable products</a>.</div>
+<p></p>
+<div>The next decision I had to make was&#8230;.what will my landing page do? Given that I am a Rails dev, will it be a Rails App? I spoke to a few trusted colleagues and got a variety of responses. Some feedback I got was that I should build a minimalist Rails App that handles the entire engagement (i.e. someone fills out a form, and it pushes that form down a funnel and has all these nice features that allow them to pay easily and keep track of the project as it progresses).</div> <p></p>
+<div>I liked the idea at first, but it didn&#8217;t quite sit well with the notion of an MVP. What kept playing in a loop in my head is that I needed to validate the $5K MVP idea before devoting any significant development time to building an app for it.</div> <p></p>
+<div>So I bought a theme from <a href="http://themeforest.net">Themeforest</a> (roughly $20) and decided to go meta. Make as minimal an MVP as I can, that validates my hypothesis.</div>
+<p></p>
+<div>I have one call to action button which is a simple &#8216;mailto:&#8217; button - that launches your email client. Perfect? No&#8230;..but it gets the job done. People that want an MVP built, don&#8217;t want to have to interact with a fancy system. They just want the quickest and easiest way to get in touch with me. Email is that way.</div> <p></p>
+<div>I worked on the copy, got my portfolio together and just put it together in a day or 2.<br>
+</div>
+<p></p>
+<div>Then, I used <a href="http://pages.github.com/">Github Pages</a> to <a href="https://github.com/marcamillion/5KMVP">host it</a> (free) along with Google Apps (also free) and launched.<br>
+</div>
+<p></p>
+<div>Tweeted it, posted on HN, and wrote a <a href="http://techcrunch.com/2012/09/30/an-analysis-of-market-demand-for-web-programming-languages/">guest post</a> on Techcrunch.</div>
+</div> <p></p>
+<div>I am pleased to announce that it has been validated many times over.<br>
+</div>
+<p></p>
+<div>I have gotten multiple projects directly from 5KMVP - at least 1 of which is a multiple of a 5KMVP. It is a multi-phase project that is broken up into manageable chunks. </div> <p></p>
+<div>The best thing about this experiment is that 5KMVP is proof positive of me eating my own dogfood. It is also a &#8220;successful&#8221; case study, about correctly deciding what your MVP should be based on what your business goals are. </div> <p></p>
+<div><i>If you liked this, you should <a href="http://www.twitter.com/marcgayle">follow me on Twitter</a>.</i></div> 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[IE 8 Filter Style + Heroku Rake Asset Pre-Compile Error]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi/"/>
+    <updated>2013-01-21T19:47:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi</id>
+    <content type="html"><![CDATA[<div>If you are getting an error that looks like this:</div>
+<div>
+<div class="CodeRay">
+  <div class="code"><pre>could not connect to server: Connection refused Is the server running on host "127.0.0.1" and accepting TCP/IP connections on port xxxx?</pre></div>
+</div>
+
+</div>
+<div>&#8230;when pushing your Rails 3.2+ app to Heroku, there could be two problems at play. </div>
+<div>If that is all that you are seeing, then it likely means that Heroku is trying to initialize your app when it does `rake asset:precompile`. The issue is that there is no DB configured in a `non-initialized` state, so Heroku throws a fit. </div>
+<div>To fix that, they have a nice <a href="https://devcenter.heroku.com/articles/rails3x-asset-pipeline-cedar#troubleshooting">guide here</a> (which basically involves just adding 1 line to your `config/application.rb` file).</div>
+<div>However, if you are seeing something like this:</div>
+<div>
+<div class="CodeRay">
+  <div class="code"><pre>Running: rake assets:precompile
+      rake aborted!
+      Invalid CSS after "...: alpha(opacity": expected comma, was ":0);"
+      (in /tmp/build_1lypjy898u7o0/app/assets/stylesheets/application.css.scss)     (sass):3665</pre></div>
+</div>
+
+<div>Then it is very likely that you have another issue.</div>
+<div>Apparently, the common css style rule that is used to apply an opacity filter to CSS objects in IE8 and below is illegal syntax.</div>
+<div>Meaning that: `filter: alpha(opacity:0);` is an illegal CSS rule. As a result of that, SASS throws an error when it&#8217;s parser comes across these rules - which causes the entire precompile process to fail.</div>
+<div>It is apparently a <a href="https://github.com/rails/sass-rails/issues/37">problem discussed and addressed</a> in Rails before, but given that it is a SASS issue - and also that it involves illegal CSS syntax - the Rails maintainers have decided not to do anything to allow this call (understandably so).</div>
+<div>So&#8230;the simple fix is to comment out all occurrences of that call in your stylesheets. IE9 allows the regular, `opacity: 0;`, I believe - so you should be fine for all browsers in the future.</div>
+<div>An easy way to test this further, locally, is just to create a new git branch and run &#8216;rake asset:precompile&#8217;. You will see the errors it generates locally and you can work your way through it like that.</div>
+<div>However, I went through many different solutions and commenting them out - turned out to be the easiest.</div>
+</div>
+<div>Let me know if you come up with any other solutions.</div>
+<div><em>You should follow me on <a href="http://twitter.com/marcgayle">Twitter here</a>.</em></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wanted for the Caribbean: Digital Craftsmen.]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/12/20/the-caribbean-tech-industry-should-learn-from/"/>
+    <updated>2012-12-20T15:41:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/12/20/the-caribbean-tech-industry-should-learn-from</id>
+    <content type="html"><![CDATA[<div>Whenever I think about our regional tech industry, I struggle to understand the disconnect between what other people are doing in the world and what we are doing. There are many exemplary tech companies from all over the world that compete well on the world stage. There are at least <a href="http://www.campaignmonitor.com/our-story/">two</a> from <a href="http://www.atlassian.com/">Australia</a>, many from China, India, and many other countries.</div>
+<p></p>
+<div>What creates even more confusion on my part is when I look at our other local industries. The Caribbean and Jamaica in particular have many industries that we participate on the world stage in and excel.</div>
+<p></p>
+<div>From the obvious reggae &amp; dancehall break-out mainstream artistes (The Marley Men, Sean Paul, Shaggy) to less mainstream but with major followings (Mavado, Kartel, Tami Chynn, Jah Cure, Beres Hammond, etc.).</div>
+<p></p>
+<div>Not to mention our tourism product. That is by definition a global competitor, and we also excel there - with Jamaica being one of the few Caribbean territories to experience an <a href="http://dominicanewsonline.com/news/homepage/news/regional/despite-recession-jamaicas-tourist-arrivals-jump-over-7-percent-in-third-quarter/">increase in tourist arrivals</a> in the midst of the global recession. What better to test the quality of our product offering than a global recession that hits all tourism markets?</div>
+<p></p>
+<div>We also have our track &amp; field industry, where we absolutely dominate. Not just on the field, but also off the field with <a href="http://usainbolt.com/">branding</a>, marketing &amp; revenue generation. This despite having a track that isn&#8217;t the best in the world - yet we produce the best athletes in the world, in almost every category.</div>
+<p></p>
+<div>The common thread in all of these cases is that all the participants didn&#8217;t have outside help (i.e. help from outside of the region). They all had to pull themselves up by their bootstraps and compete in harsh conditions. They all earn USD as their primary revenue stream (in most cases). They speak to a global audience. They are unique &amp; innovative in their own right.</div>
+<p></p>
+<div>I am constantly marveled by the lyrics that our dancehall artistes come up with. While I don&#8217;t condone or support the vast majority of the lyrics, there were 2 lines that jumped out at me yesterday while listening to the radio from Mavado. Now, please don&#8217;t interpret my appreciation of the wordsmithness of this phrase as support/endorsement of any intent behind the lines. I just love seeing people innovate in their craft - even if I don&#8217;t necessarily agree with their position.</div>
+<p></p>
+<div>I don&#8217;t remember the name of the song (if you know it, please leave it in the comments and I will update my post), but Mavado said this:</div>
+<p></p>
+<blockquote class="gmail_quote" style="margin: 0px 0px 0px 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">I am not a fish/Because I am not afraid of the gully-side.</blockquote>
+<p></p>
+<div>If you are not Jamaican (or have an interest in Dancehall), and don&#8217;t understand the nuance of that line let me break it down for you.</div>
+<p></p>
+<div>In Jamaica, gay people are called &#8216;fish&#8217; - colloquially. Mavado refers to himself as &#8216;gully god&#8217;. He is from a &#8216;ghetto&#8217; in Jamaica called Casava Piece (spelling??). That community is built around one large gully. Hence his name &#8216;gully god&#8217;.</div>
+<p></p>
+<div>He is reiterating the oft-repeated maxim that many artists say &#8220;I don&#8217;t hang out with gays&#8221; - i.e. no gay people can hang out on the gully-side. So, by extension, if you are gay you should be afraid of the gully side.</div>
+<p></p>
+<div>He is drawing a parallel to gay people and the culture of homophobia on the gully-side, to literal fish that swim in water and their fear of being washed up on the gully-side where they will be stuck and likely die.</div>
+<p></p>
+<div>In 2 lines, he captured the essence of Jamaican pop culture, his status in the local dancehall scene, where he grew up, and made a clever pun out of it. This is wordsmanship at its best.</div>
+<p></p>
+<div>Yes, many Jamaican artistes do crappy work and pirate other people&#8217;s lyrics and songs. But many come up with original content. They study their craft, they train, and they innovate.</div>
+<p></p>
+<div>That is what is missing from our tech scene.</div>
+<p></p>
+<div>We need to make a conscious effort to invest in our craft, learn about how we can generate revenue from customers all over the world - while still living in Jamaica - and compete on a world stage. After discussing this at length with David Bain &amp; <a href="https://twitter.com/mamcnaughton">Matthew McNaughton</a> yesterday at an informal meetup, <a href="http://pigeonflight.blogspot.com/2012/12/dev-evening-around-dining-table.html">David discusses it here</a>, we have all decided that we are going to make a conscious effort to talk more about &#8216;Digital Craftsmanship&#8217;. Not just to raise awareness, but also to do our part - either through <a href="http://bit.ly/web-workshop">workshops</a> or mentoring or anyway we can. </div>
+<p></p>
+<div>We, our industry, get too complacent by aiming for &#8220;The first in Jamaica&#8221; or &#8220;The first in the Caribbean&#8221;. Imagine if Merlene Ottey aimed to just be fast in Jamaica - and didn&#8217;t compete on the world stage. Imagine if Bob Marley never toured and kept his music to himself and to Trench Town. Imagine if Butch Stewart didn&#8217;t pioneer all-inclusive hotels and raise the standards of the Jamaican Tourism product. We wouldn&#8217;t have those industries that we take for granted.</div>
+<p></p>
+<div>In a day and age when you can create any digital product your mind can imagine, when you can live in Australia and run a tech company that competes with Silicon Valley&#8217;s best - I challenge the entire tech industry to not try to be a &#8220;Silicon Valley in Jamaica&#8221; or even a &#8220;Silicon Mountain&#8221;.</div>
+<p></p>
+<div>Let people say&#8230;.first they dominate reggae, tourism and track&#8230;now they are dominating tech. </div>
+<p></p>
+<div>There is no reason we shouldn&#8217;t be able to, our peers have shown us the way. Any reasons you come up with, are just excuses. </div>
+<p></p>
+<div>If you are a developer and want to become a digital craftsman, please feel free to reach out to me. I am on that journey myself, and I would be glad to lend a helping hand where I can. </div>
+<p></p>
+<div>You can either <a href="http://twitter.com/marcgayle">Tweet @me</a> on Twitter or contact me via the form on my blog.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Empathy for the "other" side]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/08/31/empathy-for-the-other-side/"/>
+    <updated>2012-08-31T01:09:59-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/08/31/empathy-for-the-other-side</id>
+    <content type="html"><![CDATA[<div><span style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">People tend to be tribalistic. Whether it is politics, religion, football (Jamaican and American), technology (vim vs TextMate, Ruby vs Java), etc.</span></div> <p></p>
+<div>It&#8217;s very easy to be caught up in your own dogma, but at the very least (I would encourage you to) be reasonable. Before denigrating/slandering/ridiculing someone else because they prefer something different than you, be cognizant of the fact that they may prefer it because of different circumstances than you.</div> <p></p>
+<div><span style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">For instance, not because you support Obama means that everyone that supports Romney/Ryan are idiots/stupid/crazy/dumb.</span></div> <p></p>
+<div>
+<span style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">There could be a lot of reasons people support Romney/Ryan.</span><p></p>
+<div style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">For starters, they could generally be disenchanted with what Obama has done - or hasn&#8217;t. </div> <div style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);"> <ul>
+<li style="margin-left: 15px;">He promised that the bailouts will jump start the economy and the economic recovery would be more robust than it has been.</li>
+<li style="margin-left: 15px;">He has come out in support of gay marriage - there are many that voted for him that are uncomfortable with that, and it could be a deal breaker for them. </li> <li style="margin-left: 15px;">He has allowed the Republicans to hold many things hostage - like tackling the deficit in a comprehensive way, and such. In my opinion, he managed that process sub-optimally. </li>
+<li style="margin-left: 15px;"> He seems to be quick to spend, and not quick to fix the budget gap. I am not saying that he hasn&#8217;t offered any suggestions on how to fix it - but it clearly has not been his priority. I am also not saying that it SHOULD have been his priority, but that could be a perception (especially when Europe is melting down as a result of fiscal issues).</li> <li style="margin-left: 15px;">He will raise taxes on a bunch of people - both middle class and high income earners. He will offset those higher taxes with more tax credits for middle class - hoping that the net effect will be lower taxes for the middle class - but the fact is, there is a lot of uncertainty when it comes to taxes for a lot of people. Keep in mind that &#8216;middle class&#8217; is up to $250K/year - i.e. small business owners.</li> <li style="margin-left: 15px;">He has done A LOT more for &#8216;large corporations&#8217; than he has for small businesses - or rather, the effects of the stuff he has done for small businesses, won&#8217;t be felt for another few years.</li> <li style="margin-left: 15px;">Not to mention the fact that people might not like the idea of being forced to buy health insurance. I do agree that people should be forced, like they are with auto insurance - but not because someone doesn&#8217;t want to buy it, means that they are &#8220;dumb&#8221;. It could be a better financial move for MOST people (especially young people) to not do it. For the vast majority of the people that buy it, they won&#8217;t need to consume as much as they pay in premiums. That&#8217;s the very basis of the reason that insurance works. So there are many people that think they won&#8217;t need it right now - so they shouldn&#8217;t be forced to buy it. </li> <li style="margin-left: 15px;">There are many people in many industries that will be displaced as a result of Obama&#8217;s policies - for instance, many middle class workers in the Oil industry that will be laid off and forced to learn new skills if Obama closes the tax loopholes that they take advantage of. Those people might not want to go through the headache of learning a new trade/skill/profession after 30 years on the job!</li> </ul>
+<div>There are many reasons that people will support Obama too - that you may not be able to identify with.</div>
+<p></p>
+<div>The same goes for your local Orange or Green politician, black or white, rich or poor.</div> <p></p>
+<div>Let&#8217;s have a little more empathy for the &#8220;other&#8221; side, and try not to paint with a broad brush.</div>
+<p></p>
+<p></p>
+<p></p>
+<div><i>If you liked this, you should probably follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</i></div> </div>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What the media is missing about the Apple vs Samsung Case]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/08/29/what-the-media-is-missing-about-the-apple-vs/"/>
+    <updated>2012-08-29T21:46:54-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/08/29/what-the-media-is-missing-about-the-apple-vs</id>
+    <content type="html"><![CDATA[<div>I <a href="http://news.ycombinator.com/item?id=4431677">made a comment</a> in response to a blog post about the Apple vs Samsung case on Hacker News recently - that got a ton more upvotes than I thought it would have (and a few friends of mine encouraged me to write this post), so I thought I would post the jist of my thoughts here.</div> <p></p>
+<p></p>
+<div>
+<div>Apple wasn&#8217;t suing Samsung because they &#8216;copied&#8217; one of their products. What Samsung has done is straight up IP (Intellectual property) theft.</div>
+<p></p>
+<div> There are many other companies that come out with many features in their products that Apple doesn&#8217;t sue. See Windows, Safari vs Chrome, iPod vs Zune, Adobe Premiere vs Final Cut Pro, most &#8220;ultrabooks&#8221; vs Macbook Air, etc. The issue here is that Samsung, HTC, et al. essentially have done what many manufacturers in China have done (and are still doing). </div> <p></p>
+<div>They acted like a hardware manufacturing partner - then using the inside knowledge they gained of the intimate architecture of the products, they reverse engineered them and competed directly.</div>
+<div> That&#8217;s like you hiring a web developer to build your startup - and both of you build it to traction, and once you take all the risk and prove the market, (s)he leaves and builds a direct competitor using his insider knowledge. It&#8217;s the most insiduous kind of &#8216;IP stealing&#8217; that exists.</div> <p></p>
+<div>So Apple&#8217;s response is perfectly rational. </div>
+<p></p>
+<div>If you had that done to you, and your ex-developer (in fact, he is still managing your codebase) is making a ton of money off of your ideas and IP in your market, I am sure you would be pissed too. The money is just sprinkling on top&#8230;and a definitive statement to other &#8220;partners&#8221;.</div> </div>
+<p></p>
+<p></p>
+<i>If you liked this, you should follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Einstein's productivity is a model for all entrepreneuers]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/07/27/einsteins-productivity-is-a-model-for-all-ent/"/>
+    <updated>2012-07-27T20:26:28-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/07/27/einsteins-productivity-is-a-model-for-all-ent</id>
+    <content type="html"><![CDATA[<div>The next time you think &#8220;I will start {X} another time. I have too much going on now&#8230;.&#8221; consider this.</div>
+<p></p>
+<div>During the period when Albert Einstein wrote his <a href="http://en.wikipedia.org/wiki/Albert_Einstein#1905_-_Annus_Mirabilis_papers">4 papers that revolutionized physics</a> (including &#8220;The General Theory of Relativity&#8221;), he had a few things going in his life&#8230;.including but not limited to:</div> <div>
+<ul>
+<li>A full-time job in a patent office in Bern, Switzerland where he worked 6 days - 8 hours a day (yes 6 days). </li>
+<li>A relatively new wife (who most of his family hated/despised, at least initially)</li>
+<li>They had a daughter, but there is no record of what happened with the daughter (insinuating that maybe his wife lost the baby or they gave her up for adoption - though there is no evidence to suggest as much). Either way, this must have been taxing emotionally.</li> <li>They then had a son - Hans Albert Einstein</li>
+<li>Einstein played in a string quartet once a week.</li>
+<li>He had no access to a library to read other publications (because the library was usually closed when he wasn&#8217;t at work).</li> <li>Oh&#8230;and he had no computer &amp; no Google =)</li>
+</ul>
+<div>Even despite these obstacles, he wrote 4 papers that fundamentally transformed physics and subsequently engineering.</div>
+<p></p>
+<div>Source - <a href="http://refer.ly/aZ4E">Einstein: His Life &amp; Universe</a>
+</div> </div>
+<p></p>
+<br><i>You should probably follow me <a href="http://www.twitter.com/marcgayle">on Twitter</a>.</i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The biggest problem, for Jamaica's tech industry, is the sum of our smaller problems]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr/"/>
+    <updated>2012-07-27T15:37:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr</id>
+    <content type="html"><![CDATA[<div>I just came from lunch with <a href="http://www.jamdeal.com">Chad Cunningham</a> and <a href="http://www.edufocal.com">Gordon Swaby</a>. We are trying to figure out, and put into words, the issues facing tech (more specifically internet/web) companies in Jamaica for a meeting with a government official coming up shortly.</div>
+<p></p>
+<div>After going through many scenarios of issues we face, the recurring theme always came back to the &#8220;small problems&#8221;. </div>
+<div>
+<ul>
+<li>Registering an LLC easily &amp; cheaply</li>
+<li>Getting all documentation and tax compliance information in order for everything to be above board.</li>
+<li>Getting health insurance for the owner and the handful of employees (and their families)</li>
+<li>Accepting VISA, Mastercard, Discover, American Express from any consumer around the world</li>
+<li>Doing business with US-based organizations</li>
+<li>Importing any equipment we may need (laptops, computers, networking equipment, iPads, etc.) for everyday use - with a predictable cost. Right now, you never know what the end cost will be once the various duties and levies are attached.</li>
+</ul>
+</div>
+<div>Right now, all of the above are a headache in one way or another.</div>
+<p></p>
+<div>I have had to register a US-based Delaware Corp to get a US bank account to allow me to get a US payment processor account to process US-issued credit cards. All of that was easier (not easy) than working with the local banks. Not to mention that the local banks don&#8217;t process (the last I checked) Discover and American Express issued cards.</div>
+<p></p>
+<div>Gordon eloquently summed up our current problems with this phrase that I love so much that I had to write a post about it.</div>
+<p></p>
+<div><strong>&#8220;Our biggest problem is the sum of our smaller problems.&#8221;</strong></div>
+<div>
+<ul>
+<li>Tech startups don&#8217;t need a government run Venture Capital arm - what we need is a regulatory &amp; justice system that allows investors to purchase preferred shares (or even common shares) in our companies and be adequately protected (both from culpability &amp; liability for the wrong-doings of any companies they invest in). Just like a typical equity investment in the US.</li>
+<li>Tech startups don&#8217;t need a government run health insurance program - what we need is to be able to buy insurance from the existing entities on similar terms that any individual can get by joining Churches Credit Union, or JN.</li>
+<li>Tech startups don&#8217;t need large tax incentives because our net margins are high, and paying taxes is a good problem to have.</li>
+<li>Tech startups don&#8217;t need any government land or buildings - because we can get by in our own homes/garages/offices.</li>
+<li>Tech startups don&#8217;t need special treatment - all we need is fair treatment. We need the government to either issue new banking licenses to encourage competition in the banking industry - specifically to a bank interested in specializing in e-commerce transactions. From selling products online, to managing subscription payments in Software-as-a-Service (SaaS) apps.  Or heavily lean on existing institutions to be more e-commerce friendly, although&#8230;the skeptic in me thinks we would be better off with good old-fashioned competition. Issuing a new banking license to an entity interested in mobile &amp; e-commerce would probably be the best bet.</li>
+<li>Tech startups don&#8217;t even need import waivers, we just need certainty. We need to know that if we are bringing in an iPad, once it touches the shores we will be paying a flat fee (that is reasonable, 50%+ is NOT reasonable) for duty. We already know, via Mailpac, what the flat fee for the shipping will be. We need to know all the other flat fees.</li>
+</ul>
+<div>Once those problems are fixed, the last thing we need is for JAMPRO to tell the world that Jamaica&#8217;s tech industry is open for business.</div>
+</div>
+<p></p>
+<div>Show investors that there is a clear path to liquidity via our Junior Stock Exchange and JSE (especially through a USD offering). </div>
+<p></p>
+<div>In short, we just need the government to streamline the basic issues that we have to deal with - i.e. the &#8220;small, every day problems&#8221;, and we will take care of the rest.</div>
+<p></p>
+<p></p>
+<div><em>If you liked this post, you should follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</em></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The life of a bootstrapper - Canada denied me a visitors visa because "I am too poor"]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/"/>
+    <updated>2012-06-13T16:42:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a</id>
+    <content type="html"><![CDATA[<p><strong>Update: </strong>I re-applied with additional information about my business and financial situation and they approved the visa for 2 - 3 years. </p>
+<p> </p>
+<p></p>
+<div class="p_embed p_image_embed">
+<img alt="Refusal-letter" height="643" src="http://marcamillion.github.com/marcgayle-blog/images/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/42074952-Refusal-Letter.jpg" width="500">
+</div>
+
+<p> </p>
+<div>I recently applied for a visitors visa to Canada (officially known as a &#8216;Temporary Residents Visa&#8217;) because my best friend is getting married in July. I went to Canada about 3 years ago for his brother&#8217;s wedding - around the same time of year - and it was nice. I have been looking forward to the trip.</div>
+<p></p>
+<div>Granted, I had my suspicions that my application was weaker than it could be - for a number of reasons.</div>
+<p></p>
+<div>I am a <a href="http://www.compversions.com">bootstrapper</a>. A few months ago, I started doing freelance web development to pay the bills. The issue with that is the cash flow fluctuates significantly. So when a good month happens, I have to put aside for slower months. </div>
+<p></p>
+<div>Needless to say, I couldn&#8217;t provide a &#8216;job letter&#8217; or show any &#8216;proof of employment&#8217; to a Jamaican company that requires that I live in Jamaica - because no such thing exists. The best I can do is show company registration documentation, and bank account statements in all my bank accounts (locally, and US-based). Also, the application process has collided with a &#8220;slower period&#8221; - so the bank statements are not flattering, to say the least.</div>
+<p></p>
+<div>I don&#8217;t own where I live, I rent. </div>
+<p></p>
+<div>I purposely chose not to use my parents as financial support, because&#8230;well&#8230;I am almost 30 and have 2 kids (with 1 on the way). Plus&#8230;I earn my own living (kinda), damnit!</div>
+<p></p>
+<div>Before deciding to go down this road, I read ENDLESS stories and blog posts about others that have trod a similar path. I debated doing something where I raise money, or bootstrap. I hated the idea of losing control and I seem to have an affinity to doing things the hard way (not that raising money isn&#8217;t the hard way).</div>
+<p></p>
+<div>One of the things I didn&#8217;t quite realize is that even though you are bootstrapping, life doesn&#8217;t stop. You still need to interact with institutions that don&#8217;t understand the concept of a bootstrapper or even the startup life or even freelancing.</div>
+<p></p>
+<div>So let this be another data point you should consider when you think about bootstrapping. I always thought, &#8220;nah&#8230;that will never happen to me&#8221;. Seems it&#8217;s more the rule than the exception.</div>
+<p></p>
+<div>Now, it seems, I will be missing my best friend&#8217;s wedding in July. </div>
+<p></p>
+<div>I read about rock-bottom, but never knew what it felt like. I know you might scoff &#8220;Pfftt&#8230;I used to live in my car&#8221;, but compared to what I am accustomed to, these last few months have been pretty damn hard and this almost feels like the nail in the coffin.</div>
+<p></p>
+<div>I am a pretty private guy, but I didn&#8217;t know what else to do other than let it all out.</div>
+<p></p>
+<div>The worst part about this all, is that I can&#8217;t see myself doing anything else - no matter how tempting it may be.</div>
+<p></p>
+<div>In other news, I am working on another product that I hope to launch in the coming days/week. If you are a freelancer, and want to find new business leads easier, <a href="http://www.twitter.com/marcgayle">follow me on Twitter</a> so you can know when I launch that.</div>
+<p></p>
+<div>Can&#8217;t stop, won&#8217;t stop.</div>
+<p></p>
+<div>This is the life I chose, or better yet, the life that chose me.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Simplicity of Apple]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/12/29/the-simplicity-of-apple/"/>
+    <updated>2011-12-29T13:38:34-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/12/29/the-simplicity-of-apple</id>
+    <content type="html"><![CDATA[<div>My mom just got a Macbook Air for Christmas, and I got the wonderful job of setting it up for her. I am a geek and for some reason, even though my Macbook Pro is about 2.5 years old, I get giddy just holding such a small but sturdy form factor in my hand. I might seem like a fan boy, but I am a cautious one. Even though I do development on my MBP, I still have a Windows 7 machine (dual-monitor) for &#8216;everyday use&#8217;. I can&#8217;t quite make the jump fully.</div> <p></p>
+<div>Anyway, back to the migration. I started thinking like I would for any normal PC migration. Where are the Application CDs, let&#8217;s get an external hard drive to track down her files and move everything there - then from the drive to the new machine. I immediately started to wrack my brain to figure out where her &#8216;profile&#8217; files are stored - i.e. when you are doing a PC migration, to save your bookmarks and browser information (pre-Chrome sync), you had to manually search for those files in My Documents and transfer them.</div> <p></p>
+<div>I also started thinking about setting up iTunes and adding the new files and folders to iTunes so she can find it EXACTLY the way she had it - otherwise I would get ENDLESS support phone calls about finding her music and other media files (which I just treasure to get - Hi Mom :)) </div> <p></p>
+<div>So I boot the Macbook Air, and about 2 screens in, it asks me for WiFi credentials. I enter password and move on. ~2 screens later it asks if I want to migrate anything from an old machine.</div>
+<p></p>
+<div>&#8220;Holy crap&#8221; I think&#8230;this cannot possibly be suggesting what I think it is.</div>
+<p></p>
+<div>I see a screen that looks like it is scanning for a WiFi network with some directions (go to old computer, go to Applications -&gt; Migration Assistant and select the option &#8216;Migrate FROM this computer&#8217;). I do that, then come back to the Macbook Air. It finds my mom&#8217;s old machine, and asks me for the verification code that&#8217;s on her screen. I confirm it, and press ok.</div> <p></p>
+<div>It then calculates the amount of things that need to be migrated, 13.5GB. </div>
+<p></p>
+<div>5.3GB of which are APPLICATIONS. &#8220;No way, I think. That can&#8217;t be possible.&#8221;</div>
+<p></p>
+<div>So I press continue and it goes. I leave it for about 6 hours while it transfers everything via WiFi from the old machine&#8230;.I go back to the Macbook Air&#8230;.literally everything is transferred. Office is installed and registered with the same product key (as her old machine) and in her name, Skype is installed with her credentials, it even transfers her OS X username and password, all her documents, pictures, music and movies. Dropbox is installed and configured properly and everything is in it&#8217;s place. The only thing that had a problem was an HP utility app for her printer/scanner. So I went online, downloaded the latest drivers and installed that - like I expected to have to do for everything else.</div> <p></p>
+<div>That&#8217;s it&#8230;.everything installed. All programs setup, all documents in place, iTunes works with all her music, everything.</div>
+<p></p>
+<div>From an OLD computer to a brand spanking new one, with everything intact, with a few clicks + a few hours waiting for the transfer via WiFi, then a few corrections.</div> <p></p>
+<div>I don&#8217;t think I will ever be able to do another PC migration and not be more annoyed than I used to be.</div>
+<p></p>
+<div>Mind. Blown!</div>
+<p></p>
+<p></p>
+<i>P.S. You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Development has built-in network effects]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/10/13/development-has-built-in-network-effects/"/>
+    <updated>2011-10-13T15:52:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/10/13/development-has-built-in-network-effects</id>
+    <content type="html"><![CDATA[<div class="gmail_quote">It just occurred to me that the more you actually build stuff, is the easier it is to build stuff.</div>
+<p></p>
+<div class="gmail_quote">
+<div>Not only because you get better, but because your library of solutions expands&#8230;which encourages you to build more stuff (because you are creating less &#8216;novel&#8217; pieces of your new project) which expands your library even more and makes you even better. Creating a virtuous positive cycle.</div>
+<p></p>
+<div>That happened to me just now. I needed a divider, something simple, elegant, doesn&#8217;t involve a GIF or any images, and pure CSS. Well, I remember struggling with this for <a href="http://www.compversions.com">CompVersions</a>, so I painstakingly took the time to create one.</div>
+<p></p>
+<div>It&#8217;s nice, simple and very elegant.</div>
+<p></p>
+<div>I literally just copied and pasted that one CSS rule from <a href="http://www.compversions.com">CompVersions</a> to my new project and added an empty div&#8230;BAM! Perfect divider.</div>
+<p></p>
+<div>Yes, I am a relatively n00bie &#8216;full-time&#8217; developer, so these sorts of &#8216;obvious stuff&#8217; are just now clicking with me - so you have to forgive my bouts of spontaneous joy when I come across them.</div>
+<p></p>
+<div>I imagine there must be other professions where this is true, take Law for instance (where you have a sample contract that is just re-used as the basis for all future contracts) - but it never occurred to me that it would be so powerful for development.</div>
+<p></p>
+<div>Btw, for anyone interested, here is the code for the divider:</div>
+<p></p>
+<div><p><a href="https://gist.github.com/1285517">https://gist.github.com/1285517</a></p></div>
+<p></p>
+<div>You should follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</div>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hacker's Guide to Cashflow vs Profit]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/09/30/hackers-guide-to-cashflow-vs-profit/"/>
+    <updated>2011-09-30T17:41:24-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/09/30/hackers-guide-to-cashflow-vs-profit</id>
+    <content type="html"><![CDATA[<div>Had a wonderful time at <a href="http://www.kingstonbeta.com">Kingston Beta</a> last night. </div>
+<p></p>
+<div>There was a point brought up by one of the presenters that entrepreneurs should focus on cash-flow instead of profitability. There were a few questions and I don&#8217;t think that the questioners fully understood, so I figured it was time for a post to try and explain (if I am still not clear, let me know in the comments).</div> <p></p>
+<div>&#8212;&#8211;</div>
+<p></p>
+<div><b>Cash Flow</b></div>
+<p></p>
+<div>Simply put the flow of cash in and out of your company. Cash can flow in from three sources: Operations, Investments, Financing. </div> <p></p>
+<div>
+<i>Operations - </i>This is what your business does. If you are a doctor, your cash INFLOW from operations would be what your patients pay you (as well as health insurance companies), while your cash OUTFLOW from operations would be what you paid your secretary, the office supplies you bought at the store yesterday. If you sell books, your cash INFLOW is the cash that your customers pay you for the books. Likewise, your cash OUTFLOW is the cash you then hand over to the distributor that you got the books from that you sold + the expenses you had to pay (utilities, etc.).</div> <p></p>
+<div>
+<i>Investments - </i>Say your business is doing really well and you always have excess cash in your bank account every month after you have paid all your expenses, it is fiscally prudent to put that cash to work rather than letting it sit idle. Either by investing in your company (say opening a new branch, or buying new manufacturing facilities or new servers, etc.) or by investing in some security (buying government bonds, or stocks of publicly traded companies, etc.). The cash OUTFLOW is what happens when you spend the cash initially to make the investment. The cash INFLOW is what happens when your investment pays you (e.g. a stock that you own pays a dividend) or you sell that investment and get back cash. Most startups won&#8217;t do this though, because in the early stages of a company you can usually get a better bang for your buck by investing in your own company and growing it until you reach the point where you can get better returns elsewhere.</div> <p></p>
+<div>
+<i>Financing - </i>This usually involves raising money for your company. If you are startup, then that usually means that you are raising a round of Angel/Venture investment. Your cash INFLOW would be when they wire you the money. The OUTFLOW would only occur when the company is either sold, or you have enough cash to buy by the stock from an early investor/founder once you reach later stages. This is more and more common now, than it was a few years ago. From the Founder&#8217;s perspective, it is typically said the Founder is &#8216;taking money off the table&#8217;. Meaning, they are cashing out a small portion of their stock - the idea here is that it allows the founder to swing for the fences and go for a big IPO or a big acquisition without feeling like they will lose it all.</div> <p></p>
+<div><b>Profit</b></div>
+<p></p>
+<div>Profit is the amount of money you have received in income (typically from operations) that you have left over after you have paid (or accounted for) all expenses in any particular period.</div> <p></p>
+<div>However, this metric is fuzzy. Here is why.</div>
+<p></p>
+<div>Say you sell security software to enterprises. Each enterprise license is $5,000/mo. All customers have to buy in annual contracts, so each contract you sign is worth $60,000 USD, all things being equal. However, most enterprise contracts don&#8217;t pay you the entire $60,000 upfront. They might pay you $10,000 now, then another $10,000 every 2 months for the next 10 months. Or they might pay you $30,000 (half) now, and say they are going to pay you in 2 months. But in 2 months, they say they need another 2 months, and keep doing that for the entire year. In some cases you will eventually get the money, but there are the occasional cases where you don&#8217;t. If you don&#8217;t manage your cash flow you might incur expenses in anticipation of that revenue that might come too late or not at all.</div> <p></p>
+<div>That&#8217;s how companies go out of business.</div>
+<p></p>
+<div>For instance, say you sign up 10 of those contracts in month one. You feel happy. You just &#8216;made&#8217; $600,000. If you bulk up and hire $600,000 worth of labour in month 1, to invest in product development and supporting this new contract, you could find yourself in a situation where you don&#8217;t have enough money to pay their salaries. If that happens you have at least three options a) lay them off - and face possible legal action depending on local labour laws, b) explaining the situation to your employees and asking them to forego pay - this too might expose you to legal action or c) getting more business to make up for the shortfall.</div> <p></p>
+<div>This is just month 1. Typically what leads companies to go out of business is this happens in too many consecutive months with too many clients and you get caught flat-footed or too underwater and can&#8217;t get a short-term loan to bridge you over until your customers pay.</div> <p></p>
+<div>That&#8217;s why, as a startup, it is fiscally prudent to focus on becoming cash flow positive - which basically means that every month you are taking in more cash than you are spending.</div>
+<p></p> <div>There are two obvious ways to do this:</div>
+<div>
+<ol>
+<li>Increase your ability to collect from customers (i.e. increase the % of customers that actually hand over cash)</li>
+<li>Extend the time period you have to pay your bills. For some things it&#8217;s harder (e.g. utilities, wages, etc.), but there are some things that you buy that you can usually get a break on - that give you another 30 - 60 days to pay.</li> </ol>
+<p></p>
+</div>
+<div>Once you understand these concepts, you can then understand why companies like Twitter, Facebook and GroupOn work the way they do.</div>
+<p></p>
+<div>Very briefly, here are some thoughts on the way these concepts affect those companies - without me having any internal knowledge of them, just speculating based on what is available in the public domain.</div> <p></p>
+<div>Twitter - The most famous thing to be said about Twitter is that they are not making any money. So let&#8217;s assume that they are actually not earning any money (even though that&#8217;s clearly not true from the Promoted Tweets and other advertising we see creeping into Twitter slowly but surely), the way they stay alive is by continually raising rounds of financing. According to <a href="http://www.crunchbase.com/company/twitter">Crunchbase</a> they have raised about $1.16B to date, in 8 different rounds of financing. So they can use the money from investors to pay their monthly bills while they figure out how to make money.</div> <p></p>
+<div>Facebook - While on the <a href="http://www.crunchbase.com/company/facebook">surface</a> looks similar to Twitter, with $2.34B raised in 11 rounds, in 2009 <a href="http://articles.businessinsider.com/2009-09-15/tech/30000617_1_facebook-ceo-mark-zuckerberg-cash-flow-long-term">they announced</a> that they were cash-flow positive (meaning they took in more cash every month than they spent). That doesn&#8217;t mean that they are profitable, but that definitely is a great sign. It indicates that they can continue growing and are in no immediate threat of going bankrupt.</div> <p></p>
+<div>GroupOn - They too <a href="http://www.crunchbase.com/company/groupon">raised many rounds</a> ($1.14B over 6 rounds, according to Crunchbase as a matter of fact), but they have been famously not-profitable. They have also been expanding rapidly - in January 2011 they were at <a href="http://articles.businessinsider.com/2011-01-18/tech/30029748_1_ceo-andrew-mason-buyout-talks-google">4500 employees up from 3000</a>+ in November the year before. So how have they been able to keep up that dizzying pace of growth? Not just venture financing&#8230;.it&#8217;s also how they treat their revenue. What they do is collect the total amount of the coupon (say $50 for $500 worth of pink high heels??), then they pay out say 50% of the $50, so $25 to the store at some point in the future. The longer they can hold on to that $25 that they have for the store, is the more things they can do with it. </div> <p></p>
+<div>So while most companies do try to extend the amount of time they have to pay their vendors, GroupOn seems to have it baked into their revenue model. </div>
+<p></p>
+<div>In my humble opinion, that&#8217;s not sustainable and that&#8217;s just one of the many reasons that investors have been crying foul over GroupOn&#8217;s filings.</div> <p></p>
+<div>One last example of a company that is &#8216;highly profitable&#8217; but can go bankrupt from lack of cash is what we saw happened with GE in the middle of the credit crisis. GE made about <a href="http://www.google.com/finance?q=NYSE:GE&amp;fstype=ii">$12B in profit in 2010</a>, on revenues of $150B. However, a big portion of the stuff they sell (airplane engines, locomotive parts, MRI machines, etc.) are very expensive. So they extend a line of credit to their customers. So even though they have booked an accounting &#8216;profit&#8217;, they don&#8217;t collect the cash from their customers very frequently for those sales. What they do is go to the investing public and sell investing products very frequently. To see all the ways you can &#8216;invest&#8217; in GE check out <a href="http://www.ge.com/investors/investing/fixed_income.html">this</a>, <a href="http://www.ge.com/investors/investing/commercial_paper.html">this</a>, <a href="http://www.ge.com/investors/investing/index.html">this</a> and <a href="http://www.ge.com/investors/personal_investing/index.html">this</a>. As a matter of fact, while I was doing research for this post, I learned something I never knew before&#8230;.apparently GE issues <a href="http://www.ge.com/investors/investing/commercial_paper.html">commercial paper in 1-day</a> increments. That means, they will borrow money from you for 1-day and pay you back the next day - with interest of course, but there is a catch. </div> <p></p>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <div style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 11px; background-color: rgb(255, 255, 255);">
+<div class="abstract_item" style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; clear: both;"> <h3 class="item_title" style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; line-height: 1.2727em; font-weight: bold; font-style: normal;"> Range of Maturities</h3>
+<p style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; line-height: 1.2727em; font-style: normal;"> Commercial Paper is generally offered from 1 to 270 days.</p>
+</div>
+<div class="abstract_item" style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; clear: both;"> <h3 class="item_title" style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; line-height: 1.2727em; font-weight: bold; font-style: normal;"> Minimum Investment Amount</h3>
+<p style="background-color: transparent; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color: initial; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; vertical-align: baseline; line-height: 1.2727em; font-style: normal;"> The minimum is $100,000 for transactions with a term of seven days or more. For transactions with a term of one to six days, the minimum amount is $500,000.</p>
+</div>
+</div>
+</blockquote>
+<div>That completely blows my mind. I am used to seeing 1-year, 10-year and 30-year maturities on bonds. But 1 day? WOW! That really shows you that they need the cash every day just to keep going.</div> <p></p>
+<div>So in the middle of the crisis, when they could no longer borrow for 1-day, they ran out of cash (literally overnight). They had to <a href="http://www.bnet.com/blog/secdocuments/general-electric-taps-tarp-for-additional-liquidity/201">apply to the US gov&#8217;t</a> for a temporary life-line.</div> <p></p>
+<div>If they didn&#8217;t get that, large sections of the company would have been in trouble (if not the entire company).</div>
+<p></p>
+<p></p>
+<div>So that&#8217;s why it is better advised to focus on becoming cash-flow positive and not &#8216;just&#8217; profitability. </div> <p></p>
+<div>I hope that helps with any confusion around this topic.</div>
+<p></p>
+<p></p>
+<p></p>
+<div><i>If you like this, you should follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</i></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tab Debt]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/09/10/tab-debt/"/>
+    <updated>2011-09-10T17:21:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/09/10/tab-debt</id>
+    <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">The act of accumulating a number (say &#8216;n&#8217;) of unread/unprocessed tabs left open in a browser window such that the next day rather than starting with 0 tabs open, you start with n.</blockquote>
+<p></p>
+<div>Also can be summed up as: X = X + Y, </div>
+<p></p>
+<div>where X = the number of tabs open at the beginning of the day, </div>
+<div>and Y = the number of tabs opened throughout the day.</div>
+<p></p>
+<div>This has become a major problem, so much so that when my browser crashes and I am forced to start over, I actually breathe a sigh of relief as I start from a fresh canvas.</div>
+<p></p>
+<div>Every single day I start the day with both my browsers looking like these two images:</div>
+<p></p>
+<div>
+<div class="p_embed p_image_embed">
+<img alt="Tab-set-1" height="8" src="http://marcamillion.github.com/marcgayle-blog/images/2011/09/10/tab-debt/Tab-Set-1.png" width="500">
+<img alt="Tab-set-2" height="7" src="http://marcamillion.github.com/marcgayle-blog/images/2011/09/10/tab-debt/Tab-Set-2.png" width="500">
+</div>
+</div>
+<p></p>
+<p>So many tabs that I can&#8217;t even see the name. It&#8217;s not long before I I can&#8217;t even see the favicons.</p>
+<div>Btw, these are tabs left open after I have sent those that I can send to my Kindle and closed those.</div>
+<p></p>
+<div>This is almost as bad as having an unwieldy inbox. But what is the solution to this?</div>
+<p></p>
+<div>I would love some help with this problem, because it is becoming more ridiculous by the day.</div>
+<p></p>
+<div>Help!</div>
+<p></p>
+<div>
+<em>P.S. You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a></em><em>.</em>
+</div>
+<p></p>
+<p> </p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[President Obama You Lied]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/10/president-obama-you-lied/"/>
+    <updated>2011-08-10T03:43:37-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/10/president-obama-you-lied</id>
+    <content type="html"><![CDATA[<div>Please don&#8217;t get me wrong. I am one of those people that supported your nascent campaign once you declared in Illinois. If I could have voted in 2008, I would have voted for you.</div>
+<p></p>
+<div>Even though I am not Congressman Wilson, I have to say it, you lied! </div> <p></p>
+<div>You have said that you would rather be a really good <a href="http://abcnews.go.com/WN/Politics/president-obama-good-term-president/story?id=9657337">one-term president</a>, than a mediocre two-term president.</div> <p></p>
+<div>As is evidenced from the way you recklessly managed the debt ceiling issue, you clearly had the 2012 re-election campaign in your sights.</div>
+<p></p>
+<div>The right thing for the country, and the world, would have been for you to stick to loose fiscal policy in the immediate-short term, and lay out a credible medium term plan for reigning in the deficits and paying down the debt once the economy has fully recovered. But you did just the opposite - with allowing the Republicans to cajoling you into short-term spending cuts and shirking the responsibility for the real tough decisions (like tackling social security, and medicare reform) to a Congressional Committee.</div> <p></p>
+<div>The ironic thing is, as you can see from the markets reaction, if the economy continues to deteriorate and slips back into a recession just in the nick of time of the next re-election - you will likely be the worst combination of what you wanted. </div> <p></p>
+<div>A mediocre one-term president.</div>
+<p></p>
+<div>That would be a travesty, because you had so much potential.</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A simple solution to America's Social Security Problem]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/06/a-simple-solution-to-americas-social-security/"/>
+    <updated>2011-08-06T16:00:54-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/06/a-simple-solution-to-americas-social-security</id>
+    <content type="html"><![CDATA[<div>TL;DR - Legalize all illegal immigrants and have an open immigration policy that makes up for the shortfall in the workforce.</div>
+<p></p>
+<div>Long version</div>
+<p></p>
+<div>The way Social Security works is, every dollar you pay in taxes today, goes to paying the check for a retiree.</div> <p></p>
+<div>To get a full appreciation for the Social Security Problem, let&#8217;s run some quick math.</div>
+<p></p>
+<div>
+<div>Let&#8217;s assume that each Baby Boomer is retiring at the age of 65. Also assume that each retiree lives for 30 years after retirement.</div> <p></p>
+<div>Also assume that each retiree is expecting to get $45K/year - which is likely to be VERY conservative, but, for simplicity&#8217;s sake let&#8217;s just use $45K/year.</div>
+<p></p>
+<div>Each retiree would have to be paid $45K * 30 years = $1.35M during retirement (let&#8217;s round it up to $1.5M to make it easier on the math).</div> <p></p>
+<div>Also assume that there is a gap of about 30 million people, meaning there are 30 million more people retiring (i.e. baby boomers) than there are replacing them (i.e. young people entering the work force for the first time) - and the gap could be wider, but for math&#8217;s sake, let&#8217;s go with that.</div> <p></p>
+<div>That means, it&#8217;s: 30,000,000 people * $1.5M = $45,000,000,000,000 (i.e. $30 Trillion)</div>
+</div>
+<p></p>
+<div>This ignores the health care related expenses for those retirees. This is a major problem, and this is what people mean when they say that Social Security is &#8216;unfunded&#8217;. i.e. there is a chunk of retirees that have no one just entering the workforce that will support them.</div> <p></p>
+<div>
+<b>Solution</b>: Expand the workforce to be greater than the number of retirees. i.e. Legalize all the illegal immigrants and open the gates so anyone can come and work in America&#8230;.up to a comfortable number over and above the number of retirees. </div> <p></p>
+<div>Obviously, I know there are political consequences to making a move like this and other repercussions, but if America&#8217;s leaders were honest enough about this solution they would start having this debate and figuring out how to solve it properly. This solution would also have to be done in tandem with other things like raising the retirement age, migrating from Defined Benefits to Defined Contribution, etc. But, by far, this solution would take care of the major driver of the problem - that more people are retiring than entering the workforce. </div> <p></p>
+<div>It really is that simple.</div>
+<br><i>You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>. </i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Legal System in America is Broken]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/02/the-legal-system-in-america-is-broken/"/>
+    <updated>2011-08-02T02:52:51-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/02/the-legal-system-in-america-is-broken</id>
+    <content type="html"><![CDATA[<div>There is something badly broken.</div>
+<p></p>
+<div>The US Congress - House of Representatives - have just passed, by a good margin (269 - 161), a bill that would <a href="http://online.wsj.com/article/SB10001424053111903520204576482040633224656.html?mod=WSJ_Home_largeHeadline">raise the debt ceiling</a>.</div> <p></p>
+<div>That&#8217;s not the part that is &#8216;broken&#8217; - although, that is up for debate.</div>
+<p></p>
+<div>However, this excerpt from the Wallstreet Journal article about the bill really struck me as odd:</div> <p></p>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> As leaders on both sides worked to sell the package to their members, they disagreed over whether it allows for tax increases.</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
+</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> &#8220;I think the big win here for us and for the American people is the fact that there are no tax hikes in this package,&#8221; said House Majority Leader Eric Cantor (R., Va.).</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
+</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> Democrats disagreed.</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
+</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> &#8220;We&#8217;ve had our lawyers go over this very carefully,&#8221; Sen. Kent Conrad (D., N.D.) said on MSNBC. &#8220;It is really very clear that [new] revenue can be part of any solution that the special committee develops.&#8221;</blockquote> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
+</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> While the agreement does suggest that the deficit-cutting committee could propose increasing taxes, it would face multiple barriers to doing so.</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
+</blockquote>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> One is that the committee is using Congressional Budget Office projections that assume revenue will rise with the expiration of the Bush-era tax rates and current middle-class relief from the Alternative Minimum Tax. In effect, the panel would have to look for additional tax increases to achieve any deficit reduction, which could prove politically difficult.</blockquote> </blockquote>
+<p></p>
+<div>So&#8230;let me get this straight. The lawyers (i.e. professionals paid to interpret laws) of the writers of this law, don&#8217;t even agree on the interpretation of this new law created by their clients - even before it is passed into law?</div> <p></p>
+<div>Uhh&#8230;am I missing something here? There has to be a better way to do this.</div>
+<p></p>
+<div>I am not so sure that having lawyers running a country, really is the best thing after all. </div>
+<p></p>
+<div>This is kinda ridiculous.</div>
+<p></p>
+<br><i>You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</i>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why the value of higher education won't diminish any time soon]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/07/04/why-the-value-of-higher-education-wont-dimini/"/>
+    <updated>2011-07-04T23:57:04-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/07/04/why-the-value-of-higher-education-wont-dimini</id>
+    <content type="html"><![CDATA[<div>One phrase: Compounded Network Effects.</div>
+<p></p>
+<div>We know that <a href="http://en.wikipedia.org/wiki/Network_effect">Network Effects</a> benefit companies like Telecoms - because the more people are on the network, is the more compelling the value proposition to join the network, which increases the size of the network which increases the value proposition - and Social Networks - everybody is on Facebook because everybody else is on Facebook - but it never occurred to me that a more powerful network effect is at work in higher education.</div> <p></p>
+<div>The more people that have a Bachelor&#8217;s Degree, is the more the value of a Bachelor&#8217;s Degree and everything else below is reduced (which actually runs counter to a network effect - but not really). Or said another way, the more people have a BA or BSc, is the greater the value of an MA, MBA, MSc, etc. If you get a BA, and everybody else has a BA, in order for you to stand out you have to get a higher degree. The more that happens, is the more everybody else is pressured into getting a &#8216;better degree&#8217; - which reinforces the entire system.</div> <p></p>
+<div>Also, once you get a degree, and you are hiring - it&#8217;s more likely that you will look for people with either your credentials or higher (for most jobs that require some amount of education). That adds to the cycle.</div> <p></p>
+<div>So just on the basis of different levels of degrees, we have seen one aspect of network effects being compounded the larger each network gets. </div>
+<p></p>
+<div>To add one more layer to it, each higher educational institution also has a brand. Some are differentiated from others (i.e. Ivy Leagues) which compounds these effects even further.</div> <p></p>
+<div>Not only do you now not just want to get a BA/BSc, you want to get one from Harvard, Yale, Stanford, MIT, etc. to stand out - otherwise you are just blending in. The more people get degrees from those institutions is the more other people will want to, which further compounds those network effects. So we have another set of compounding happening here.</div> <p></p>
+<div>To parlay this to telecoms or social networking, it would be the equivalent of not just wanting to get a cellphone - but to get an AT&amp;T cellphone. Or not just joining a social network, but joining Facebook.</div> <p></p>
+<div>I don&#8217;t think the compounded effect is in play with telecoms and I don&#8217;t think it is in effect for social networks either. </div>
+<p></p>
+<div>I am not sure what can be learned from this, or if there is a neat business model hiding in there somewhere - but I imagine that someday someone will come across some model that leverages compounding network effects like Higher Education has, but I haven&#8217;t seen that yet.</div> <p></p>
+<div>If you have any ideas or thoughts, would love to hear about them in the comments.</div>
+<p></p>You should probably <a href="http://www.twitter.com/marcgayle">follow me on Twitter too</a>, if you liked this.
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Performance Based Ads - Monetizing Excess Ad Inventory (Idea)]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/06/09/performance-based-ads-monetizing-excess-ad-in/"/>
+    <updated>2011-06-09T17:57:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/06/09/performance-based-ads-monetizing-excess-ad-in</id>
+    <content type="html"><![CDATA[<div>I finally launched <a href="http://www.compversions.com">CompVersions</a>, after 10 months of <a href="http://blog.compversions.com/learning-ruby-on-rails-css-jquery-building-a">learning Rails, jQuery</a>, and <a href="http://blog.compversions.com/building-a-webapp-tailored-to-designers-part">everything else I needed</a> to build the app.</div>
+<p></p>
+<div>I thought that would be the hard part, but boy was I wrong. It seems sales and marketing is much harder than I thought it would be.</div>
+<p></p>
+<div>*brief aside* I think there is a shortage of posts about &#8216;How to get your first 100 paying customers&#8217;. *end aside*</div>
+<p></p>
+<div>One of the many things I have been trying is approaching folks (blogs, ad networks, etc.) to find out if they are interested in doing performance based ads. Where, if they have excess inventory, I am prepared to give them X% of the revenues for every paying customer - for the first few months.</div>
+<p></p>
+<div>I thought something like this would be a no-brainer - because excess inventory is space that is not being sold, the potential upside of a successful campaign could be much more lucrative than a flat rate, once momentum gets going there is potential for long-term (relatively stable) revenues.</div>
+<p></p>
+<div>But for some reason I am not seeing the uptake that I would have liked.</div>
+<p></p>
+<div>Am I missing something here ?</div>
+<p></p>
+<div>It seems that this could be an interesting idea for someone to run with. Either have an ad network where the majority of the inventory is based on revenue share, because it shows the advertiser that you&#8217;re incentives are properly aligned - you don&#8217;t get paid for just show impressions - you get paid when they get paid. Or, some variation of that, that involves auctioning/bidding between fixed rate inventory and performance based.</div>
+<p></p>
+<div>I know this doesn&#8217;t work in every situation, and for every product, but I imagine it could work for many - especially for startups.</div>
+<p></p>
+<div>If anyone runs a design/photography blog, that wants to put their ad inventory where their mouth is (i.e. get paid when you perform), please <a href="http://marcgayle.com/pages/contact">get in touch</a>.</div>
+<p></p>
+<div>If I am missing something that could potentially make the value proposition for potential publishers more enticing, please feel free to let me know in the comments.</div>
+<p></p>
+<div>Thanks.</div>
+<p></p>
+<div><em>P.S. You should follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</em></div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Regulation can create moral hazard]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/05/20/regulation-can-create-moral-hazard/"/>
+    <updated>2011-05-20T14:20:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/05/20/regulation-can-create-moral-hazard</id>
+    <content type="html"><![CDATA[<div>There has been <a href="http://marcgayle.com/2009/03/24/moral-hazard-vs-systemic-risk-1">much</a> <a href="http://marcgayle.com/moral-hazard-at-the-central-bank-level">talk</a> about bailouts causing moral hazard over the last 2+ years. In an attempt to counteract the notion that when you get &#8216;too big to fail&#8217;, you will be bailed out, policy makers and regulators have been hard at work at <a href="http://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act">new reforms</a> to <a href="http://en.wikipedia.org/wiki/Basel_III">ensure the crisis</a> never happens again.</div>
+<p></p>
+<div>However, the Economist just pointed out something that blew my mind (because I never thought about it before) and figured I would share it. Here is the passage:</div>
+<p></p>
+<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;"><span style="color: #333333; font-family: Verdana, Arial, sans-serif; font-size: 13px; line-height: 20px;">Besides, the regulators’ reluctance to second-guess bank executives was well founded, because it can take them onto dangerous ground. If regulators underwrite certain strategies that seem safe, such as lending to small businesses or helping people buy houses, they may encourage banks to crowd into those lines of business. That can drive down interest rates and lending standards and push up asset prices. If enough banks pile into these markets, downturns in them can affect not just a few banks but the whole system. <strong>Paradoxically, the very act of signalling that a market is safe can make it dangerous. It also introduces a form of moral hazard, because banks and their creditors may assume that the government would be duty-bound to bail them out if a closely monitored institution were to fail.</strong></span></blockquote>
+<p></p>
+<div>Source: <a href="http://www.economist.com/node/18654608">http://www.economist.com/node/18654608</a> </div>
+<p></p>
+<div>I added the emphasis.</div>
+<p></p>
+<div>Talk about damned if you do, damned if you don&#8217;t. Thank God I am not a regulator, because this type of paradox is just ridiculous. </div>
+<p></p>
+<div>The most common suggestion for getting rid of moral hazard has been to &#8216;break up the big banks&#8217;&#8230;..but with this new consideration, even if you break up a big bank into 3 smaller banks and all those banks crowd into a line of business deemed &#8216;safe&#8217; by the regulators, that creates the same problem highlighted above.</div>
+<p></p>
+<div>So what is the answer ?</div>
+<p></p>
+<div>If anyone has any thoughts, I would love to hear it.</div>
+<p></p>
+<p><br><em>P.S. You can follow me on twitter <a href="http://twitter.com/marcgayle">here</a>.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Free Site Idea: Controversial YouTube Videos]]></title>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2011/05/17/free-site-idea-controversial-youtube-videos/"/>
+    <updated>2011-05-17T18:58:00-05:00</updated>
+    <id>http://marcamillion.github.com/marcgayle-blog/2011/05/17/free-site-idea-controversial-youtube-videos</id>
+    <content type="html"><![CDATA[<div>I have been meaning to write this post for a while, but forgot about it until I saw a <a href="http://twitter.com/#!/xyoni/status/60551988148060160">tweet recently</a> by a friend that reminded me.<span style="border-collapse: collapse; font-family: arial, sans-serif; font-size: 13px;"> </span>
+</div>
+<div>Here is an idea for an interesting side-project that I thought I would be able to do, but I have too much on my plate, so I figured I would put it out there for the internets to run with.</div>
+<p></p>
+<div><span style="border-collapse: collapse; font-family: arial, sans-serif; font-size: 13px;"><strong>Idea</strong>: A site that just has a &#8216;hot&#8217; video - determined by a variety of factors. The site should be simple, and very elegant. Ideally it would just have that one video embedded on each page or rather be the main focus. It can then have many other sections. I will provide details and a back story below.</span></div>
+<p></p>
+<p><span style="border-collapse: collapse; font-family: arial, sans-serif; font-size: 13px;"> </span></p>
+<div>I never realized that YouTube publishes both the likes &amp; dislikes of videos - see the classic example (below) of Rebecca Black&#8217;s &#8216;Friday&#8217; video (look right below the number of views, that image has 2.7M dislikes). </div>
+<div>
+<div class="p_embed p_image_embed">
+<img alt="Rebecca_blacks_friday_video_li" height="418" src="http://marcamillion.github.com/marcgayle-blog/images/2011/05/17/free-site-idea-controversial-youtube-videos/Rebecca_Blacks_Friday_Video_Li.jpg" width="500">
+</div>
+</div>
+<div>So rather than just doing the &#8216;most viewed&#8217; videos (although you could have a section that shows that if you would like), the main feature of the site would be the video that is &#8216;most controversial&#8217;. The way you calculate that is the disparity between likes and dislikes and views. Digg used this with their &#8216;most controversial comment&#8217; and that&#8217;s where the idea comes from. </div>
+<p></p>
+<div>To break out the illustration some more, let&#8217;s look at some numbers, you can have different levels of &#8216;controversial&#8217;. If a video has 1 like and 1 dislike and 2 views&#8230;well, that&#8217;s not controversial yet. If it has 1,000,000 views with 100,00 likes and 0 dislikes, that&#8217;s not controversial. But if it has 50,000 views with 20,000 likes &amp; 20,000 dislikes and is adding view numbers at a steady clip, that could be considered controversial.</div>
+<p></p>
+<div>Also, like Rebecca Black&#8217;s video that has 140M views, but 2.7M dislikes, that definitely is controversial. If it is so disliked, why do people like seeing it ? Which pushes up the views and likely pushes up the like-to-dislike ratio, which will likely push up the views and keep the cycle going. </div>
+<p></p>
+<div>So I would say, you would have a &#8216;controversy&#8217; factor, where it&#8217;s measured 0 to 1, where 0 is not controversial at all, but 1 is perfectly controversial (the Friday video would be perfectly controversial).</div>
+<div>So that would be the main section. Then you can add other sections, like &#8216;Most Liked&#8217;, &#8216;Most Disliked&#8217;, &#8216;Rapidly Gaining&#8217; - where you measure the rate at which the views are increasing along with likes, etc.</div>
+<p></p>
+<div>That&#8217;s it. Nothing too fancy, but could very easily be very viral.</div>
+<p></p>
+<div>If YouTube had a Ruby API, then I might have considered doing it, but based on the preliminary digging I couldn&#8217;t find one, and I don&#8217;t have the time to go through figuring out anything else that might cause me to have to do too much learning right now.</div>
+<p></p>
+<div>I imagine, a site like this could surface some very interesting videos and act like a nice filter of all the stuff put up on YouTube.</div>
+<p></p>
+<div>If you do find a Ruby API, please let me know in the comments and maybe I might re-consider.</div>
+<p></p>
+<div>Good luck!</div>
+<p> </p>
+<div><em>P.S. You can follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</em></div>
+]]></content>
+  </entry>
+  
+</feed>
