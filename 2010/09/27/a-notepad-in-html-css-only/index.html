@@ -1,109 +1,83 @@
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE HTML>
+<html>
 <head>
-  <meta charset="utf-8">
-  <title>A notepad in HTML & CSS only - The Blog of Marc Gayle</title>
-  <meta name="author" content="Marc Gayle">
+	<meta charset="utf-8">
+	<title>A notepad in HTML & CSS only - The Blog of Marc Gayle</title>
+	<meta name="author" content="Marc Gayle">
 
-  
-  <meta name="description" content="Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for &hellip;">
-  
+	
+	<meta name="description" content="Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="The Blog of Marc Gayle" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-4054156-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
+	<link href="/atom.xml" rel="alternate" title="The Blog of Marc Gayle" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
 </head>
 
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">The Blog of Marc Gayle</a></h1>
-  
-    <h2>Beware - Everything is 100% unadulturated opinion.</h2>
-  
-</hgroup>
+<body>
+	<header id="header" class="inner"><h1><a href="/">The Blog of Marc Gayle</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/">Blog</a></li>
+	<li><a href="/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:marcamillion.github.com/marcgayle-blog">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		
+		<a class="twitter" href="http://twitter.com/marcgayle" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/marcamillion" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		
+		<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:marcamillion.github.com/marcgayle-blog">
+	</form>
+</nav>
 
 </header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:marcamillion.github.com/marcgayle-blog" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">A Notepad in HTML & CSS Only</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2010-09-27T18:19:00-05:00" pubdate data-updated="true">Sep 27<span>th</span>, 2010</time>
-        
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">A Notepad in HTML & CSS Only</h2>
+	<div class="entry-content"><p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
 <p></p>
 <div class="p_embed p_image_embed">
 <img alt="Notepad" height="493" src="/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
@@ -116,14 +90,8 @@
 </div>
 
 
-  <footer>
-    <p class="meta">
-      
-  
-
-<span class="byline author vcard">Posted by <span class="fn">Marc Gayle</span></span>
-
-      
+<div class="meta">
+	<div class="date">
 
 
 
@@ -135,141 +103,60 @@
   
 
 
-<time datetime="2010-09-27T18:19:00-05:00" pubdate data-updated="true">Sep 27<span>th</span>, 2010</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/startup-finance/'> startup finance </a>, <a class='category' href='/blog/categories/startup/'>Startup</a>, <a class='category' href='/blog/categories/compversions/'>compversions</a>
-  
-</span>
+<time datetime="2010-09-27T18:19:00-05:00" pubdate data-updated="true">Sep 27<span>th</span>, 2010</time></div>
+	<div class="tags">
 
 
-    </p>
-    
-      <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only/" data-via="marcgayle" data-counturl="http://marcamillion.github.com/marcgayle-blog/2010/09/27/a-notepad-in-html-css-only/" >Tweet</a>
-  
-  
-  
-    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
-  
-</div>
+	<a class='category' href='/blog/categories/startup-finance/'> startup finance </a>, <a class='category' href='/blog/categories/startup/'>Startup</a>, <a class='category' href='/blog/categories/compversions/'>compversions</a>
 
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/2010/09/01/an-apology-to-ohanian-reddit-co-founder/" title="Previous Post: An apology to Ohanian (Reddit Co-founder)">&laquo; An apology to Ohanian (Reddit Co-founder)</a>
-      
-      
-        <a class="basic-alignment right" href="/2010/10/02/when-do-you-lose-credibility-message-to-indin/" title="Next Post: When do you lose credibility? Message to InDinero">When do you lose credibility? Message to InDinero &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
 
 </div>
+	
+</div></article>
 
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/2013/03/02/avoiding-market-failure-should-be-your-only-f/">Avoiding market failure should be your only focus</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2013/01/22/how-a-20-mvp-has-made-me-x0000/">How a $20 MVP has made me $X0,000</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi/">IE 8 Filter Style + Heroku Rake Asset Pre-Compile Error</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2012/12/20/the-caribbean-tech-industry-should-learn-from/">Wanted for the Caribbean: Digital Craftsmen.</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2012/08/31/empathy-for-the-other-side/">Empathy for the "other" side</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating...</li>
-  </ul>
-  
-  <a href="https://github.com/marcamillion">@marcamillion</a> on GitHub
-  
-  <script type="text/javascript">
-    $(document).ready(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'marcamillion',
-            count: 4,
-            skip_forks: true,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
 
 
-  
-</aside>
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
 
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Marc Gayle -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+    Marc Gayle
 
 </footer>
-  
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
 
 
 
 
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-4054156-1']);
+		_gaq.push(['_trackPageview']);
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
 
 
 
