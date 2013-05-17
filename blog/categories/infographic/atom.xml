@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Infographic | The Blog of Marc Gayle]]></title>
-  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/infographic/atom.xml" rel="self"/>
-  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
-  <updated>2013-05-17T16:28:05-05:00</updated>
-  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <link href="http://marcgayle.com/blog/categories/infographic/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-05-17T16:33:33-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[World Hunger {Infographic}]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/15/world-hunger-infographic/"/>
+    <link href="http://marcgayle.com/2010/05/15/world-hunger-infographic/"/>
     <updated>2010-05-15T03:32:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/15/world-hunger-infographic</id>
+    <id>http://marcgayle.com/2010/05/15/world-hunger-infographic</id>
     <content type="html"><![CDATA[<p>As a topic that is near and dear to my heart, this infographic prepared by the fine folks over at stripes39.com is absolutely interesting.</p>
 
 
@@ -25,7 +25,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Media_httpwwwonlinesc_gmbyc" height="2315" src="http://marcamillion.github.com/marcgayle-blog/images/2010/05/15/world-hunger-infographic/11605792-media_httpwwwonlinesc_GmByC.gif" width="500">
+<img alt="Media_httpwwwonlinesc_gmbyc" height="2315" src="http://marcgayle.com/images/2010/05/15/world-hunger-infographic/11605792-media_httpwwwonlinesc_GmByC.gif" width="500">
 </div>
 
 ]]></content>
@@ -33,9 +33,9 @@
   
   <entry>
     <title type="html"><![CDATA[Debt in Europe [Infographic]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/05/debt-in-europe-infographic-0/"/>
+    <link href="http://marcgayle.com/2010/05/05/debt-in-europe-infographic-0/"/>
     <updated>2010-05-05T22:06:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/05/debt-in-europe-infographic-0</id>
+    <id>http://marcgayle.com/2010/05/05/debt-in-europe-infographic-0</id>
     <content type="html"><![CDATA[<p><span style="font-family: Palatino, Georgia, Baskerville, serif; font-size: 14px; color: #666666; line-height: 18px;">The New York Times has a wonderful post that illustrates the web of debt weaved in Europe.</span></p>
 
 
@@ -43,7 +43,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Debt_in_europe" height="499" src="http://marcamillion.github.com/marcgayle-blog/images/2010/05/05/debt-in-europe-infographic-0/16961301-debt_in_Europe.jpg" width="500">
+<img alt="Debt_in_europe" height="499" src="http://marcgayle.com/images/2010/05/05/debt-in-europe-infographic-0/16961301-debt_in_Europe.jpg" width="500">
 </div>
 
 
@@ -56,14 +56,14 @@
   
   <entry>
     <title type="html"><![CDATA[Who has the most servers on the internet? [Infographic]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/"/>
+    <link href="http://marcgayle.com/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/"/>
     <updated>2010-04-17T02:15:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/17/who-has-the-most-servers-on-the-internet-infographic</id>
+    <id>http://marcgayle.com/2010/04/17/who-has-the-most-servers-on-the-internet-infographic</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Servers-on-the-net" height="750" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/16964384-servers-on-the-net.jpg" width="500">
+<img alt="Servers-on-the-net" height="750" src="http://marcgayle.com/images/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/16964384-servers-on-the-net.jpg" width="500">
 </div>
 
 
@@ -76,7 +76,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Most-dedicated-servers" height="2652" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/16964400-most-dedicated-servers.png" width="500">
+<img alt="Most-dedicated-servers" height="2652" src="http://marcgayle.com/images/2010/04/17/who-has-the-most-servers-on-the-internet-infographic/16964400-most-dedicated-servers.png" width="500">
 </div>
 
 
@@ -92,14 +92,14 @@
   
   <entry>
     <title type="html"><![CDATA[Apple vs Google vs Microsoft [Infographic]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/16/apple-vs-google-vs-microsoft-infographic/"/>
+    <link href="http://marcgayle.com/2010/04/16/apple-vs-google-vs-microsoft-infographic/"/>
     <updated>2010-04-16T02:10:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/16/apple-vs-google-vs-microsoft-infographic</id>
+    <id>http://marcgayle.com/2010/04/16/apple-vs-google-vs-microsoft-infographic</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Lego" height="334" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/16/apple-vs-google-vs-microsoft-infographic/16966623-lego.jpg" width="500">
+<img alt="Lego" height="334" src="http://marcgayle.com/images/2010/04/16/apple-vs-google-vs-microsoft-infographic/16966623-lego.jpg" width="500">
 </div>
 
 
@@ -112,7 +112,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Google-vs-apple-vs-microsoft" height="376" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/16/apple-vs-google-vs-microsoft-infographic/16966618-Google-vs-Apple-vs-Microsoft.jpg" width="500">
+<img alt="Google-vs-apple-vs-microsoft" height="376" src="http://marcgayle.com/images/2010/04/16/apple-vs-google-vs-microsoft-infographic/16966618-Google-vs-Apple-vs-Microsoft.jpg" width="500">
 </div>
 
 
@@ -128,14 +128,14 @@
   
   <entry>
     <title type="html"><![CDATA[Selling music online [Infographic]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/14/selling-music-online-infographic/"/>
+    <link href="http://marcgayle.com/2010/04/14/selling-music-online-infographic/"/>
     <updated>2010-04-14T02:16:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/14/selling-music-online-infographic</id>
+    <id>http://marcgayle.com/2010/04/14/selling-music-online-infographic</id>
     <content type="html"><![CDATA[<p>I love infographics that depict <a href="http://marcgayle.com/2010/04/08/nuclear-weapons-infographic/" title="Nuclear Warheads [Infographic]" target="_blank">all</a> <a href="http://marcgayle.com/2009/10/30/russia-versus-united-states-a-visual-comparison/" title="Russia vs US [Infographic]" target="_blank">sorts</a> of <a href="http://marcgayle.com/2009/10/28/internet-speeds-and-costs-around-the-world-graphic/" title="Internet Speeds around the world [Infographic]" target="_blank">useful</a> <a href="http://marcgayle.com/2009/06/10/nafta-visual-comparison-canada-us-mexico/" title="Canada vs US vs Mexico [Infographic]" target="_blank">information</a>.  Information is Beautiful has recently published an interesting one that illustrates how many music tracks or albums (in different formats) a musician would have to sell to make minimum wage.</p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Selling_music_online" height="2889" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/14/selling-music-online-infographic/16967010-selling_music_online.png" width="500">
+<img alt="Selling_music_online" height="2889" src="http://marcgayle.com/images/2010/04/14/selling-music-online-infographic/16967010-selling_music_online.png" width="500">
 </div>
 
 

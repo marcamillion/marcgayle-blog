@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: treasury | The Blog of Marc Gayle]]></title>
-  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/treasury/atom.xml" rel="self"/>
-  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
-  <updated>2013-05-17T16:28:05-05:00</updated>
-  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <link href="http://marcgayle.com/blog/categories/treasury/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-05-17T16:33:33-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,13 +15,13 @@
   
   <entry>
     <title type="html"><![CDATA[Where do your federal tax dollars go? [Graphic Illustration]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration/"/>
+    <link href="http://marcgayle.com/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration/"/>
     <updated>2009-04-18T00:48:24-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration</id>
+    <id>http://marcgayle.com/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration</id>
     <content type="html"><![CDATA[<p><a href="http://www.wallstats.com/" title="Wall Stats" target="_blank">Wallstats.com</a> has a nice graphic that illustrates the federal budget and how taxes are spent. It also shows, quite nicely, the <strong>gap</strong> between what the government makes and what the government spends - which has to be borrowed - otherwise known as the budget deficit (see the bottom right-side of the graphic).</p>
 
 <p>[caption id="" align="aligncenter" width="500" caption="What is money? by Kevin Dooley"]<div class="p_embed p_image_embed">
-<img alt="Media_httpfarm2static_yuxbv" height="196" src="http://marcamillion.github.com/marcgayle-blog/images/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration/11605976-media_httpfarm2static_yuxBv.jpg" width="500">
+<img alt="Media_httpfarm2static_yuxbv" height="196" src="http://marcgayle.com/images/2009/04/18/where-do-your-federal-tax-dollars-go-graphic-illustration/11605976-media_httpfarm2static_yuxBv.jpg" width="500">
 </div>
 [/caption]</p>
 
@@ -31,9 +31,9 @@
   
   <entry>
     <title type="html"><![CDATA[Unprecedented Transparency from the Treasury]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2009/04/01/unprecedented-transparency-from-the-treasury-1/"/>
+    <link href="http://marcgayle.com/2009/04/01/unprecedented-transparency-from-the-treasury-1/"/>
     <updated>2009-04-01T05:49:36-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2009/04/01/unprecedented-transparency-from-the-treasury-1</id>
+    <id>http://marcgayle.com/2009/04/01/unprecedented-transparency-from-the-treasury-1</id>
     <content type="html"><![CDATA[<p>In a day and age when confidence is shaken by the daily doldrums of the markets, and a bullish day is <a href="http://online.wsj.com/article/SB123854930706576507.html" title="WSJ.com - What to do if you blink and miss the market rally." target="_blank">celebrated as some form of stimulus bill</a>, the recent actions by the Treasury and the Obama administration are welcomed. The treasury announced the launch of a website - <a href="http://financialstability.gov/index.html" title="Treasury Website to Track Financial Transactions" target="_blank">FinancialStability.gov</a> - where they have started to provided unprecendented transparency into the financial transactions conducted by the government on the road to stabilizing the financial system.<!--more--></p>
 
 <p>For starters, they list all the money doled out as of March, 2009, through the $700B Trouble Asset Relief Program Act passed by congress last year. They specify not only which financial institutions receive the funds - but also how much they got, the date of the transaction, etc. They even included a <a href="http://financialstability.gov/impact/index.html" title="Local Impact of the Capital Purchase Program" target="_blank">nice interactive map of the United States</a> that makes it easy to understand.</p>

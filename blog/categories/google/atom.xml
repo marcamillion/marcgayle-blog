@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Google | The Blog of Marc Gayle]]></title>
-  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/google/atom.xml" rel="self"/>
-  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
-  <updated>2013-05-17T16:28:05-05:00</updated>
-  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <link href="http://marcgayle.com/blog/categories/google/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-05-17T16:33:33-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google indexes hundreds of thousands of Gigabytes per day]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day/"/>
+    <link href="http://marcgayle.com/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day/"/>
     <updated>2010-06-09T03:47:01-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day</id>
+    <id>http://marcgayle.com/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day</id>
     <content type="html"><![CDATA[<p>Google just announced that they have rolled out a new indexing system for their search engine, called Caffeine.</p>
 
 <p>Here are some interesting quotes:</p>
@@ -38,13 +38,13 @@
   
   <entry>
     <title type="html"><![CDATA[What can Google hold in RAM?]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2009/10/28/what-can-google-hold-in-ram/"/>
+    <link href="http://marcgayle.com/2009/10/28/what-can-google-hold-in-ram/"/>
     <updated>2009-10-28T22:15:20-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2009/10/28/what-can-google-hold-in-ram</id>
+    <id>http://marcgayle.com/2009/10/28/what-can-google-hold-in-ram</id>
     <content type="html"><![CDATA[<p>For those that might not know, RAM = Random Access Memory. This is the memory that a computer uses to temporarily store data while it is in use. If you have bought a computer recently, or are familiar with the specifications on your computer, you will notice that it will be anywhere from 512MB to 4-6GB. Your hard drive capacity (which is the other GB rating on your computer) is usually much larger. Say 250GB, even up to 2,000 GB (2 Tera Bytes) in some cases.</p>
 
 <p>[caption id="" align="aligncenter" width="430" caption="Taken by DailyInvention (Flickr)"]<div class="p_embed p_image_embed">
-<img alt="Media_httpfarm1static_qqene" height="331" src="http://marcamillion.github.com/marcgayle-blog/images/2009/10/28/what-can-google-hold-in-ram/11605947-media_httpfarm1static_qqEnE.jpg" width="500">
+<img alt="Media_httpfarm1static_qqene" height="331" src="http://marcgayle.com/images/2009/10/28/what-can-google-hold-in-ram/11605947-media_httpfarm1static_qqEnE.jpg" width="500">
 </div>
 [/caption]</p>
 ]]></content>
