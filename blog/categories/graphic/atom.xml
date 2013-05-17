@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: graphic | The Blog of Marc Gayle]]></title>
-  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/graphic/atom.xml" rel="self"/>
-  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
-  <updated>2013-05-17T16:38:28-05:00</updated>
-  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <link href="http://marcgayle.com/blog/categories/graphic/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-05-17T16:45:09-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Difference between PR, Marketing, Advertising & Branding [Infographic]]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/29/difference-between-pr-marketing-advertising-branding/"/>
+    <link href="http://marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding/"/>
     <updated>2010-04-29T06:00:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/29/difference-between-pr-marketing-advertising-branding</id>
+    <id>http://marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding</id>
     <content type="html"><![CDATA[<p><span style="font-family: Palatino, Georgia, Baskerville, serif; font-size: 14px; color: #666666; line-height: 18px;"><a href="http://9gag.com/" title="9GAG" target="_blank" style="color: #5f5f5f;">9gag.com</a> has recently put out a <a href="http://m.9gag.com/gag/21260" title="Difference between PR, Marketing, Advertising &amp; Branding" target="_blank" style="color: #5f5f5f;">nice infographic that illustrates</a>, pretty nicely, the differences between Public Relations, Marketing, Advertising and Branding.</span></p>
 
 
@@ -25,7 +25,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Diff-between-pr-mktg" height="900" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/29/difference-between-pr-marketing-advertising-branding/16961323-diff-between-PR-mktg.jpg" width="300">
+<img alt="Diff-between-pr-mktg" height="900" src="http://marcgayle.com/images/2010/04/29/difference-between-pr-marketing-advertising-branding/16961323-diff-between-PR-mktg.jpg" width="300">
 </div>
 
 ]]></content>

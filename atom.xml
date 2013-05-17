@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Blog of Marc Gayle]]></title>
-  <link href="http://marcamillion.github.com/marcgayle-blog/atom.xml" rel="self"/>
-  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
-  <updated>2013-05-17T16:38:28-05:00</updated>
-  <id>http://marcamillion.github.com/marcgayle-blog/</id>
+  <link href="http://marcgayle.com/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-05-17T16:45:09-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Avoiding market failure should be your only focus]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2013/03/02/avoiding-market-failure-should-be-your-only-f/"/>
+    <link href="http://marcgayle.com/2013/03/02/avoiding-market-failure-should-be-your-only-f/"/>
     <updated>2013-03-02T16:01:48-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2013/03/02/avoiding-market-failure-should-be-your-only-f</id>
+    <id>http://marcgayle.com/2013/03/02/avoiding-market-failure-should-be-your-only-f</id>
     <content type="html"><![CDATA[<div>I am assuming that whatever you are working on, whether it is your instrument playing skills, programming chops, or a tech startup, that you want to work on it/do it for a long time. I mean many, many years.</div> <p></p>
 <div>That doesn&#8217;t mean that you want to continue working on the same tech startup or you want to continuing hacking away at PHP (only) for the next 30 years. It just means that you want to continue building startups, or programming for the better part of the next 30 years.</div> <p></p>
 <div>Given that, your #1 priority should be avoiding market failure. Paul Graham <a href="http://www.paulgraham.com/good.html">simplified it</a> to &#8216;make something people want&#8217;. But it is broader than just making. It is, whatever you are doing - e.g. playing the violin, make sure other people are interested in what you are doing (and how you are doing it). Really interested. i.e. follow you on Twitter and jones for every video you post, every mp3 you give away free, every album of photos you release, every product iteration you roll out.</div> <p></p>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[How a $20 MVP has made me $X0,000]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2013/01/22/how-a-20-mvp-has-made-me-x0000/"/>
+    <link href="http://marcgayle.com/2013/01/22/how-a-20-mvp-has-made-me-x0000/"/>
     <updated>2013-01-22T19:15:28-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2013/01/22/how-a-20-mvp-has-made-me-x0000</id>
+    <id>http://marcgayle.com/2013/01/22/how-a-20-mvp-has-made-me-x0000</id>
     <content type="html"><![CDATA[<div>For months before I launched <a href="http://5kmvp.com">5KMVP</a>, I had <a href="http://news.ycombinator.com/item?id=2942856">been</a> <a href="http://news.ycombinator.com/item?id=4347304">running</a> <a href="http://news.ycombinator.com/item?id=4231436">experiments</a> on Hacker News.</div> <p></p>
 <div>Part of the experiment was to validate my thesis.</div>
 <p></p>
@@ -74,9 +74,9 @@
   
   <entry>
     <title type="html"><![CDATA[IE 8 Filter Style + Heroku Rake Asset Pre-Compile Error]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi/"/>
+    <link href="http://marcgayle.com/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi/"/>
     <updated>2013-01-21T19:47:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi</id>
+    <id>http://marcgayle.com/2013/01/21/ie-8-filter-style-heroku-rake-asset-pre-compi</id>
     <content type="html"><![CDATA[<div>If you are getting an error that looks like this:</div>
 <div>
 <div class="CodeRay">
@@ -111,9 +111,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wanted for the Caribbean: Digital Craftsmen.]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/12/20/the-caribbean-tech-industry-should-learn-from/"/>
+    <link href="http://marcgayle.com/2012/12/20/the-caribbean-tech-industry-should-learn-from/"/>
     <updated>2012-12-20T15:41:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/12/20/the-caribbean-tech-industry-should-learn-from</id>
+    <id>http://marcgayle.com/2012/12/20/the-caribbean-tech-industry-should-learn-from</id>
     <content type="html"><![CDATA[<div>Whenever I think about our regional tech industry, I struggle to understand the disconnect between what other people are doing in the world and what we are doing. There are many exemplary tech companies from all over the world that compete well on the world stage. There are at least <a href="http://www.campaignmonitor.com/our-story/">two</a> from <a href="http://www.atlassian.com/">Australia</a>, many from China, India, and many other countries.</div>
 <p></p>
 <div>What creates even more confusion on my part is when I look at our other local industries. The Caribbean and Jamaica in particular have many industries that we participate on the world stage in and excel.</div>
@@ -164,9 +164,9 @@
   
   <entry>
     <title type="html"><![CDATA[Empathy for the "other" side]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/08/31/empathy-for-the-other-side/"/>
+    <link href="http://marcgayle.com/2012/08/31/empathy-for-the-other-side/"/>
     <updated>2012-08-31T01:09:59-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/08/31/empathy-for-the-other-side</id>
+    <id>http://marcgayle.com/2012/08/31/empathy-for-the-other-side</id>
     <content type="html"><![CDATA[<div><span style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">People tend to be tribalistic. Whether it is politics, religion, football (Jamaican and American), technology (vim vs TextMate, Ruby vs Java), etc.</span></div> <p></p>
 <div>It&#8217;s very easy to be caught up in your own dogma, but at the very least (I would encourage you to) be reasonable. Before denigrating/slandering/ridiculing someone else because they prefer something different than you, be cognizant of the fact that they may prefer it because of different circumstances than you.</div> <p></p>
 <div><span style="color: rgb(34,34,34); font-family: arial,sans-serif; font-size: 13px; background-color: rgb(255,255,255);">For instance, not because you support Obama means that everyone that supports Romney/Ryan are idiots/stupid/crazy/dumb.</span></div> <p></p>
@@ -190,9 +190,9 @@
   
   <entry>
     <title type="html"><![CDATA[What the media is missing about the Apple vs Samsung Case]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/08/29/what-the-media-is-missing-about-the-apple-vs/"/>
+    <link href="http://marcgayle.com/2012/08/29/what-the-media-is-missing-about-the-apple-vs/"/>
     <updated>2012-08-29T21:46:54-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/08/29/what-the-media-is-missing-about-the-apple-vs</id>
+    <id>http://marcgayle.com/2012/08/29/what-the-media-is-missing-about-the-apple-vs</id>
     <content type="html"><![CDATA[<div>I <a href="http://news.ycombinator.com/item?id=4431677">made a comment</a> in response to a blog post about the Apple vs Samsung case on Hacker News recently - that got a ton more upvotes than I thought it would have (and a few friends of mine encouraged me to write this post), so I thought I would post the jist of my thoughts here.</div> <p></p>
 <p></p>
 <div>
@@ -212,9 +212,9 @@
   
   <entry>
     <title type="html"><![CDATA[Einstein's productivity is a model for all entrepreneuers]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/07/27/einsteins-productivity-is-a-model-for-all-ent/"/>
+    <link href="http://marcgayle.com/2012/07/27/einsteins-productivity-is-a-model-for-all-ent/"/>
     <updated>2012-07-27T20:26:28-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/07/27/einsteins-productivity-is-a-model-for-all-ent</id>
+    <id>http://marcgayle.com/2012/07/27/einsteins-productivity-is-a-model-for-all-ent</id>
     <content type="html"><![CDATA[<div>The next time you think &#8220;I will start {X} another time. I have too much going on now&#8230;.&#8221; consider this.</div>
 <p></p>
 <div>During the period when Albert Einstein wrote his <a href="http://en.wikipedia.org/wiki/Albert_Einstein#1905_-_Annus_Mirabilis_papers">4 papers that revolutionized physics</a> (including &#8220;The General Theory of Relativity&#8221;), he had a few things going in his life&#8230;.including but not limited to:</div> <div>
@@ -236,9 +236,9 @@
   
   <entry>
     <title type="html"><![CDATA[The biggest problem, for Jamaica's tech industry, is the sum of our smaller problems]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr/"/>
+    <link href="http://marcgayle.com/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr/"/>
     <updated>2012-07-27T15:37:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr</id>
+    <id>http://marcgayle.com/2012/07/27/the-biggest-problem-for-jamaicas-tech-industr</id>
     <content type="html"><![CDATA[<div>I just came from lunch with <a href="http://www.jamdeal.com">Chad Cunningham</a> and <a href="http://www.edufocal.com">Gordon Swaby</a>. We are trying to figure out, and put into words, the issues facing tech (more specifically internet/web) companies in Jamaica for a meeting with a government official coming up shortly.</div>
 <p></p>
 <div>After going through many scenarios of issues we face, the recurring theme always came back to the &#8220;small problems&#8221;. </div>
@@ -282,14 +282,14 @@
   
   <entry>
     <title type="html"><![CDATA[The life of a bootstrapper - Canada denied me a visitors visa because "I am too poor"]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/"/>
+    <link href="http://marcgayle.com/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/"/>
     <updated>2012-06-13T16:42:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a</id>
+    <id>http://marcgayle.com/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a</id>
     <content type="html"><![CDATA[<p><strong>Update: </strong>I re-applied with additional information about my business and financial situation and they approved the visa for 2 - 3 years. </p>
 <p> </p>
 <p></p>
 <div class="p_embed p_image_embed">
-<img alt="Refusal-letter" height="643" src="http://marcamillion.github.com/marcgayle-blog/images/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/42074952-Refusal-Letter.jpg" width="500">
+<img alt="Refusal-letter" height="643" src="http://marcgayle.com/images/2012/06/13/the-life-of-a-bootstrapper-canada-denied-me-a/42074952-Refusal-Letter.jpg" width="500">
 </div>
 
 <p> </p>
@@ -329,9 +329,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Simplicity of Apple]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/12/29/the-simplicity-of-apple/"/>
+    <link href="http://marcgayle.com/2011/12/29/the-simplicity-of-apple/"/>
     <updated>2011-12-29T13:38:34-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/12/29/the-simplicity-of-apple</id>
+    <id>http://marcgayle.com/2011/12/29/the-simplicity-of-apple</id>
     <content type="html"><![CDATA[<div>My mom just got a Macbook Air for Christmas, and I got the wonderful job of setting it up for her. I am a geek and for some reason, even though my Macbook Pro is about 2.5 years old, I get giddy just holding such a small but sturdy form factor in my hand. I might seem like a fan boy, but I am a cautious one. Even though I do development on my MBP, I still have a Windows 7 machine (dual-monitor) for &#8216;everyday use&#8217;. I can&#8217;t quite make the jump fully.</div> <p></p>
 <div>Anyway, back to the migration. I started thinking like I would for any normal PC migration. Where are the Application CDs, let&#8217;s get an external hard drive to track down her files and move everything there - then from the drive to the new machine. I immediately started to wrack my brain to figure out where her &#8216;profile&#8217; files are stored - i.e. when you are doing a PC migration, to save your bookmarks and browser information (pre-Chrome sync), you had to manually search for those files in My Documents and transfer them.</div> <p></p>
 <div>I also started thinking about setting up iTunes and adding the new files and folders to iTunes so she can find it EXACTLY the way she had it - otherwise I would get ENDLESS support phone calls about finding her music and other media files (which I just treasure to get - Hi Mom :)) </div> <p></p>
@@ -359,9 +359,9 @@
   
   <entry>
     <title type="html"><![CDATA[Development has built-in network effects]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/10/13/development-has-built-in-network-effects/"/>
+    <link href="http://marcgayle.com/2011/10/13/development-has-built-in-network-effects/"/>
     <updated>2011-10-13T15:52:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/10/13/development-has-built-in-network-effects</id>
+    <id>http://marcgayle.com/2011/10/13/development-has-built-in-network-effects</id>
     <content type="html"><![CDATA[<div class="gmail_quote">It just occurred to me that the more you actually build stuff, is the easier it is to build stuff.</div>
 <p></p>
 <div class="gmail_quote">
@@ -388,9 +388,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hacker's Guide to Cashflow vs Profit]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/09/30/hackers-guide-to-cashflow-vs-profit/"/>
+    <link href="http://marcgayle.com/2011/09/30/hackers-guide-to-cashflow-vs-profit/"/>
     <updated>2011-09-30T17:41:24-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/09/30/hackers-guide-to-cashflow-vs-profit</id>
+    <id>http://marcgayle.com/2011/09/30/hackers-guide-to-cashflow-vs-profit</id>
     <content type="html"><![CDATA[<div>Had a wonderful time at <a href="http://www.kingstonbeta.com">Kingston Beta</a> last night. </div>
 <p></p>
 <div>There was a point brought up by one of the presenters that entrepreneurs should focus on cash-flow instead of profitability. There were a few questions and I don&#8217;t think that the questioners fully understood, so I figured it was time for a post to try and explain (if I am still not clear, let me know in the comments).</div> <p></p>
@@ -458,9 +458,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tab Debt]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/09/10/tab-debt/"/>
+    <link href="http://marcgayle.com/2011/09/10/tab-debt/"/>
     <updated>2011-09-10T17:21:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/09/10/tab-debt</id>
+    <id>http://marcgayle.com/2011/09/10/tab-debt</id>
     <content type="html"><![CDATA[<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;">The act of accumulating a number (say &#8216;n&#8217;) of unread/unprocessed tabs left open in a browser window such that the next day rather than starting with 0 tabs open, you start with n.</blockquote>
 <p></p>
 <div>Also can be summed up as: X = X + Y, </div>
@@ -474,8 +474,8 @@
 <p></p>
 <div>
 <div class="p_embed p_image_embed">
-<img alt="Tab-set-1" height="8" src="http://marcamillion.github.com/marcgayle-blog/images/2011/09/10/tab-debt/Tab-Set-1.png" width="500">
-<img alt="Tab-set-2" height="7" src="http://marcamillion.github.com/marcgayle-blog/images/2011/09/10/tab-debt/Tab-Set-2.png" width="500">
+<img alt="Tab-set-1" height="8" src="http://marcgayle.com/images/2011/09/10/tab-debt/Tab-Set-1.png" width="500">
+<img alt="Tab-set-2" height="7" src="http://marcgayle.com/images/2011/09/10/tab-debt/Tab-Set-2.png" width="500">
 </div>
 </div>
 <p></p>
@@ -498,9 +498,9 @@
   
   <entry>
     <title type="html"><![CDATA[President Obama You Lied]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/10/president-obama-you-lied/"/>
+    <link href="http://marcgayle.com/2011/08/10/president-obama-you-lied/"/>
     <updated>2011-08-10T03:43:37-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/10/president-obama-you-lied</id>
+    <id>http://marcgayle.com/2011/08/10/president-obama-you-lied</id>
     <content type="html"><![CDATA[<div>Please don&#8217;t get me wrong. I am one of those people that supported your nascent campaign once you declared in Illinois. If I could have voted in 2008, I would have voted for you.</div>
 <p></p>
 <div>Even though I am not Congressman Wilson, I have to say it, you lied! </div> <p></p>
@@ -517,9 +517,9 @@
   
   <entry>
     <title type="html"><![CDATA[A simple solution to America's Social Security Problem]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/06/a-simple-solution-to-americas-social-security/"/>
+    <link href="http://marcgayle.com/2011/08/06/a-simple-solution-to-americas-social-security/"/>
     <updated>2011-08-06T16:00:54-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/06/a-simple-solution-to-americas-social-security</id>
+    <id>http://marcgayle.com/2011/08/06/a-simple-solution-to-americas-social-security</id>
     <content type="html"><![CDATA[<div>TL;DR - Legalize all illegal immigrants and have an open immigration policy that makes up for the shortfall in the workforce.</div>
 <p></p>
 <div>Long version</div>
@@ -547,9 +547,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Legal System in America is Broken]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/08/02/the-legal-system-in-america-is-broken/"/>
+    <link href="http://marcgayle.com/2011/08/02/the-legal-system-in-america-is-broken/"/>
     <updated>2011-08-02T02:52:51-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/08/02/the-legal-system-in-america-is-broken</id>
+    <id>http://marcgayle.com/2011/08/02/the-legal-system-in-america-is-broken</id>
     <content type="html"><![CDATA[<div>There is something badly broken.</div>
 <p></p>
 <div>The US Congress - House of Representatives - have just passed, by a good margin (269 - 161), a bill that would <a href="http://online.wsj.com/article/SB10001424053111903520204576482040633224656.html?mod=WSJ_Home_largeHeadline">raise the debt ceiling</a>.</div> <p></p>
@@ -585,9 +585,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why the value of higher education won't diminish any time soon]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/07/04/why-the-value-of-higher-education-wont-dimini/"/>
+    <link href="http://marcgayle.com/2011/07/04/why-the-value-of-higher-education-wont-dimini/"/>
     <updated>2011-07-04T23:57:04-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/07/04/why-the-value-of-higher-education-wont-dimini</id>
+    <id>http://marcgayle.com/2011/07/04/why-the-value-of-higher-education-wont-dimini</id>
     <content type="html"><![CDATA[<div>One phrase: Compounded Network Effects.</div>
 <p></p>
 <div>We know that <a href="http://en.wikipedia.org/wiki/Network_effect">Network Effects</a> benefit companies like Telecoms - because the more people are on the network, is the more compelling the value proposition to join the network, which increases the size of the network which increases the value proposition - and Social Networks - everybody is on Facebook because everybody else is on Facebook - but it never occurred to me that a more powerful network effect is at work in higher education.</div> <p></p>
@@ -608,9 +608,9 @@
   
   <entry>
     <title type="html"><![CDATA[Performance Based Ads - Monetizing Excess Ad Inventory (Idea)]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/06/09/performance-based-ads-monetizing-excess-ad-in/"/>
+    <link href="http://marcgayle.com/2011/06/09/performance-based-ads-monetizing-excess-ad-in/"/>
     <updated>2011-06-09T17:57:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/06/09/performance-based-ads-monetizing-excess-ad-in</id>
+    <id>http://marcgayle.com/2011/06/09/performance-based-ads-monetizing-excess-ad-in</id>
     <content type="html"><![CDATA[<div>I finally launched <a href="http://www.compversions.com">CompVersions</a>, after 10 months of <a href="http://blog.compversions.com/learning-ruby-on-rails-css-jquery-building-a">learning Rails, jQuery</a>, and <a href="http://blog.compversions.com/building-a-webapp-tailored-to-designers-part">everything else I needed</a> to build the app.</div>
 <p></p>
 <div>I thought that would be the hard part, but boy was I wrong. It seems sales and marketing is much harder than I thought it would be.</div>
@@ -641,9 +641,9 @@
   
   <entry>
     <title type="html"><![CDATA[Regulation can create moral hazard]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/05/20/regulation-can-create-moral-hazard/"/>
+    <link href="http://marcgayle.com/2011/05/20/regulation-can-create-moral-hazard/"/>
     <updated>2011-05-20T14:20:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/05/20/regulation-can-create-moral-hazard</id>
+    <id>http://marcgayle.com/2011/05/20/regulation-can-create-moral-hazard</id>
     <content type="html"><![CDATA[<div>There has been <a href="http://marcgayle.com/2009/03/24/moral-hazard-vs-systemic-risk-1">much</a> <a href="http://marcgayle.com/moral-hazard-at-the-central-bank-level">talk</a> about bailouts causing moral hazard over the last 2+ years. In an attempt to counteract the notion that when you get &#8216;too big to fail&#8217;, you will be bailed out, policy makers and regulators have been hard at work at <a href="http://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act">new reforms</a> to <a href="http://en.wikipedia.org/wiki/Basel_III">ensure the crisis</a> never happens again.</div>
 <p></p>
 <div>However, the Economist just pointed out something that blew my mind (because I never thought about it before) and figured I would share it. Here is the passage:</div>
@@ -668,9 +668,9 @@
   
   <entry>
     <title type="html"><![CDATA[Free Site Idea: Controversial YouTube Videos]]></title>
-    <link href="http://marcamillion.github.com/marcgayle-blog/2011/05/17/free-site-idea-controversial-youtube-videos/"/>
+    <link href="http://marcgayle.com/2011/05/17/free-site-idea-controversial-youtube-videos/"/>
     <updated>2011-05-17T18:58:00-05:00</updated>
-    <id>http://marcamillion.github.com/marcgayle-blog/2011/05/17/free-site-idea-controversial-youtube-videos</id>
+    <id>http://marcgayle.com/2011/05/17/free-site-idea-controversial-youtube-videos</id>
     <content type="html"><![CDATA[<div>I have been meaning to write this post for a while, but forgot about it until I saw a <a href="http://twitter.com/#!/xyoni/status/60551988148060160">tweet recently</a> by a friend that reminded me.<span style="border-collapse: collapse; font-family: arial, sans-serif; font-size: 13px;"> </span>
 </div>
 <div>Here is an idea for an interesting side-project that I thought I would be able to do, but I have too much on my plate, so I figured I would put it out there for the internets to run with.</div>
@@ -681,7 +681,7 @@
 <div>I never realized that YouTube publishes both the likes &amp; dislikes of videos - see the classic example (below) of Rebecca Black&#8217;s &#8216;Friday&#8217; video (look right below the number of views, that image has 2.7M dislikes). </div>
 <div>
 <div class="p_embed p_image_embed">
-<img alt="Rebecca_blacks_friday_video_li" height="418" src="http://marcamillion.github.com/marcgayle-blog/images/2011/05/17/free-site-idea-controversial-youtube-videos/Rebecca_Blacks_Friday_Video_Li.jpg" width="500">
+<img alt="Rebecca_blacks_friday_video_li" height="418" src="http://marcgayle.com/images/2011/05/17/free-site-idea-controversial-youtube-videos/Rebecca_Blacks_Friday_Video_Li.jpg" width="500">
 </div>
 </div>
 <div>So rather than just doing the &#8216;most viewed&#8217; videos (although you could have a section that shows that if you would like), the main feature of the site would be the video that is &#8216;most controversial&#8217;. The way you calculate that is the disparity between likes and dislikes and views. Digg used this with their &#8216;most controversial comment&#8217; and that&#8217;s where the idea comes from. </div>
