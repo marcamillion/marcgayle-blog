@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://marcamillion.github.com/marcgayle-blog
+# url: http://marcamillion.github.com/marcgayle-blog
+url: http://marcgayle.com
 title: The Blog of Marc Gayle
 subtitle: Beware - Everything is 100% unadulturated opinion.
 author: Marc Gayle
@@ -87,7 +88,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: marcgayle
 disqus_show_comment_count: false
 
 # Google Analytics
