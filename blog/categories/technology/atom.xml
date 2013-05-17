@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Technology | The Blog of Marc Gayle]]></title>
-  <link href="http://marcgayle.com/blog/categories/technology/atom.xml" rel="self"/>
-  <link href="http://marcgayle.com/"/>
-  <updated>2013-05-17T16:33:33-05:00</updated>
-  <id>http://marcgayle.com/</id>
+  <link href="http://marcamillion.github.com/marcgayle-blog/blog/categories/technology/atom.xml" rel="self"/>
+  <link href="http://marcamillion.github.com/marcgayle-blog/"/>
+  <updated>2013-05-17T16:38:28-05:00</updated>
+  <id>http://marcamillion.github.com/marcgayle-blog/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google indexes hundreds of thousands of Gigabytes per day]]></title>
-    <link href="http://marcgayle.com/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day/"/>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day/"/>
     <updated>2010-06-09T03:47:01-05:00</updated>
-    <id>http://marcgayle.com/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day</id>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/09/google-indexes-hundreds-of-thousands-of-gigabytes-per-day</id>
     <content type="html"><![CDATA[<p>Google just announced that they have rolled out a new indexing system for their search engine, called Caffeine.</p>
 
 <p>Here are some interesting quotes:</p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[TED Talk: John Underkoffler demonstrating Minority Report Interface]]></title>
-    <link href="http://marcgayle.com/2010/06/03/ted-talk-john-underkoffer-demonstrating-minority-report-interface/"/>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/06/03/ted-talk-john-underkoffer-demonstrating-minority-report-interface/"/>
     <updated>2010-06-03T22:58:09-05:00</updated>
-    <id>http://marcgayle.com/2010/06/03/ted-talk-john-underkoffer-demonstrating-minority-report-interface</id>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/06/03/ted-talk-john-underkoffer-demonstrating-minority-report-interface</id>
     <content type="html"><![CDATA[<p>This is a real-life example of the User Interface from the movie 'The Minority Report'.</p>
 
 <object height="326" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="446" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true">
@@ -58,9 +58,9 @@
   
   <entry>
     <title type="html"><![CDATA[An open letter to Alexis Ohanian (Reddit co-founder)]]></title>
-    <link href="http://marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder/"/>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder/"/>
     <updated>2010-05-28T19:58:05-05:00</updated>
-    <id>http://marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder</id>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder</id>
     <content type="html"><![CDATA[<p>Alexis your <a href="http://alexisohanian.com/an-open-letter-to-kevin-rose" title="An open letter to Kevin Rose from Alexis Ohanian" target="_blank">recent blog post to Kevin Rose re: Digg</a> struck a wrong chord with me. For those not familiar with what he is talking about, a <a href="http://techcrunch.com/2010/05/28/exclusive-video-and-screenshots-of-digg-version-4/" title="Sneak Peak at Digg Version 4" target="_blank">new video giving details about upcoming changes for Digg version 4</a> was released today.<p></p>
 I can see how on the surface these changes look like a clone of other more popular features, but I suspect you might be mis-interpreting what's happening here.<p></p>
 Yes, many of the features look and feel like competitors. But so does the iPod. It plays mp3s? Yuck! So does Rhapsody's player, why would I want one from Apple. So does a Mercedes/BMW, it has wheels + an engine.<p></p>
@@ -94,9 +94,9 @@ Maybe I am biased, because I am one of those that submit stories that stall or g
   
   <entry>
     <title type="html"><![CDATA[The Google Job Experiment]]></title>
-    <link href="http://marcgayle.com/2010/05/13/the-google-job-experiment/"/>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/05/13/the-google-job-experiment/"/>
     <updated>2010-05-13T03:00:00-05:00</updated>
-    <id>http://marcgayle.com/2010/05/13/the-google-job-experiment</id>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/05/13/the-google-job-experiment</id>
     <content type="html"><![CDATA[<p>This is pretty ingenius.  If I were hiring a creative guy, I would definitely hire this guy. </p>
 
 
@@ -107,14 +107,14 @@ Maybe I am biased, because I am one of those that submit stories that stall or g
   
   <entry>
     <title type="html"><![CDATA[App Idea for the iPhone/iPod Touch/iPad]]></title>
-    <link href="http://marcgayle.com/2010/04/23/iphone-and-ipad-app-idea/"/>
+    <link href="http://marcamillion.github.com/marcgayle-blog/2010/04/23/iphone-and-ipad-app-idea/"/>
     <updated>2010-04-23T17:13:00-05:00</updated>
-    <id>http://marcgayle.com/2010/04/23/iphone-and-ipad-app-idea</id>
+    <id>http://marcamillion.github.com/marcgayle-blog/2010/04/23/iphone-and-ipad-app-idea</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Scratch__win_app_idea" height="375" src="http://marcgayle.com/images/2010/04/23/iphone-and-ipad-app-idea/scratch__win_app_idea.jpg" width="500">
+<img alt="Scratch__win_app_idea" height="375" src="http://marcamillion.github.com/marcgayle-blog/images/2010/04/23/iphone-and-ipad-app-idea/scratch__win_app_idea.jpg" width="500">
 </div>
 
 
