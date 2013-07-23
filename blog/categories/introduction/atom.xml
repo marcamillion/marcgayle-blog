@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: introduction | The Blog of Marc Gayle]]></title>
-  <link href="http://marcgayle.com/blog/categories/introduction/atom.xml" rel="self"/>
-  <link href="http://marcgayle.com/"/>
-  <updated>2013-05-17T16:45:09-05:00</updated>
-  <id>http://marcgayle.com/</id>
+  <link href="http://www.marcgayle.com/blog/categories/introduction/atom.xml" rel="self"/>
+  <link href="http://www.marcgayle.com/"/>
+  <updated>2013-07-23T04:11:25-05:00</updated>
+  <id>http://www.marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello world!]]></title>
-    <link href="http://marcgayle.com/2009/03/24/hello-world/"/>
+    <link href="http://www.marcgayle.com/2009/03/24/hello-world/"/>
     <updated>2009-03-24T18:00:18-05:00</updated>
-    <id>http://marcgayle.com/2009/03/24/hello-world</id>
+    <id>http://www.marcgayle.com/2009/03/24/hello-world</id>
     <content type="html"><![CDATA[<p>With the economy crumbling around us, the world going crazy, everybody blaming anybody else, this is my way of trying to make sense of it all.</p>
 
 <p>Sometimes there will be links, sometimes there will be analysis, and other times the occassional rant. All the time though, they will either be my thoughts - or on my thoughts.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: compversions | The Blog of Marc Gayle]]></title>
-  <link href="http://marcgayle.com/blog/categories/compversions/atom.xml" rel="self"/>
-  <link href="http://marcgayle.com/"/>
-  <updated>2013-05-17T16:45:09-05:00</updated>
-  <id>http://marcgayle.com/</id>
+  <link href="http://www.marcgayle.com/blog/categories/compversions/atom.xml" rel="self"/>
+  <link href="http://www.marcgayle.com/"/>
+  <updated>2013-07-23T04:11:25-05:00</updated>
+  <id>http://www.marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A notepad in HTML & CSS only]]></title>
-    <link href="http://marcgayle.com/2010/09/27/a-notepad-in-html-css-only/"/>
+    <link href="http://www.marcgayle.com/2010/09/27/a-notepad-in-html-css-only/"/>
     <updated>2010-09-27T18:19:00-05:00</updated>
-    <id>http://marcgayle.com/2010/09/27/a-notepad-in-html-css-only</id>
+    <id>http://www.marcgayle.com/2010/09/27/a-notepad-in-html-css-only</id>
     <content type="html"><![CDATA[<p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
 
 
@@ -25,7 +25,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Notepad" height="493" src="http://marcgayle.com/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
+<img alt="Notepad" height="493" src="http://www.marcgayle.com/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
 </div>
 
 
