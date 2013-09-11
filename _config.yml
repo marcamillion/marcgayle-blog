@@ -8,7 +8,7 @@ title: The Blog of Marc Gayle
 subtitle: Beware - Everything is 100% unadulturated opinion.
 author: Marc Gayle
 simple_search: http://google.com/search
-description: I create web applications. First for myself and now for others. I will build you a web application in the form of an MVP for just $5K.
+description: I create web applications. Specifically minimum viable products for just $5K.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -20,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: marc.gayle+blog@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -48,7 +48,9 @@ titlecase: true       # Converts page and post titles to titlecase
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
 
-default_asides: [asides/recent_posts.html, asides/github.html]
+default_asides: [custom/asides/about.html, custom/asides/notable_posts.html, asides/recent_posts.html, asides/github.html, asides/nav.html]
+# default_asides: [custom/asides/about.html]
+
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
