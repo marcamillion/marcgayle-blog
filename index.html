@@ -9,7 +9,7 @@
   <meta name="author" content="Marc Gayle">
 
   
-  <meta name="description" content="I am assuming that whatever you are working on, whether it is your instrument playing skills, programming chops, or a tech startup, that you want to &hellip;">
+  <meta name="description" content="The issue I faced was that I have an existing static site hosted on Github via gh-pages. That is just regular HTML/CSS/JS. It works perfectly. But, I &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -75,6 +75,93 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site/">Deploying Octopress Blog to an Existing Gh-pages Static Site</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-09-21T05:17:00-05:00" pubdate data-updated="true">Sep 21<span>st</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>The issue I faced was that I have an <a href="http://5kmvp.com">existing static site</a> hosted on Github via <code>gh-pages</code>. That is just regular HTML/CSS/JS. It works perfectly.</p>
+
+<p>But, I wanted to add an elegant Octopress blog to that same static site - so I can have both my company site &amp; blog hosted on Github&#8217;s powerful hosting platform.</p>
+
+<p>This is how I pulled it off.</p>
+
+<ul>
+<li>Get the folder of your static site all setup like normal. Get all the pathings right for your /img, /css, /js, etc.</li>
+<li>Follow all the directions in the Octopress <a href="http://octopress.org/docs/setup/">setup</a> and <a href="http://octopress.org/docs/deploying/github/">deployment</a> guide.</li>
+<li>Install the theme you want for Octopress (it is important to do this step before the rest of the steps, because everytime you install a theme it resets your index.html).</li>
+<li>Follow <a href="http://octopress.org/docs/theme/template/#landing_page">these instructions</a> about moving your blog index page - make sure to update the Rakefile, per the instructions.</li>
+<li>Then use these settings in your files:</li>
+</ul>
+
+
+<p><code>_config.yml</code> (you can customize all the other settings, but these worked for me)</p>
+
+<pre><code>url: http://5kmvp.com
+subscribe_rss: /atom.xml
+root: /
+permalink: /blog/:year/:month/:day/:title/
+source: source
+destination: public
+category_dir: blog/categories
+</code></pre>
+
+<p>Rakefile</p>
+
+<pre><code>public_dir      = "public"    # compiled site directory
+source_dir      = "source"    # source file directory
+blog_index_dir  = 'source/blog'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
+</code></pre>
+
+<p>Then once that is done, you copy your existing static site (with the exact structure that you setup earlier) into your <code>/octopress/source/</code> folder - so yours should look similar to <a href="https://github.com/marcamillion/5KMVP/tree/source/source">mine here</a>.</p>
+
+<p>What you will notice is that now Octopress will publish to /blog (which is a subfolder called &#8216;blog&#8217; in your &#8216;source&#8217; folder).</p>
+
+<p>Basically the way Octopress works is that at it&#8217;s core, it copies everything from /source/ except for a few exceptions (all folders that start with <code>_</code>, etc.)</p>
+
+<p>If you have any conflicts with your folders (e.g. if you have /img/ and Octopress has /images/) then just copy both if you don&#8217;t want have to update your paths in all your HTML files. It&#8217;s no big deal.</p>
+
+<p>That&#8217;s pretty much it.</p>
+
+<p>Remember that <code>rake preview</code> and <code>rake generate</code> are your friends. Use them religiously.</p>
+
+<p>If you have any issues with styling, then you may need to play around with some of the paths in the various variables in your <code>_config.yml</code> and <code>Rakefile</code> a bit. But you should&#8217;t have to, because all of these values worked for me - and I did A LOT of playing around.</p>
+
+<p><strong>Special Note: You should end up with your static site index.html in the root folder of the generated site - you can see the <a href="https://github.com/marcamillion/5KMVP/blob/source/source/index.html">source</a> here and the <a href="https://github.com/marcamillion/5KMVP/tree/gh-pages">generated version</a> here - and you should also have an octopress generated index in the <code>/blog/</code> subfolder - again&#8230;the <a href="https://github.com/marcamillion/5KMVP/blob/source/source/blog/index.html">source</a> here and <a href="https://github.com/marcamillion/5KMVP/blob/gh-pages/blog/index.html">generated version</a> here.</strong></p>
+
+<p>You can always just look at <a href="https://github.com/marcamillion/5KMVP/tree/source/source">my entire source to see what I did</a>.</p>
+
+<p>Good luck and I hope this saves some poor soul from spending weeks trying to figure this out.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -633,63 +720,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2011/12/29/the-simplicity-of-apple/">The Simplicity of Apple</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-12-29T13:38:34-05:00" pubdate data-updated="true">Dec 29<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><div>My mom just got a Macbook Air for Christmas, and I got the wonderful job of setting it up for her. I am a geek and for some reason, even though my Macbook Pro is about 2.5 years old, I get giddy just holding such a small but sturdy form factor in my hand. I might seem like a fan boy, but I am a cautious one. Even though I do development on my MBP, I still have a Windows 7 machine (dual-monitor) for &#8216;everyday use&#8217;. I can&#8217;t quite make the jump fully.</div> <p></p>
-<div>Anyway, back to the migration. I started thinking like I would for any normal PC migration. Where are the Application CDs, let&#8217;s get an external hard drive to track down her files and move everything there - then from the drive to the new machine. I immediately started to wrack my brain to figure out where her &#8216;profile&#8217; files are stored - i.e. when you are doing a PC migration, to save your bookmarks and browser information (pre-Chrome sync), you had to manually search for those files in My Documents and transfer them.</div> <p></p>
-<div>I also started thinking about setting up iTunes and adding the new files and folders to iTunes so she can find it EXACTLY the way she had it - otherwise I would get ENDLESS support phone calls about finding her music and other media files (which I just treasure to get - Hi Mom :)) </div> <p></p>
-<div>So I boot the Macbook Air, and about 2 screens in, it asks me for WiFi credentials. I enter password and move on. ~2 screens later it asks if I want to migrate anything from an old machine.</div>
-<p></p>
-<div>&#8220;Holy crap&#8221; I think&#8230;this cannot possibly be suggesting what I think it is.</div>
-<p></p>
-<div>I see a screen that looks like it is scanning for a WiFi network with some directions (go to old computer, go to Applications -&gt; Migration Assistant and select the option &#8216;Migrate FROM this computer&#8217;). I do that, then come back to the Macbook Air. It finds my mom&#8217;s old machine, and asks me for the verification code that&#8217;s on her screen. I confirm it, and press ok.</div> <p></p>
-<div>It then calculates the amount of things that need to be migrated, 13.5GB. </div>
-<p></p>
-<div>5.3GB of which are APPLICATIONS. &#8220;No way, I think. That can&#8217;t be possible.&#8221;</div>
-<p></p>
-<div>So I press continue and it goes. I leave it for about 6 hours while it transfers everything via WiFi from the old machine&#8230;.I go back to the Macbook Air&#8230;.literally everything is transferred. Office is installed and registered with the same product key (as her old machine) and in her name, Skype is installed with her credentials, it even transfers her OS X username and password, all her documents, pictures, music and movies. Dropbox is installed and configured properly and everything is in it&#8217;s place. The only thing that had a problem was an HP utility app for her printer/scanner. So I went online, downloaded the latest drivers and installed that - like I expected to have to do for everything else.</div> <p></p>
-<div>That&#8217;s it&#8230;.everything installed. All programs setup, all documents in place, iTunes works with all her music, everything.</div>
-<p></p>
-<div>From an OLD computer to a brand spanking new one, with everything intact, with a few clicks + a few hours waiting for the transfer via WiFi, then a few corrections.</div> <p></p>
-<div>I don&#8217;t think I will ever be able to do another PC migration and not be more annoyed than I used to be.</div>
-<p></p>
-<div>Mind. Blown!</div>
-<p></p>
-<p></p>
-<i>P.S. You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</i>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/page/2/">&larr; Older</a>
@@ -721,6 +751,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site/">Deploying Octopress Blog to an Existing Gh-pages Static Site</a>
+      </li>
+    
+      <li class="post">
         <a href="/2013/03/02/avoiding-market-failure-should-be-your-only-f/">Avoiding Market Failure Should Be Your Only Focus</a>
       </li>
     
@@ -734,10 +768,6 @@
     
       <li class="post">
         <a href="/2012/12/20/the-caribbean-tech-industry-should-learn-from/">Wanted for the Caribbean: Digital Craftsmen.</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2012/08/31/empathy-for-the-other-side/">Empathy for the &#8220;Other&#8221; Side</a>
       </li>
     
   </ul>
