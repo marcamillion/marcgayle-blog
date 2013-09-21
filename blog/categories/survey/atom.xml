@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: survey | The Blog of Marc Gayle]]></title>
-  <link href="http://www.marcgayle.com/blog/categories/survey/atom.xml" rel="self"/>
-  <link href="http://www.marcgayle.com/"/>
-  <updated>2013-09-21T06:03:41-05:00</updated>
-  <id>http://www.marcgayle.com/</id>
+  <link href="http://marcgayle.com/blog/categories/survey/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-09-21T06:06:13-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Doing a Quick Survey]]></title>
-    <link href="http://www.marcgayle.com/2009/09/19/tiny-frustrations-survey/"/>
+    <link href="http://marcgayle.com/2009/09/19/tiny-frustrations-survey/"/>
     <updated>2009-09-19T02:53:31-05:00</updated>
-    <id>http://www.marcgayle.com/2009/09/19/tiny-frustrations-survey</id>
+    <id>http://marcgayle.com/2009/09/19/tiny-frustrations-survey</id>
     <content type="html"><![CDATA[<p>I am doing a quick survey to try and figure out the 'Tiny Frustrations' that people face during their 9-to-5. It is the little frustrations that make you say "there has got to be a better/easier way to do this".</p>
 
 <p>Tell me about those <a href="http://bit.ly/G10wO" title="Tiny Frustrations Survey" target="_blank">here</a> (Don't worry, just 6 questions with some multiple choice =))</p>

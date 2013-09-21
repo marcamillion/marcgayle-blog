@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: gh-pages | The Blog of Marc Gayle]]></title>
-  <link href="http://www.marcgayle.com/blog/categories/gh-pages/atom.xml" rel="self"/>
-  <link href="http://www.marcgayle.com/"/>
-  <updated>2013-09-21T06:03:41-05:00</updated>
-  <id>http://www.marcgayle.com/</id>
+  <link href="http://marcgayle.com/blog/categories/gh-pages/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-09-21T06:06:13-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Deploying octopress blog to an existing gh-pages static site]]></title>
-    <link href="http://www.marcgayle.com/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site/"/>
+    <link href="http://marcgayle.com/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site/"/>
     <updated>2013-09-21T05:17:00-05:00</updated>
-    <id>http://www.marcgayle.com/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site</id>
+    <id>http://marcgayle.com/2013/09/21/deploying-octopress-blog-to-an-existing-gh-pages-static-site</id>
     <content type="html"><![CDATA[<p>The issue I faced was that I have an <a href="http://5kmvp.com">existing static site</a> hosted on Github via <code>gh-pages</code>. That is just regular HTML/CSS/JS. It works perfectly.</p>
 
 <p>But, I wanted to add an elegant Octopress blog to that same static site - so I can have both my company site &amp; blog hosted on Github's powerful hosting platform.</p>
@@ -69,7 +69,9 @@ blog_index_dir  = 'source/blog'    # directory for your blog's index page (if yo
 
 <p>You can always just look at <a href="https://github.com/marcamillion/5KMVP/tree/source/source">my entire source to see what I did</a>.</p>
 
-<p>Most other setup &amp; deployment instructions apply and work fine (including remembering to include a CNAME file for your custom domain). Whenever you want to change one of the static sites - i.e. a non-octopress file - then edit/update it locally and use <code>rake deploy</code> when you are done (as opposed to a <code>git push</code> like you would for a normal non-static site hosted on <code>gh-pages</code>).</p>
+<p>Most other setup &amp; deployment instructions apply and work fine (including remembering to include a CNAME file for your custom domain).</p>
+
+<p>Whenever you want to change one of the static sites - i.e. a non-octopress file - then edit/update it locally and use <code>rake deploy</code> when you are done (as opposed to a <code>git push</code> like you would for a normal non-static site hosted on <code>gh-pages</code>).</p>
 
 <p>Remember to backup your entire repo to a <code>source</code> or <code>master</code> branch or some other branch, so you can always revert to it if you mess stuff up.</p>
 

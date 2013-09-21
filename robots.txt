@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.marcgayle.com/sitemap.xml 
+Sitemap: http://marcgayle.com/sitemap.xml 

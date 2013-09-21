@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: letter to the editor | The Blog of Marc Gayle]]></title>
-  <link href="http://www.marcgayle.com/blog/categories/letter-to-the-editor/atom.xml" rel="self"/>
-  <link href="http://www.marcgayle.com/"/>
-  <updated>2013-09-21T06:03:41-05:00</updated>
-  <id>http://www.marcgayle.com/</id>
+  <link href="http://marcgayle.com/blog/categories/letter-to-the-editor/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-09-21T06:06:13-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Power of Words]]></title>
-    <link href="http://www.marcgayle.com/2010/06/03/power-of-words/"/>
+    <link href="http://marcgayle.com/2010/06/03/power-of-words/"/>
     <updated>2010-06-03T15:40:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/06/03/power-of-words</id>
+    <id>http://marcgayle.com/2010/06/03/power-of-words</id>
     <content type="html"><![CDATA[<p>I recently wrote a <a href="http://www.jamaicaobserver.com/letters/Mr-Seaga--take-a-lesson-from-PJ_7665365" title="Mr. Seaga take a lesson from PJ" target="_blank">letter</a> to the editor of one of the <a href="http://www.jamaicaobserver.com" target="_blank">local newspapers</a>, here in Jamaica.</p>
 
 

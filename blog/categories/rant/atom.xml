@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: rant | The Blog of Marc Gayle]]></title>
-  <link href="http://www.marcgayle.com/blog/categories/rant/atom.xml" rel="self"/>
-  <link href="http://www.marcgayle.com/"/>
-  <updated>2013-09-21T06:03:41-05:00</updated>
-  <id>http://www.marcgayle.com/</id>
+  <link href="http://marcgayle.com/blog/categories/rant/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-09-21T06:06:13-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fail early, fail fast explained]]></title>
-    <link href="http://www.marcgayle.com/2010/06/03/fail-early-fail-fast-explained/"/>
+    <link href="http://marcgayle.com/2010/06/03/fail-early-fail-fast-explained/"/>
     <updated>2010-06-03T23:41:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/06/03/fail-early-fail-fast-explained</id>
+    <id>http://marcgayle.com/2010/06/03/fail-early-fail-fast-explained</id>
     <content type="html"><![CDATA[<p>Many people misunderstand the true meaning behind 'fail early, fail fast'. The most 'high-profile' of which is <a href="http://37signals.com/svn/posts/1643-failure-is-overrated-a-redux" title="Failure is overated" target="_blank">Jason Fried</a> and our friends at <a href="http://37signals.com/svn/posts/2059-podcast-episode-4-jason-frieds-speech-at-big-omaha-2009" title="37 Signals Podcast discussing fail early fail often" target="_blank">37Signals</a>.</p>
 
 
@@ -55,14 +55,14 @@
   
   <entry>
     <title type="html"><![CDATA[Stop bashing MBAs!]]></title>
-    <link href="http://www.marcgayle.com/2010/05/12/stop-bashing-mbas/"/>
+    <link href="http://marcgayle.com/2010/05/12/stop-bashing-mbas/"/>
     <updated>2010-05-12T02:26:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/05/12/stop-bashing-mbas</id>
+    <id>http://marcgayle.com/2010/05/12/stop-bashing-mbas</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Stop-bashing-mbas" height="353" src="http://www.marcgayle.com/images/2010/05/12/stop-bashing-mbas/16961044-stop-bashing-mbas.jpg" width="500">
+<img alt="Stop-bashing-mbas" height="353" src="http://marcgayle.com/images/2010/05/12/stop-bashing-mbas/16961044-stop-bashing-mbas.jpg" width="500">
 </div>
 
 
@@ -117,9 +117,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Hate Adobe [PIC]]]></title>
-    <link href="http://www.marcgayle.com/2010/04/21/why-i-hate-adobe/"/>
+    <link href="http://marcgayle.com/2010/04/21/why-i-hate-adobe/"/>
     <updated>2010-04-21T02:12:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/04/21/why-i-hate-adobe</id>
+    <id>http://marcgayle.com/2010/04/21/why-i-hate-adobe</id>
     <content type="html"><![CDATA[<p>Ok…hate is such a strong word. I don’t exactly hate them…I don’t hate anyone actually (not that I can think of ). However, the image below illustrates why they have fallen from grace, and shows what is fundamental wrong with them.</p>
 
 
@@ -130,7 +130,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Adobe_sucks" height="375" src="http://www.marcgayle.com/images/2010/04/21/why-i-hate-adobe/16963761-adobe_sucks.jpg" width="500">
+<img alt="Adobe_sucks" height="375" src="http://marcgayle.com/images/2010/04/21/why-i-hate-adobe/16963761-adobe_sucks.jpg" width="500">
 </div>
 
 

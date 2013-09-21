@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Startup | The Blog of Marc Gayle]]></title>
-  <link href="http://www.marcgayle.com/blog/categories/startup/atom.xml" rel="self"/>
-  <link href="http://www.marcgayle.com/"/>
-  <updated>2013-09-21T06:03:41-05:00</updated>
-  <id>http://www.marcgayle.com/</id>
+  <link href="http://marcgayle.com/blog/categories/startup/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2013-09-21T06:06:13-05:00</updated>
+  <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
     <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A notepad in HTML & CSS only]]></title>
-    <link href="http://www.marcgayle.com/2010/09/27/a-notepad-in-html-css-only/"/>
+    <link href="http://marcgayle.com/2010/09/27/a-notepad-in-html-css-only/"/>
     <updated>2010-09-27T18:19:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/09/27/a-notepad-in-html-css-only</id>
+    <id>http://marcgayle.com/2010/09/27/a-notepad-in-html-css-only</id>
     <content type="html"><![CDATA[<p>Ever wanted to have a nice, clean looking notepad – that scales with the amount of elements you need to write on it – in HTML &amp; CSS? So did I for the <a href="http://compversions.com/" title="CompVersions - Compare multiple=" target="_blank" style="color: #5f5f5f;">startup</a> I am working on. Could I find anything? Nope. So, I made one. It’s nothing fancy, and should look pretty close to this:</p>
 
 
@@ -25,7 +25,7 @@
 
 
 <div class="p_embed p_image_embed">
-<img alt="Notepad" height="493" src="http://www.marcgayle.com/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
+<img alt="Notepad" height="493" src="http://marcgayle.com/images/2010/09/27/a-notepad-in-html-css-only/16960498-notepad.png" width="423">
 </div>
 
 
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[Fail early, fail fast explained]]></title>
-    <link href="http://www.marcgayle.com/2010/06/03/fail-early-fail-fast-explained/"/>
+    <link href="http://marcgayle.com/2010/06/03/fail-early-fail-fast-explained/"/>
     <updated>2010-06-03T23:41:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/06/03/fail-early-fail-fast-explained</id>
+    <id>http://marcgayle.com/2010/06/03/fail-early-fail-fast-explained</id>
     <content type="html"><![CDATA[<p>Many people misunderstand the true meaning behind 'fail early, fail fast'. The most 'high-profile' of which is <a href="http://37signals.com/svn/posts/1643-failure-is-overrated-a-redux" title="Failure is overated" target="_blank">Jason Fried</a> and our friends at <a href="http://37signals.com/svn/posts/2059-podcast-episode-4-jason-frieds-speech-at-big-omaha-2009" title="37 Signals Podcast discussing fail early fail often" target="_blank">37Signals</a>.</p>
 
 
@@ -87,9 +87,9 @@
   
   <entry>
     <title type="html"><![CDATA[An open letter to Alexis Ohanian (Reddit co-founder)]]></title>
-    <link href="http://www.marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder/"/>
+    <link href="http://marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder/"/>
     <updated>2010-05-28T19:58:05-05:00</updated>
-    <id>http://www.marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder</id>
+    <id>http://marcgayle.com/2010/05/28/an-open-letter-to-alexis-ohanian-reddit-cofounder</id>
     <content type="html"><![CDATA[<p>Alexis your <a href="http://alexisohanian.com/an-open-letter-to-kevin-rose" title="An open letter to Kevin Rose from Alexis Ohanian" target="_blank">recent blog post to Kevin Rose re: Digg</a> struck a wrong chord with me. For those not familiar with what he is talking about, a <a href="http://techcrunch.com/2010/05/28/exclusive-video-and-screenshots-of-digg-version-4/" title="Sneak Peak at Digg Version 4" target="_blank">new video giving details about upcoming changes for Digg version 4</a> was released today.<p></p>
 I can see how on the surface these changes look like a clone of other more popular features, but I suspect you might be mis-interpreting what's happening here.<p></p>
 Yes, many of the features look and feel like competitors. But so does the iPod. It plays mp3s? Yuck! So does Rhapsody's player, why would I want one from Apple. So does a Mercedes/BMW, it has wheels + an engine.<p></p>
@@ -123,9 +123,9 @@ Maybe I am biased, because I am one of those that submit stories that stall or g
   
   <entry>
     <title type="html"><![CDATA[Difference between PR, Marketing, Advertising & Branding [Infographic]]]></title>
-    <link href="http://www.marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding/"/>
+    <link href="http://marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding/"/>
     <updated>2010-04-29T06:00:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding</id>
+    <id>http://marcgayle.com/2010/04/29/difference-between-pr-marketing-advertising-branding</id>
     <content type="html"><![CDATA[<p><span style="font-family: Palatino, Georgia, Baskerville, serif; font-size: 14px; color: #666666; line-height: 18px;"><a href="http://9gag.com/" title="9GAG" target="_blank" style="color: #5f5f5f;">9gag.com</a> has recently put out a <a href="http://m.9gag.com/gag/21260" title="Difference between PR, Marketing, Advertising &amp; Branding" target="_blank" style="color: #5f5f5f;">nice infographic that illustrates</a>, pretty nicely, the differences between Public Relations, Marketing, Advertising and Branding.</span></p>
 
 
@@ -133,7 +133,7 @@ Maybe I am biased, because I am one of those that submit stories that stall or g
 
 
 <div class="p_embed p_image_embed">
-<img alt="Diff-between-pr-mktg" height="900" src="http://www.marcgayle.com/images/2010/04/29/difference-between-pr-marketing-advertising-branding/16961323-diff-between-PR-mktg.jpg" width="300">
+<img alt="Diff-between-pr-mktg" height="900" src="http://marcgayle.com/images/2010/04/29/difference-between-pr-marketing-advertising-branding/16961323-diff-between-PR-mktg.jpg" width="300">
 </div>
 
 ]]></content>
@@ -141,14 +141,14 @@ Maybe I am biased, because I am one of those that submit stories that stall or g
   
   <entry>
     <title type="html"><![CDATA[App Idea for the iPhone/iPod Touch/iPad]]></title>
-    <link href="http://www.marcgayle.com/2010/04/23/iphone-and-ipad-app-idea/"/>
+    <link href="http://marcgayle.com/2010/04/23/iphone-and-ipad-app-idea/"/>
     <updated>2010-04-23T17:13:00-05:00</updated>
-    <id>http://www.marcgayle.com/2010/04/23/iphone-and-ipad-app-idea</id>
+    <id>http://marcgayle.com/2010/04/23/iphone-and-ipad-app-idea</id>
     <content type="html"><![CDATA[<p></p>
 
 
 <div class="p_embed p_image_embed">
-<img alt="Scratch__win_app_idea" height="375" src="http://www.marcgayle.com/images/2010/04/23/iphone-and-ipad-app-idea/scratch__win_app_idea.jpg" width="500">
+<img alt="Scratch__win_app_idea" height="375" src="http://marcgayle.com/images/2010/04/23/iphone-and-ipad-app-idea/scratch__win_app_idea.jpg" width="500">
 </div>
 
 
