@@ -52,4 +52,10 @@ If you have any issues with styling, then you may need to play around with some 
 
 You can always just look at <a href="https://github.com/marcamillion/5KMVP/tree/source/source">my entire source to see what I did</a>.
 
+Most other setup & deployment instructions apply and work fine (including remembering to include a CNAME file for your custom domain). 
+
+Whenever you want to change one of the static sites - i.e. a non-octopress file - then edit/update it locally and use `rake deploy` when you are done (as opposed to a `git push` like you would for a normal non-static site hosted on `gh-pages`).
+
+Remember to backup your entire repo to a `source` or `master` branch or some other branch, so you can always revert to it if you mess stuff up. 
+
 Good luck and I hope this saves some poor soul from spending weeks trying to figure this out.
