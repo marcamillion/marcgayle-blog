@@ -4,7 +4,7 @@
   <title><![CDATA[The Blog of Marc Gayle]]></title>
   <link href="http://marcgayle.com/atom.xml" rel="self"/>
   <link href="http://marcgayle.com/"/>
-  <updated>2013-09-21T06:05:35-05:00</updated>
+  <updated>2013-10-02T20:27:58-05:00</updated>
   <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why currently listed JJSE firms should look forward to an increased tax rate]]></title>
+    <link href="http://marcgayle.com/2013/10/02/why-currently-listed-jjse-firms-should-look-forward-to-an-increased-tax-rate/"/>
+    <updated>2013-10-02T19:04:00-05:00</updated>
+    <id>http://marcgayle.com/2013/10/02/why-currently-listed-jjse-firms-should-look-forward-to-an-increased-tax-rate</id>
+    <content type="html"><![CDATA[<p>I think it is safe to agree that the 10-year tax incentives for companies that list on the Junior Stock Exchange has been a real incentive. Policymakers did a good job of coming up with a package that is enticing to small businesses that need growth capital.</p>
+
+<p>With the many successful listings we have seen to date, it can be deemed a roaring success.</p>
+
+<p>The issue now is that in this current economic environment, one of the pre-requisites for successfully completing the IMF deal is an Omnibus Tax Incentive Bill, which in the current form will in effect eliminate the tax holiday that junior stock exchange firms enjoy for the first 10 years after they have listed (5 years of no tax, 5 years of half tax).</p>
+
+<p>As can be expected, there <a href="http://jamaica-gleaner.com/gleaner/20131002/lead/lead2.html">has been push back</a>.</p>
+
+<p>The problem is that policymakers and bureacrats can&#8217;t be trusted to manage the fiscal affairs of this country properly. <a href="http://jamaica-gleaner.com/gleaner/20131002/lead/lead3.html">Every Tom, Dick and Harry will want a waiver</a> - and there is no sign that they have enough backbone to say no. So, the solution that the IMF is insisting is a flat tax rate across the board, and no incentives, no waivers, no exceptions.</p>
+
+<p>So let us examine the rationality behind why it makes sense for firms that are currently enjoying the tax breaks to give it up.</p>
+
+<p>We have to make a few assumptions:</p>
+
+<ol>
+<li>Let us start with the &#8220;worst case&#8221; - a firm that lists the day before the bill is made law, therefore they get $0 in tax benefits.</li>
+<li>The firm has significant growth prospects, otherwise they wouldn&#8217;t need growth equity capital.</li>
+<li>The management is not interested in just sucking cash from the company in the early years, but wants to grow the company.</li>
+<li>The firm will eventually migrate to the JSE and be a major player in the private sector.</li>
+</ol>
+
+
+<h4>Sample Scenario before Omnibus Bill</h4>
+
+<ul>
+<li>Revenue before listing was $50M JMD/year.</li>
+<li>At the end of the 10-year period, the firm is 10X bigger (i.e. $500M/year revenue - inflation adjusted) than when it started</li>
+<li>The firm is still growing at a reasonable 20%/year</li>
+<li>The firm has a net profit margin of 15%.</li>
+<li>Corporate Tax Rate: 25%</li>
+<li>Taxes paid: $0 for 10-years - due to the wavers.</li>
+</ul>
+
+
+<p><strong>For the 10-year period after the incentives expire, their Total Tax Bill will be roughly: $584M JMD.</strong></p>
+
+<h4>Sample Scenario after Omnibus Bill</h4>
+
+<ul>
+<li>The same assumptions for the firm&#8217;s performance</li>
+<li>Corporate Tax Rate: 15% (down from 25%)</li>
+</ul>
+
+
+<p><strong>For the 10-year period after the incentives would have expired, their Total Tax Bill will be roughly: $350.44M JMD.</strong></p>
+
+<p><strong>For a total tax savings of: $233.68M JMD.</strong></p>
+
+<p>The beautiful thing about the latter scenario is this tax rate should (in theory) stay that rate forever - so the longer it stays that low is the more the benefits compound over the long term. If you assume the average life of a listed company in Jamaica - Life of Jamaica, Broilers, etc. - the tax savings over the long term, in aggregate, will likely be huge (assuming that future governments can resist the urge to raise the rate).</p>
+
+<p>Another good thing that removing the tax incentive does is that it will encourage the JJSE listed firms to reinvest all/most of their profits back into the company - rather than taking it out and paying taxes on it. That will likely increase their growth rate, and increase the tax savings when they eventually start to declare a profit and pay taxes on that profit.</p>
+
+<p>I have done up a <a href="https://docs.google.com/spreadsheet/ccc?key=0AkGHMze3eESxdHotQzhhc0FPNThHZjFqWTNFTnlKT3c&usp=sharing">basic spreadsheet with these scenarios that you can play with</a>.</p>
+
+<p>So in reality, by removing the tax incentive - and encouraging growing companies to keep reinvesting in growth that is actually a better outcome for the long-term health of the economy, and for the shareholders of the company as these numbers show. A lower tax rate is also beneficial to smaller companies before they get to the JJSE stage, so it increases the likelihood that there will be more listings.</p>
+
+<h4>Caveats</h4>
+
+<p>Naturally a lot of the benefits depend on the final corporate tax rate. If it is even lower than 15%, say 12.5% then the case looks even more compelling.</p>
+
+<p>It also depends on the self-restraint of future policymakers to not try and raise the low rate and eradicate all the gains.</p>
+
+<p>Depending on how the bill is written - and implemented, it has the potential be a win-win for all involved including those currently paying 0% corporate tax rate.</p>
+
+<p><em>Thanks to <a href="http://gordonswaby.com">Gordon Swaby</a> for inspiring this post with a FB post today, and for proof-reading it.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Deploying octopress blog to an existing gh-pages static site]]></title>
@@ -702,33 +775,6 @@ blog_index_dir  = 'source/blog'    # directory for your blog's index page (if yo
 <div>Thanks.</div>
 <p></p>
 <div><em>P.S. You should follow me on <a href="http://www.twitter.com/marcgayle">Twitter here</a>.</em></div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Regulation can create moral hazard]]></title>
-    <link href="http://marcgayle.com/2011/05/20/regulation-can-create-moral-hazard/"/>
-    <updated>2011-05-20T14:20:00-05:00</updated>
-    <id>http://marcgayle.com/2011/05/20/regulation-can-create-moral-hazard</id>
-    <content type="html"><![CDATA[<div>There has been <a href="http://marcgayle.com/2009/03/24/moral-hazard-vs-systemic-risk-1">much</a> <a href="http://marcgayle.com/moral-hazard-at-the-central-bank-level">talk</a> about bailouts causing moral hazard over the last 2+ years. In an attempt to counteract the notion that when you get &#8216;too big to fail&#8217;, you will be bailed out, policy makers and regulators have been hard at work at <a href="http://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act">new reforms</a> to <a href="http://en.wikipedia.org/wiki/Basel_III">ensure the crisis</a> never happens again.</div>
-<p></p>
-<div>However, the Economist just pointed out something that blew my mind (because I never thought about it before) and figured I would share it. Here is the passage:</div>
-<p></p>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: #cccccc; border-left-style: solid; padding-left: 1ex;"><span style="color: #333333; font-family: Verdana, Arial, sans-serif; font-size: 13px; line-height: 20px;">Besides, the regulators’ reluctance to second-guess bank executives was well founded, because it can take them onto dangerous ground. If regulators underwrite certain strategies that seem safe, such as lending to small businesses or helping people buy houses, they may encourage banks to crowd into those lines of business. That can drive down interest rates and lending standards and push up asset prices. If enough banks pile into these markets, downturns in them can affect not just a few banks but the whole system. <strong>Paradoxically, the very act of signalling that a market is safe can make it dangerous. It also introduces a form of moral hazard, because banks and their creditors may assume that the government would be duty-bound to bail them out if a closely monitored institution were to fail.</strong></span></blockquote>
-<p></p>
-<div>Source: <a href="http://www.economist.com/node/18654608">http://www.economist.com/node/18654608</a> </div>
-<p></p>
-<div>I added the emphasis.</div>
-<p></p>
-<div>Talk about damned if you do, damned if you don&#8217;t. Thank God I am not a regulator, because this type of paradox is just ridiculous. </div>
-<p></p>
-<div>The most common suggestion for getting rid of moral hazard has been to &#8216;break up the big banks&#8217;&#8230;..but with this new consideration, even if you break up a big bank into 3 smaller banks and all those banks crowd into a line of business deemed &#8216;safe&#8217; by the regulators, that creates the same problem highlighted above.</div>
-<p></p>
-<div>So what is the answer ?</div>
-<p></p>
-<div>If anyone has any thoughts, I would love to hear it.</div>
-<p></p>
-<p><br><em>P.S. You can follow me on twitter <a href="http://twitter.com/marcgayle">here</a>.</em></p>
 ]]></content>
   </entry>
   
