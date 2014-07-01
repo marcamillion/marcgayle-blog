@@ -4,7 +4,7 @@
   <title><![CDATA[The Blog of Marc Gayle]]></title>
   <link href="http://marcgayle.com/atom.xml" rel="self"/>
   <link href="http://marcgayle.com/"/>
-  <updated>2014-04-20T22:07:05-05:00</updated>
+  <updated>2014-06-30T19:26:51-05:00</updated>
   <id>http://marcgayle.com/</id>
   <author>
     <name><![CDATA[Marc Gayle]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Banning VOIP calls can kill innovation]]></title>
+    <link href="http://marcgayle.com/2014/06/30/banning-voip-calls-can-kill-innovation/"/>
+    <updated>2014-06-30T19:01:00-05:00</updated>
+    <id>http://marcgayle.com/2014/06/30/banning-voip-calls-can-kill-innovation</id>
+    <content type="html"><![CDATA[<p>The recent articles &amp; discussions about the moves of LIME &amp; Digicel to block all VOIP traffic on their network is disturbing for a number of reasons. The two biggest reasons are that it stifles consumer choice and creates larger hurdles for budding entrepreneurs (aka kills innovation).</p>
+
+<p>For those not familiar with the way this works, what Digicel &amp; LIME have done is said&#8230;you pay me $X per month for access to the internet. Then they go to the services that you use most - YouTube, WhatsApp, Skype, Viber, Facebook, Netflix and any other popular services - and begin charging them for YOU to be able to access their site/service in a reliable way. If those services don’t pay them, you - as a consumer - have wasted your money. In other words, they “double dip” - by getting paid on both ends.</p>
+
+<p>This creates a two-tiered internet, where the companies with the most money get the “fast lane” and the smaller upstarts that don’t have a large warchest of cash get the “slow lane”. Let us bring this discussion home to discuss relevant examples. As a co-founder of <a href="http://10poundpledge.com">10 Pound Pledge</a> - where our customers pay us for an <a href="http://10poundpledge.com">in-home workout &amp; nutrition guide where they can lose 10 pounds in 5 weeks</a> - if our customer base continues to grow at the rate it has been since the launch a few weeks ago, within a short period of time there will be a non-trivial amount of Digicel &amp; LIME subscribers potentially streaming our videos on their phones, tablets or computers. This action by Digicel &amp; LIME today is a warning that they will come to us - a small technology &amp; fitness startup built in Jamaica by Jamaicans - and start to demand payment. If we don’t pay them, then our customers get a bad streaming experience? That prospect is quite frightening and gives us pause.</p>
+
+<p>We are not alone. This could happen to any of our friends across the local technology landscape. A good friend of mine, Gordon Swaby the founder of <a href="http://edufocal.com">EduFocal</a>, also has been doing a tremendous job growing usage on EduFocal and will eventually be getting into video. Imagine when students from all across Jamaica are improving their test scores &amp; academic performance by learning through EduFocal on their Digicel &amp; LIME devices and Digicel &amp; LIME turn to Gordon and ask him for payment.</p>
+
+<p>This policy is in effect anti-growth. As you succeed, you get taxed by these large telecoms. That has the potential to be innovation &amp; growth killing.</p>
+
+<p>10 Pound Pledge &amp; EduFocal are just two obvious examples. The same could be said for <a href="http://agrocentral.co">AgroCentral</a> - run by my friend Jermaine Henry - the up and coming clearing house for prices of fresh produce. In my humble opinion, this has the potential to change how we buy fresh produce in Jamaica. Yet&#8230;they are just getting started and should they become as successful as we all want them to, they now have to worry about being taxed by two of the largest telecom providers in Jamaica?</p>
+
+<p><strong>Slippery Slope &amp; Future Implications</strong></p>
+
+<p>This is a very slippery slope and what is to stop these telecoms from going even further. If they get away with this, then what happens if they decide to launch a music service. Immediately, all music streaming services and radio stations - Zip 103, FameFM, Fyah 105, Jamaicans Music, iTunes, Spotify, SoundCloud and any future aspiring music tech entrepreneur to name just a few - have to start making a payment to the telcos. Think this is far-fetched? I am sure I am not the only one that has been getting SMS messages from Digicel about Loop - the recently launched news company that they seem to be pushing. Will OGNR, The Gleaner, The Observer and others have to start paying Digicel to get “fast lane access” too?</p>
+
+<p>This is a familiar struggle that many countries seem to be dealing with. It seems that many telecoms and media companies can’t resist the urge to double dip. The OUR did a wonderful job introducing competition into the telecoms industry by granting the licenses to the telecoms over the last few decades. It is important for the growth of our economy - to preserve consumer choice and not deter much needed innovation - that they not allow these innovation killing, consumer restricting policies to take hold.</p>
+
+<p>We sympathize with the plight of the telecom companies with WhatsApp recently announcing that they will be rolling out voice call features, and the impact that may have on their voice revenue - but using a sledgehammer to block all VOIP traffic and selectively giving the highest bidders the fastest lanes on the network can’t possibly be the solution.</p>
+
+<p>Today it is VOIP from some services. What is the next stop? Where does it end?</p>
+
+<p>It needs to stop right now. End right here.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We are all equally to blame for the banking tax]]></title>
@@ -739,44 +770,6 @@ blog_index_dir  = 'source/blog'    # directory for your blog's index page (if yo
 <div>Obviously, I know there are political consequences to making a move like this and other repercussions, but if America&#8217;s leaders were honest enough about this solution they would start having this debate and figuring out how to solve it properly. This solution would also have to be done in tandem with other things like raising the retirement age, migrating from Defined Benefits to Defined Contribution, etc. But, by far, this solution would take care of the major driver of the problem - that more people are retiring than entering the workforce. </div> <p></p>
 <div>It really is that simple.</div>
 <br><i>You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>. </i>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Legal System in America is Broken]]></title>
-    <link href="http://marcgayle.com/2011/08/02/the-legal-system-in-america-is-broken/"/>
-    <updated>2011-08-02T02:52:51-05:00</updated>
-    <id>http://marcgayle.com/2011/08/02/the-legal-system-in-america-is-broken</id>
-    <content type="html"><![CDATA[<div>There is something badly broken.</div>
-<p></p>
-<div>The US Congress - House of Representatives - have just passed, by a good margin (269 - 161), a bill that would <a href="http://online.wsj.com/article/SB10001424053111903520204576482040633224656.html?mod=WSJ_Home_largeHeadline">raise the debt ceiling</a>.</div> <p></p>
-<div>That&#8217;s not the part that is &#8216;broken&#8217; - although, that is up for debate.</div>
-<p></p>
-<div>However, this excerpt from the Wallstreet Journal article about the bill really struck me as odd:</div> <p></p>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> As leaders on both sides worked to sell the package to their members, they disagreed over whether it allows for tax increases.</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
-</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> &#8220;I think the big win here for us and for the American people is the fact that there are no tax hikes in this package,&#8221; said House Majority Leader Eric Cantor (R., Va.).</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
-</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> Democrats disagreed.</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
-</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> &#8220;We&#8217;ve had our lawyers go over this very carefully,&#8221; Sen. Kent Conrad (D., N.D.) said on MSNBC. &#8220;It is really very clear that [new] revenue can be part of any solution that the special committee develops.&#8221;</blockquote> <blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
-</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> While the agreement does suggest that the deficit-cutting committee could propose increasing taxes, it would face multiple barriers to doing so.</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> <br>
-</blockquote>
-<blockquote class="gmail_quote" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-style: solid; padding-left: 1ex;"> One is that the committee is using Congressional Budget Office projections that assume revenue will rise with the expiration of the Bush-era tax rates and current middle-class relief from the Alternative Minimum Tax. In effect, the panel would have to look for additional tax increases to achieve any deficit reduction, which could prove politically difficult.</blockquote> </blockquote>
-<p></p>
-<div>So&#8230;let me get this straight. The lawyers (i.e. professionals paid to interpret laws) of the writers of this law, don&#8217;t even agree on the interpretation of this new law created by their clients - even before it is passed into law?</div> <p></p>
-<div>Uhh&#8230;am I missing something here? There has to be a better way to do this.</div>
-<p></p>
-<div>I am not so sure that having lawyers running a country, really is the best thing after all. </div>
-<p></p>
-<div>This is kinda ridiculous.</div>
-<p></p>
-<br><i>You can follow me on Twitter <a href="http://www.twitter.com/marcgayle">here</a>.</i>
 ]]></content>
   </entry>
   

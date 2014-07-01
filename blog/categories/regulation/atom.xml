@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: regulation, | The Blog of Marc Gayle]]></title>
+  <link href="http://marcgayle.com/blog/categories/regulation/atom.xml" rel="self"/>
+  <link href="http://marcgayle.com/"/>
+  <updated>2014-06-30T19:26:51-05:00</updated>
+  <id>http://marcgayle.com/</id>
+  <author>
+    <name><![CDATA[Marc Gayle]]></name>
+    <email><![CDATA[marc.gayle+blog@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Banning VOIP calls can kill innovation]]></title>
+    <link href="http://marcgayle.com/2014/06/30/banning-voip-calls-can-kill-innovation/"/>
+    <updated>2014-06-30T19:01:00-05:00</updated>
+    <id>http://marcgayle.com/2014/06/30/banning-voip-calls-can-kill-innovation</id>
+    <content type="html"><![CDATA[<p>The recent articles &amp; discussions about the moves of LIME &amp; Digicel to block all VOIP traffic on their network is disturbing for a number of reasons. The two biggest reasons are that it stifles consumer choice and creates larger hurdles for budding entrepreneurs (aka kills innovation).</p>
+
+<p>For those not familiar with the way this works, what Digicel &amp; LIME have done is said...you pay me $X per month for access to the internet. Then they go to the services that you use most - YouTube, WhatsApp, Skype, Viber, Facebook, Netflix and any other popular services - and begin charging them for YOU to be able to access their site/service in a reliable way. If those services don’t pay them, you - as a consumer - have wasted your money. In other words, they “double dip” - by getting paid on both ends.</p>
+
+<p>This creates a two-tiered internet, where the companies with the most money get the “fast lane” and the smaller upstarts that don’t have a large warchest of cash get the “slow lane”. Let us bring this discussion home to discuss relevant examples. As a co-founder of <a href="http://10poundpledge.com">10 Pound Pledge</a> - where our customers pay us for an <a href="http://10poundpledge.com">in-home workout &amp; nutrition guide where they can lose 10 pounds in 5 weeks</a> - if our customer base continues to grow at the rate it has been since the launch a few weeks ago, within a short period of time there will be a non-trivial amount of Digicel &amp; LIME subscribers potentially streaming our videos on their phones, tablets or computers. This action by Digicel &amp; LIME today is a warning that they will come to us - a small technology &amp; fitness startup built in Jamaica by Jamaicans - and start to demand payment. If we don’t pay them, then our customers get a bad streaming experience? That prospect is quite frightening and gives us pause.</p>
+
+<p>We are not alone. This could happen to any of our friends across the local technology landscape. A good friend of mine, Gordon Swaby the founder of <a href="http://edufocal.com">EduFocal</a>, also has been doing a tremendous job growing usage on EduFocal and will eventually be getting into video. Imagine when students from all across Jamaica are improving their test scores &amp; academic performance by learning through EduFocal on their Digicel &amp; LIME devices and Digicel &amp; LIME turn to Gordon and ask him for payment.</p>
+
+<p>This policy is in effect anti-growth. As you succeed, you get taxed by these large telecoms. That has the potential to be innovation &amp; growth killing.</p>
+
+<p>10 Pound Pledge &amp; EduFocal are just two obvious examples. The same could be said for <a href="http://agrocentral.co">AgroCentral</a> - run by my friend Jermaine Henry - the up and coming clearing house for prices of fresh produce. In my humble opinion, this has the potential to change how we buy fresh produce in Jamaica. Yet...they are just getting started and should they become as successful as we all want them to, they now have to worry about being taxed by two of the largest telecom providers in Jamaica?</p>
+
+<p><strong>Slippery Slope &amp; Future Implications</strong></p>
+
+<p>This is a very slippery slope and what is to stop these telecoms from going even further. If they get away with this, then what happens if they decide to launch a music service. Immediately, all music streaming services and radio stations - Zip 103, FameFM, Fyah 105, Jamaicans Music, iTunes, Spotify, SoundCloud and any future aspiring music tech entrepreneur to name just a few - have to start making a payment to the telcos. Think this is far-fetched? I am sure I am not the only one that has been getting SMS messages from Digicel about Loop - the recently launched news company that they seem to be pushing. Will OGNR, The Gleaner, The Observer and others have to start paying Digicel to get “fast lane access” too?</p>
+
+<p>This is a familiar struggle that many countries seem to be dealing with. It seems that many telecoms and media companies can’t resist the urge to double dip. The OUR did a wonderful job introducing competition into the telecoms industry by granting the licenses to the telecoms over the last few decades. It is important for the growth of our economy - to preserve consumer choice and not deter much needed innovation - that they not allow these innovation killing, consumer restricting policies to take hold.</p>
+
+<p>We sympathize with the plight of the telecom companies with WhatsApp recently announcing that they will be rolling out voice call features, and the impact that may have on their voice revenue - but using a sledgehammer to block all VOIP traffic and selectively giving the highest bidders the fastest lanes on the network can’t possibly be the solution.</p>
+
+<p>Today it is VOIP from some services. What is the next stop? Where does it end?</p>
+
+<p>It needs to stop right now. End right here.</p>
+]]></content>
+  </entry>
+  
+</feed>
